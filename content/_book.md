@@ -41,8 +41,57 @@ readingOrder:
   - evzen_onegin_028.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: evzen_onegin_007.html
+        title: HLAVA PRVNÍ
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: evzen_onegin_009.html
+        title: HLAVA DRUHÁ
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: evzen_onegin_011.html
+        title: HLAVA TŘETÍ
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: evzen_onegin_013.html
+        title: HLAVA ČTVRTÁ
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: evzen_onegin_015.html
+        title: HLAVA PÁTÁ
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: evzen_onegin_017.html
+        title: HLAVA ŠESTÁ
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: evzen_onegin_019.html
+        title: HLAVA SEDMÁ
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: evzen_onegin_021.html
+        title: HLAVA OSMÁ
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: evzen_onegin_023.html
+        title: DODATKY
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: evzen_onegin_027.html
+        title: Ediční poznámka
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

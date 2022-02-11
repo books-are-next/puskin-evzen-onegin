@@ -1,8 +1,6 @@
 ---
-title: ''
+title: PUTOVÁNÍ ONĚGINOVO
 ---
-
-## PUTOVÁNÍ ONĚGINOVO
 
 Kdo ústy světa souzen bývá,  
 ten, pochopíte, nesnáší,  
