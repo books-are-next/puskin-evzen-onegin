@@ -6,6 +6,6 @@ title: HLAVA TŘETÍ
 
 — MALFILÂTRE
 
-          __Byla dívka, byla zamilovaná.__
+          ___Byla dívka, byla zamilovaná.___
 
 — MALFILÂTRE
