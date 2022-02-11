@@ -1,8 +1,6 @@
 ---
-title: ''
+title: ONĚGINOVO ALBUM
 ---
-
-## ONĚGINOVO ALBUM
 
 Má skvěle okované rohy,  
 zlacené stříbro z obou stran,  

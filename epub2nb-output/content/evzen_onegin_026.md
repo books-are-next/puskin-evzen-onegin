@@ -1,8 +1,6 @@
 ---
-title: ''
+title: VYNECHANÉ SLOKY
 ---
-
-## VYNECHANÉ SLOKY
 
 Z HLAVY PRVNÍ
 

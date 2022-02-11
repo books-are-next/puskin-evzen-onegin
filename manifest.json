@@ -1,15 +1,15 @@
 {
   "author": "Alexandr Sergejevič Puškin",
-  "identifier": "puskin-evzen-onegin-201f421",
+  "identifier": "puskin-evzen-onegin-2c0b3b6",
   "languagecode": "cs",
   "modified": "2022-02-11T10:02:59.873Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Evžen Oněgin",
-  "revision": "201f421",
+  "revision": "2c0b3b6",
   "generatedAt": {
-    "date": "Fri Feb 11 2022 10:18:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644574695717
+    "date": "Fri Feb 11 2022 10:23:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644575017504
   },
   "documents": [
     {
@@ -473,7 +473,7 @@
       ]
     },
     {
-      "title": "Evžen Oněgin",
+      "title": "PUTOVÁNÍ ONĚGINOVO • Evžen Oněgin",
       "file": "evzen_onegin_024.html",
       "words": 2117,
       "chars": 11321,
@@ -486,22 +486,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "PUTOVÁNÍ ONĚGINOVO",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "PUTOVÁNÍ ONĚGINOVO",
-              "id": "putování-oněginovo",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Evžen Oněgin",
+      "title": "ONĚGINOVO ALBUM • Evžen Oněgin",
       "file": "evzen_onegin_025.html",
       "words": 532,
       "chars": 2809,
@@ -514,22 +506,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "ONĚGINOVO ALBUM",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "ONĚGINOVO ALBUM",
-              "id": "oněginovo-album",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Evžen Oněgin",
+      "title": "VYNECHANÉ SLOKY • Evžen Oněgin",
       "file": "evzen_onegin_026.html",
       "words": 1226,
       "chars": 6602,
@@ -542,17 +526,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "VYNECHANÉ SLOKY",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "VYNECHANÉ SLOKY",
-              "id": "vynechané-sloky",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
