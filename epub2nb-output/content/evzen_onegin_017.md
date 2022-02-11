@@ -8,7 +8,7 @@ title: HLAVA ŠESTÁ
 
 — PETRARCA
 
-> __Tam, pod mlhavými a krátkými dny  
-> se rodí kmen, pro nějž smrt není bolestí.__
+__Tam, pod mlhavými a krátkými dny  
+se rodí kmen, pro nějž smrt není bolestí.__
 
 — PETRARCA

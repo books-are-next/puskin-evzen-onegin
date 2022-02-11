@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-38c905a';
+const CACHE = 'cache-5d2cd01';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./evzen_onegin_002.html","./evzen_onegin_005.html","./evzen_onegin_006.html","./evzen_onegin_007.html","./evzen_onegin_008.html","./evzen_onegin_009.html","./evzen_onegin_010.html","./evzen_onegin_011.html","./evzen_onegin_012.html","./evzen_onegin_013.html","./evzen_onegin_014.html","./evzen_onegin_015.html","./evzen_onegin_016.html","./evzen_onegin_017.html","./evzen_onegin_018.html","./evzen_onegin_019.html","./evzen_onegin_020.html","./evzen_onegin_021.html","./evzen_onegin_022.html","./evzen_onegin_023.html","./evzen_onegin_024.html","./evzen_onegin_025.html","./evzen_onegin_026.html","./evzen_onegin_027.html","./favicon.png","./index.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./evzen_onegin_002.html","./evzen_onegin_005.html","./evzen_onegin_006.html","./evzen_onegin_007.html","./evzen_onegin_008.html","./evzen_onegin_009.html","./evzen_onegin_010.html","./evzen_onegin_011.html","./evzen_onegin_012.html","./evzen_onegin_013.html","./evzen_onegin_014.html","./evzen_onegin_015.html","./evzen_onegin_016.html","./evzen_onegin_017.html","./evzen_onegin_018.html","./evzen_onegin_019.html","./evzen_onegin_020.html","./evzen_onegin_021.html","./evzen_onegin_022.html","./evzen_onegin_023.html","./evzen_onegin_024.html","./evzen_onegin_025.html","./evzen_onegin_026.html","./evzen_onegin_027.html","./favicon.png","./index.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/LiterataTT-TextSemibold.woff2","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image002.jpg","./resources/image003.png","./resources/image001.jpg","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {
