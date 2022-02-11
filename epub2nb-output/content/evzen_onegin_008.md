@@ -2,7 +2,9 @@
 title: ''
 ---
 
-I
+### I
+
+  
 
 „Můj strýc byl mužem cti a v době,  
 kdy opravdu se roznemoh,  
@@ -19,7 +21,9 @@ a chmurně nad přípravou léků
 vzdychat a přitom myslit zas:  
 Kdy konečně tě vezme ďas?“
 
-II
+### II
+
+  
 
 Tak rozjímal hoch lehké krve,  
 když dostavník prach za ním zdvih,  
@@ -36,24 +40,28 @@ kde kmit ses, čtenáři, snad s námi!
 I já tam totiž brouzdal dřív.  
 Však sever na mne zlý má vliv.
 
-III
+### III
+
+  
 
 Svou službu jeho otec kdesi  
 táh čestně, až se zadlužil.  
 A dával rok co rok tři plesy,  
 až posléz na mizině byl.  
 Evžen, ten vždycky dobře se měl.  
-Pod křídly madame nejdřív jemněl,  
-monsieur ji potom zastoupil.  
+Pod křídly _madame_ nejdřív jemněl,  
+_monsieur_ ji potom zastoupil.  
 Hoch uličník, však milý byl.  
-Monsieur l’Abbé byl třasořitka,  
+_Monsieur l’Abbé_ byl třasořitka,  
 jen žertem k učení ho ved  
 a kárných pravd mu okoušet,  
 by neznudil ho, dával zřídka  
 a zlehka jen, jak by se bál.  
 A v Letní sad s ním chodíval.
 
-IV
+### IV
+
+  
 
 Když potom bujarého mládí  
 čas Evženovi nadešel,  
@@ -70,7 +78,9 @@ a ukláněl se elegantně.
 Svět usoudil — co více chtít? —  
 že moudrý, milý musí být.
 
-V
+### V
+
+  
 
 Učili jsme se ledabyle,  
 stačili málo poznati:  
@@ -87,14 +97,16 @@ si mlčení své v těžkém sporu.
 A nenadálý epigram  
 mu vynes mnohý úsměv dam.
 
-VI
+### VI
+
+  
 
 Teď latina je z módy právě.  
 Oněgin, abych nelhal snad,  
 ji ovládal však dosti hravě,  
 moh Juvenala citovat,  
 znal mnohé motto dokonale  
-a končil lístky slůvkem vale;  
+a končil lístky slůvkem _vale_;  
 ba, třeba při tom škobrtal,  
 dva verše z Aeneidy znal.  
 Na data z historie slavná  
@@ -104,7 +116,9 @@ Leč zato anekdoty zdávna
  od Romula po naše dni  
 mu pevně tkvěly v paměti.
 
-VII
+### VII
+
+  
 
 Vysokých vášní nesdíleje  
 pro zvuků cenu osudnou,  
@@ -121,7 +135,9 @@ se v pravý čas o prosté zboží.
 Žel, tohle otec nechápal  
 a půdu zastavoval dál.
 
-VIII
+### VIII
+
+  
 
 Nuž, není kdy na tomto místě  
 vše vykládat, co Evžen znal.  
@@ -138,11 +154,15 @@ v mhách Moldávie zakončila
 život, jenž bouře byl a ples,  
 sníc o svém Římě v dálce kdes.
 
-IX
+### IX
+
+  
 
 — — —
 
-X
+### X
+
+  
 
 Jak záhy uměl pěstovati  
 přetvářku, tajit naděje,  
@@ -159,7 +179,9 @@ Jak jeho zrak byl bystrý, sladký,
 tu plachý, smělý a pak zas  
 s ochotnou slzou v přítmí řas!
 
-XI
+### XI
+
+  
 
 Jak novým dovedl se zdáti  
 a žertem zmásti čistý cit,  
@@ -176,7 +198,9 @@ se na tajnou dát schůzku pozvat
 a dívce prostřed tišiny  
 milostné dávat hodiny!
 
-XII
+### XII
+
+  
 
 Jak záhy na srdce už líčit  
 koketek uměl vášnivých!  
@@ -193,11 +217,15 @@ ba, paroháč též majestátný,
 jenž spokojen sám se sebou  
 i s obědem a s ženou svou.
 
-XIII–XIV
+### XIII–XIV
+
+  
 
 — — —
 
-XV
+### XV
+
+  
 
 Ba, často ještě do postele  
 mu přicházejí listy v dům.  
@@ -214,7 +242,9 @@ a těká po hlučném tom světě,
 až hodinky ho k posledu  
 budíčkem vyzvou k obědu.
 
-XVI
+### XVI
+
+  
 
 Je tma, když do saní si sedl.  
 „Hej, rychleji!“ Trysk mu odpoví.  
@@ -231,7 +261,9 @@ kdo líp než Francouz pohostí? —
 a lineburský živý sýr  
 i ananasu zlatý pýr.
 
-XVII
+### XVII
+
+  
 
 Ještě si žízeň žádá vína,  
 by spláchla horké kotlety;  
@@ -248,7 +280,9 @@ a chválit baletčiny skoky,
 Moinu volat proto jen,  
 by v parteru byl uslyšen.
 
-XVIII
+### XVIII
+
+  
 
 Kouzelný kraj! Tam kdysi smělý  
 Fonvizin satirou nám vlád,  
@@ -265,7 +299,9 @@ tam i Didelot své věnce brával:
 má mladost kulis ve stínu  
 tam hledala svou otčinu.
 
-XIX
+### XIX
+
+  
 
 Mé bohyně! Jste stejné stále?  
 Zda slyšíte můj teskný hlas?  
@@ -282,7 +318,9 @@ radosti divák unuděný?
 Mám beze slova zazívat  
 a na minulost vzpomínat?
 
-XX
+### XX
+
+  
 
 Divadlo plno. Lóže svítí  
 a parter s křesly jako díž.  
@@ -299,7 +337,9 @@ se dá, jak vločka větrem vlajíc;
 a útlý stvol, mdlý, živý hned,  
 se nepřestává rozvíjet.
 
-XXI
+### XXI
+
+  
 
 Vše tleská, Evžen teprv vchází.  
 To patří k jeho zábavám.  
@@ -316,7 +356,9 @@ a zívnuv otočil se zpět:
 jsem na baletech stálý host,  
 však i Didelota mám již dost.“
 
-XXII
+### XXII
+
+  
 
 Ještě se čerty hemží scéna,  
 drak s amorky se po ní mih.  
@@ -333,7 +375,9 @@ si hřejí, pány pomlouvají;
 však Oněgin už vyšel ven.  
 Teď rychle převléci se jen!
 
-XXXIII
+### XXXIII
+
+  
 
 Zda zdaří se mi vylíčiti  
 tu místnost jenom zdaleka,  
@@ -350,7 +394,9 @@ se mění v jemnost módy vnadné,
 to vše krášlilo kabinet  
 mudrce osmnácti let.
 
-XXIV
+### XXIV
+
+  
 
 Hle, jantar cařihradských dýmek  
 a vedle bronzu porculán  
@@ -367,7 +413,9 @@ zabývat hloupou manikúrou.
 Než pravdu neměl stokráte  
 žrec práv a svobod tenkráte.
 
-XXV
+### XXV
+
+  
 
 Je možno býti vážným mužem,  
 a chtíti krásné nehty mít.  
@@ -384,7 +432,9 @@ byl nalíčen jak Afrodité,
 když, převlečena v mužský šat,  
 jde na karneval tancovat.
 
-XXVI
+### XXVI
+
+  
 
 Jen hovím vaší zvědavosti,  
 když líčím jeho módní vzhled.  
@@ -392,7 +442,7 @@ I odborníkům moh bych dosti
 o jeho šatstvu povědět.  
 Však bylo by to skoro smělé,  
 byť ve verši jsem doma cele.  
-Frak, pantalony, žilet, vím,  
+_Frak_, _pantalony_, _žilet_, vím,  
 zvát ruským slovem neumím,  
 i vidím sám, můj zvyk to zlý, žel,  
 i tak že chatrný můj sloh  
@@ -401,7 +451,9 @@ cizími slovy, i když zhlížel
 jsem se kdys občas ze zvyku  
 v Akademickém slovníku.
 
-XXVII
+### XXVII
+
+  
 
 Tož spokojme se touto troškou  
 a raděj navštívíme ples,  
@@ -418,7 +470,9 @@ Po oknech běží stíny v střehu,
 a za skly profil postav šleh  
 i dam i módních bláznů těch.
 
-XXVIII
+### XXVIII
+
+  
 
 Náš hrdina už dostih vchodu.  
 Vrátného minuv, jako šíp  
@@ -435,7 +489,9 @@ svým horké oči mužů mámí.
 Je žárem houslí ohlušen  
 žárlivý šepot módních žen.
 
-XXIX
+### XXIX
+
+  
 
 V dnech snů a veselí, toť jisto,  
 já málem bláznil z plesů těch.  
@@ -452,7 +508,9 @@ Sic potom… potom, drahé dámy!
 Jen proto svěřuji to vám,  
 že bez hříchu jsem dávno sám.
 
-XXX
+### XXX
+
+  
 
 Jak velký díl, ach, pro zábavy  
 jsem ze života poztrácel!  
@@ -469,7 +527,9 @@ tančily dlouho… Zesmutněle
 si na ně vzpomínám. I v tmě  
 znepokojují srdce mé.
 
-XXXI
+### XXXI
+
+  
 
 Kdy, kde a v jakých pustin trávě,  
 ty blázne, zapomeneš jich?  
@@ -486,7 +546,9 @@ na rodný kraj i na vězení.
 To tam je štěstí mladých let,  
 a vítr vaši šlépěj zved.
 
-XXXII
+### XXXII
+
+  
 
 Prs Dianin a tváře Flory  
 nás uchvacují, druzi mí!  
@@ -503,7 +565,9 @@ i na mřížoví krbu doma,
 na parketách, v nichž září sál,  
 i na pobřeží v žule skal.
 
-XXXIII
+### XXXIII
+
+  
 
 V snách moře před bouří zřím zase.  
 Ach, závist lomcovala mnou,  
@@ -520,7 +584,9 @@ i ňadra, jejichž tvar mě soužil!
 Ne, nikdy vášní vzruch svou hrou  
 nemučil tolik duši mou!
 
-XXXIV
+### XXXIV
+
+  
 
 I jiné časy pamatuji.  
 A někdy v nejtajnějších snech  
@@ -537,7 +603,9 @@ a za nadšených písní zdroje.
 Řeč čarodějek těch i smích  
 lže, klame jako nožky jich.
 
-XXXV
+### XXXV
+
+  
 
 Co Oněgin však? V drožce klímá,  
 po bálu o posteli sní.  
@@ -552,9 +620,11 @@ když zvedli rolety a dým
 v den stoupá sloupem modravým  
 a pekař Němec, hleďme pána,  
 v čepici papírové včas  
-už otvírá svůj vasisdas.
+už otvírá svůj _vasisdas_.
 
-XXXVI
+### XXXVI
+
+  
 
 Ples znavil Oněgina. Spánek  
 mu jitro v půlnoc změnil dnes.  
@@ -571,7 +641,9 @@ u číše dní svých vrchovaté?
 V tom marném běhu do zábav  
 zda zůstal bezstarostný, zdráv?
 
-XXXVII
+### XXXVII
+
+  
 
 Ne: brzo ustydly v něm city  
 a omrzel ho světa šum.  
@@ -588,12 +660,14 @@ A třeba za zbojníka platil,
 i hádek syt byl nakonec,  
 i olova i šavle přec.
 
-XXXVIII
+### XXXVIII
+
+  
 
 Ten neduh, jehož příčin minu,  
 ač rozbor by byl načase,  
-podobný anglickému spleenu,  
-jenž rusky chandra říká se,  
+podobný anglickému _spleenu_,  
+jenž rusky _chandra_ říká se,  
 ho ponenáhlu zachvacoval.  
 Sebevraždu, té nemiloval,  
 a sláva Bohu, nezkusil,  
@@ -605,11 +679,15 @@ vzdech náročný a pohled milý
 ho vzrušovat už neuměl.  
 A lhostejný, dál mimo šel.
 
-XXXIX–XL–XLI
+### XXXIX–XL–XLI
+
+  
 
 — — —
 
-XLII
+### XLII
+
+  
 
 Vy preciosky společnosti!  
 Vás ze všech nejdřív zanechal.  
@@ -626,7 +704,9 @@ nad tolikerou rozšafností,
 tak nepřístupnou mužům všem,  
 že rodí splín už pohledem.
 
-XLIII
+### XLIII
+
+  
 
 I vám, ó krasotinky slavné,  
 jež v pozdních chvílích setmění  
@@ -643,7 +723,9 @@ I minul se se zpupnou cháskou
 lidiček, o nichž smlčím vám,  
 vždyť náležím k nim také sám.
 
-XLIV
+### XLIV
+
+  
 
 Propadnuv znova nečinnosti,  
 v níž prázdnem zalykal se cit,  
@@ -660,7 +742,9 @@ Jak ženy opustil i knihy
 a přes hřbety, v něž padal prach,  
 smuteční přehoz moudře stáh.
 
-XLV
+### XLV
+
+  
 
 Konvencí světa zbyv se v sobě,  
 jak on zanechav marností,  
@@ -677,7 +761,9 @@ a oba táž čekala zloba:
 lidí i sudby slepota  
 hned na úsvitu života.
 
-XLVI
+### XLVI
+
+  
 
 Kdo žil a myslil, tomu snadno  
 pohrdat lidmi v nitru svém.  
@@ -694,7 +780,9 @@ i jízlivosti jeho sporů
 i žertům jeho nakyslým  
 i jeho epigramům zlým.
 
-XLVII
+### XLVII
+
+  
 
 Jak často za to léto krásné,  
 kdy noční nebe nad Něvou  
@@ -711,7 +799,9 @@ přenáší spánek vězně spící,
 i nás ke zdrojům mladých let  
 svou rukou blouznivý sen ved.
 
-XLVIII
+### XLVIII
+
+  
 
 Z té duše v žal se potápěje  
 a opřen o žulový rám,  
@@ -728,7 +818,9 @@ intráda rohů, píseň smělá.
 Však sladčej prostřed zábavy  
 zní Torquatovy oktávy.
 
-XLIX
+### XLIX
+
+  
 
 Ó, adriatické vy vlny,  
 ó, Brento! Ne, přec uzřím vás,  
@@ -745,7 +837,9 @@ jež v tichu samo tajemství je,
 já slova nalézám, jež dmou  
 se řečí lásky s Petrarkou.
 
-L
+### L
+
+  
 
 Což, dočkám svobody se ještě?  
 Té v dálce, jež tak krásná je?  
@@ -762,7 +856,9 @@ o mračné Rusi teskně sníti,
 kde strádal jsem, kde miloval,  
 kde srdce své jsem pochoval.
 
-LI
+### LI
+
+  
 
 Oněgin záhy by byl se mnou  
 se rozjel z vlasti do světa.  
@@ -779,7 +875,9 @@ nevida valné ztráty věru.
 Snad tušil též smrt strýcovu.  
 Vždyť stařík zrál už do hrobu.
 
-LII
+### LII
+
+  
 
 A vskutku — jak vše život složí!  
 List od správce tu náhle byl:  
@@ -796,7 +894,9 @@ když dorazil však do vesnice,
 strýc ležel mrtev: zemská dlaň  
 už čekala na svoji daň.
 
-LIII
+### LIII
+
+  
 
 Po dvoře pobíhali sluzi.  
 A k nebožtíku ze všech stran  
@@ -813,7 +913,9 @@ měl pole, závody, les chladný
 a rybníky, a cestou v sad  
 si liboval své sudby zvrat.
 
-LIV
+### LIV
+
+  
 
 Tak na dva dni ho upoutaly  
 v dál táhnoucí se lány luk,  
@@ -830,7 +932,9 @@ A chandra sáhla po něm zase
 a táhla za ním jako stín,  
 jak věrný pohled manželčin.
 
-LV
+### LV
+
+  
 
 Já zrodil se pro život klidný,  
 jenž v ticho vsí spí ponořen.  
@@ -838,7 +942,7 @@ Tam zvučněj zní hlas lyry vlídný,
 tam živěji plá tvůrčí sen.  
 Tam, dobré nečinnosti oddán,  
 nad pustým jezerem se toulám,  
-můj zákon far niente zní.  
+můj zákon _far niente_ zní.  
 Tam, duše má, najdeme vždy  
 svou svobodu a sladkou něhu:  
 čtu málo, zato mnoho spím,  
@@ -847,7 +951,9 @@ Cožpak jsem v zašlých roků běhu
 v své nečinnosti naivní  
 neprožil nejšťastnější dni?
 
-LVI
+### LVI
+
+  
 
 Mne květy, láska v háji stinném  
 a ves a klid vždy vábily.  
@@ -864,7 +970,9 @@ jako by básník nemoh snovat
 verš o pracizí podobě  
 a nepsat jenom o sobě.
 
-LVII
+### LVII
+
+  
 
 Jen krátce. Básník odjakživa  
 se stápí v lásky iluzích.  
@@ -881,7 +989,9 @@ se právem přátel ptáte mě:
 Které z těch dívek žárlivých  
 věnuješ lyry pláč a smích?
 
-LVIII
+### LVIII
+
+  
 
 Čí pohled, jenž tě inspiroval,  
 tě za tvůj zádumčivý rým  
@@ -898,7 +1008,9 @@ i muka srdce upokojil
 a slávou též se ověnčil.  
 Já v lásce němý hňup však byl.
 
-LIX
+### LIX
+
+  
 
 Pryč láska je. Leč slyším Múzu,  
 jež sklonila se k vyschlým rtům.  
@@ -915,7 +1027,9 @@ den stopy bouře z duše štvané.
 Pak s eposem svým začnu hned.  
 Bude mít zpěvů dvacet pět.
 
-LX
+### LX
+
+  
 
 Už promýšlel jsem formu plánu,  
 už hrdina mnou pokřtěn byl.  

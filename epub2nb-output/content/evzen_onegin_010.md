@@ -2,7 +2,9 @@
 title: ''
 ---
 
-I
+### I
+
+  
 
 Ves, na níž Oněgin mřel nudou,  
 je z oněch koutů plných krás,  
@@ -19,7 +21,9 @@ a v hustých klenutích svých dole
 se rozšuměl kout zahrady  
 pro zádumčivé dryády.
 
-II
+### II
+
+  
 
 Ctihodný zámek vybudován  
 byl v přesném slohu vzorů svých,  
@@ -36,7 +40,9 @@ se o to staral strašně málo
 a zíval, unuděný brach,  
 v starých i v módních komnatách.
 
-III
+### III
+
+  
 
 Sám pro pokoj se rozhod, dí mi,  
 kde starý morous před ním žil,  
@@ -53,7 +59,9 @@ i kalendář tu zplesnivělý.
 Na jiné knihy stařec prý  
 v své práci neměl chuť a kdy.
 
-IV
+### IV
+
+  
 
 Oněgin, sám v zámeckém chladu,  
 jen aby čas mu ušel líp,  
@@ -70,7 +78,9 @@ Druhý jen rty k úsměšku zvedá
 a kdečí nářek stejný je:  
 Ten blázen nebezpečný je.
 
-V
+### V
+
+  
 
 Návštěvy hrnuly se sice  
 v dnech prvních za Oněginem.  
@@ -84,10 +94,12 @@ už nikdy nepřijeli pak.
 „potrhlý zednář. Pije jen  
 červené víno celý den!  
 A dámám líbat nechce ruce.  
-Jen ne dí, nikdy prosím ne,“  
+Jen _ne_ dí, nikdy _prosím_ _ne_,“  
 ho pomlouvali společně.
 
-VI
+### VI
+
+  
 
 V svou ves se uchýlil v té době  
 i jiný statkář, by tu žil.  
@@ -104,7 +116,9 @@ duch vášnivý, jenž ve snu žije
 a nadšeně vždy uvěří,  
 mávaje černou kadeří.
 
-VII
+### VII
+
+  
 
 Svět chladný s rozvratem svých mravů  
 mu duši ještě nezmrazil.  
@@ -121,7 +135,9 @@ svou přitažlivou hádankou.
 Byť hlava se z ní točila,  
 přec zázrak, zázrak tušila.
 
-VIII
+### VIII
+
+  
 
 I věřil, že by duše rodná  
 hned splynula s ním nejraděj,  
@@ -134,12 +150,16 @@ za jeho čest i do okovů
 že každému z nás předurčeni  
 jsou požehnaní přátelé,
 
+  
+
 — — —  
 — — —  
 — — —  
 — — —
 
-IX
+### IX
+
+  
 
 A jeho čistá láska k štěstí  
 a jeho soucit, jeho hněv,  
@@ -156,7 +176,9 @@ vždy zpíval cit, jenž v hloub se klene,
 zpěv panenského večera,  
 prostoty vážná nádhera.
 
-X
+### X
+
+  
 
 Poslušen lásky, lásku zpíval  
 a v jeho písni svítil jas,  
@@ -173,7 +195,9 @@ se do svých vlastních slzí díval.
 A zpíval zvadlý žití květ,  
 stár téměř osmnácte let.
 
-XI
+### XI
+
+  
 
 Na vsi, kde ducha v jeho tváři  
 jen Oněgin moh ocenit,  
@@ -190,7 +214,9 @@ ba ani slušností zvlášť větší;
 než hovor jejich milých žen  
 byl ještě méně vybroušen.
 
-XII
+### XII
+
+  
 
 Že bohat byl a krásný taky,  
 jak ženich býval Lenskij zván.  
@@ -205,9 +231,11 @@ a Duňa koflík nalívá,
 i nutí ji, ať zazpívá.  
 Pak s doprovodem na kytaru  
 Dunička piští (Bože můj!):  
-Dnes večer pod okýnkem stůj!
+_Dnes večer pod okýnkem stůj!_
 
-XIII
+### XIII
+
+  
 
 Jenomže Lenskij ani stínem  
 nejevil touhu pouta nést,  
@@ -224,7 +252,9 @@ a nerozlučnými se stali.
 Tak lidé — pravdu chcete-li,  
 se z dlouhé chvíle přátelí.
 
-XIV
+### XIV
+
+  
 
 My však i tohle sotva známe.  
 Ba, znechuceni všedností,  
@@ -241,7 +271,9 @@ k pravidlu výjimka se vine:
 zas jiné uměl ocenit  
 a v cizí svět se uměl vžít.
 
-XV
+### XV
+
+  
 
 S úsměvem na Lenského zírá.  
 Básníkův hovor vzrušený  
@@ -258,7 +290,9 @@ ať věří v světy dokonalé.
 Promiňme horké blouznění  
 mladému bludu v plameni.
 
-XVI
+### XVI
+
+  
 
 Spor vždy se vracel mezi nimi  
 a vždy se debatovalo.  
@@ -275,7 +309,9 @@ a Evžen, přítel přívětivý,
 byť zrovna mnoho nechápal,  
 mu pozorně vždy naslouchal.
 
-XVII
+### XVII
+
+  
 
 Nejraděj na samotě tady  
 o vášních ovšem mluvili.  
@@ -292,7 +328,9 @@ jenž žárlivce tak krutě vězní,
 kdo dědictví své po předcích  
 neprokarbanil v kartách lstných.
 
-XVIII
+### XVIII
+
+  
 
 Když doplujeme pod prapory  
 k dnům moudrým, v nichž mír plápolá,  
@@ -309,7 +347,9 @@ svůj sluch ochotně stáčí stranou,
 kde mladý borec nesmělý  
 se svěřuje v sluch příteli.
 
-XIX
+### XIX
+
+  
 
 Však zato rozhořelá mladost  
 nic nedovede skrýt, nic lhát!  
@@ -326,7 +366,9 @@ milostný román jeho mládí.
 Však běda: příběh citový  
 nic nového nám nepoví.
 
-XX
+### XX
+
+  
 
 Ach, miloval, jak dnes už znova  
 rád nelze mít! Jak šílená  
@@ -343,7 +385,9 @@ ba ani sladké lekce s Múzou
 v něm nedovedly přetavit  
 panenským ohněm vzňatý cit.
 
-XXI
+### XXI
+
+  
 
 Jak hocha ještě uchvátila  
 ho Olga. Svědkem zábav byl,  
@@ -360,7 +404,9 @@ jak konvalinka kvetla v stínu,
 v němž němé trávy ukryly  
 ji před včelami, motýly.
 
-XXII
+### XXII
+
+  
 
 To ona snílka obdařila  
 přec vzruchem první mladosti.  
@@ -377,7 +423,9 @@ i slz, jež tajná muka tiší.
 Teď ovšem, teď v ní vidím jen  
 náhražku matných luceren.
 
-XXIII
+### XXIII
+
+  
 
 Vždy poslušná, vždy skromná byla,  
 vždy jako jitro zářivá,  
@@ -394,7 +442,9 @@ mě nudí nad vše pomyšlení.
 A teď, už dlouho o tom sním,  
 vám starší sestru vylíčím.
 
-XXIV
+### XXIV
+
+  
 
 Nuž začíná se nová scéna,  
 v níž představím vám Taťánu.  
@@ -411,7 +461,9 @@ nám od osvěty dostávalo.
 Jen strojenosti, té až až  
 dnes v Rusku u vzdělanců máš.
 
-XXV
+### XXV
+
+  
 
 Tož Taťánou ji zvou. A věru,  
 bez krásy, tváře ruměné,  
@@ -428,7 +480,9 @@ jen nechtíc polibek vždy letmý
 a často sama celý den  
 sedala mlčky u kamen.
 
-XXVI
+### XXVI
+
+  
 
 A zádumčivost, družka její  
 od prvních let, od prvních zim,  
@@ -445,7 +499,9 @@ být způsobné — toť zákon lidský.
 A podle vzoru maměnky  
 zas komanduje panenky.
 
-XXVII
+### XXVII
+
+  
 
 Než Taťána v těch letech loutku  
 do rukou nikdy nebrala.  
@@ -462,7 +518,9 @@ jen Taťána si nezahrála
 a omrzele hleděla,  
 jak tlupa kolem letěla.
 
-XXVIII
+### XXVIII
+
+  
 
 Sedala ráda na balkónu,  
 na úsvit jitra čekajíc,  
@@ -479,7 +537,9 @@ si líný východ odpočívá,
 Taťána, zvyklá brzo vstát,  
 si rozsvěcela v temný chlad.
 
-XXIX
+### XXIX
+
+  
 
 Čtla záhy román po románu,  
 jež nahrazovaly jí svět.  
@@ -496,7 +556,9 @@ jenž v lůžku dceřině se skrýval.
 A Richardson to přece byl,  
 jenž manželku mu pobláznil.
 
-XXX
+### XXX
+
+  
 
 Ta milovala Richardsona  
 ne proto, že by četla v něm,  
@@ -513,7 +575,9 @@ jí po chuti byl mnohem více.
 Ten Grandisson byl slavný pán,  
 hráč, floutek, gardy kapitán.
 
-XXXI
+### XXXI
+
+  
 
 Jak on i ona oblékala  
 se slušivě a podle mód.  
@@ -530,7 +594,9 @@ a zvykla, upokojila se.
 Vždyť zvyk nám shůry seslán byl,  
 aby nám štěstí nahradil.
 
-XXXII
+### XXXII
+
+  
 
 Stesk, pro nějž léku nebylo jí,  
 byl zvykem zpola zahlazen.  
@@ -547,7 +613,9 @@ solila houby, lázně brala
 a neptajíc se manžela  
 natlouci služkám uměla.
 
-XXXIII
+### XXXIII
+
+  
 
 Kdys v alba něžných dívek psala  
 svou krví, celou duší svou.  
@@ -564,7 +632,9 @@ Selinou hloupou Akulinu;
 i začla chodit v županu  
 a v čepečku hned po ránu.
 
-XXXIV
+### XXXIV
+
+  
 
 Muž upřímně ji milovával  
 a v pevné důvěře k ní žil.  
@@ -581,7 +651,9 @@ a navzájem si postýskali.
 Tak čas jim ušel. Ospalí,  
 sousedé domů spěchali.
 
-XXXV
+### XXXV
+
+  
 
 Za pomalého života si  
 pradávné zvyky chránili.  
@@ -598,7 +670,9 @@ Kvas jako vzduch jim potřebou byl.
 A jídla na stůl pro hosti  
 nosili podle hodností.
 
-XXXVI
+### XXXVI
+
+  
 
 Tak stárli po celou tu dobu.  
 Pak před manželem dokořán  
@@ -611,18 +685,20 @@ a smutně na pohřeb mu jdou.
 Býval to prostý, dobrý bárin.  
 A tam, kde leží jeho prach,  
 náhrobní kámen hlásá, ach:  
-„Smířený hříšník, Dmitrij Larin,  
+_„Smířený hříšník, Dmitrij Larin,  
 služebník Páně, brigadýr,  
-zde pod kamenem našel mír.“
+zde pod kamenem našel mír.“_
 
-XXXVII
+### XXXVII
+
+  
 
 Když ke svým penátům se vrátil  
 Vladimír Lenskij v rodnou zem,  
 navštívil hrob, v němž druha ztratil,  
 a vzdych nad jeho popelem.  
 Bylo mu teskno nad kamenem.  
-„Poor Yorick!“ vzdych si dlouhým stenem.  
+_„Poor Yorick!“_ vzdych si dlouhým stenem.  
 „On na rukou mě držíval.  
 Jak často za dětství jsem hrál  
 si s jeho očakovským řádem!  
@@ -632,7 +708,9 @@ A tesklivým se třesa chladem,
 Vladimír sedl si a psal  
 mu na památku madrigal.
 
-XXXVIII
+### XXXVIII
+
+  
 
 I rodičům svým, žalem zmámen,  
 zde psal kdys — jaká tesknota! —  
@@ -649,7 +727,9 @@ A také náš čas přijde, přijde
 a naši vnuci jedenkrát  
 i nás přitlačí v hlíny chlad!
 
-XXXIX
+### XXXIX
+
+  
 
 Jen pijte, pokud času dosti,  
 ten život lehký jako van.  
@@ -666,7 +746,9 @@ svůj žalný úděl proslaviti,
 by hlásal mě, jak srdce tluk,  
 alespoň jeden, jeden zvuk.
 
-XL
+### XL
+
+  
 
 Snad v něčím srdci zazní přece;  
 a osud se svou perutí  

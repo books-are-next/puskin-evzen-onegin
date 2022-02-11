@@ -13,18 +13,18 @@
       "title": "mlpuroven1cast mlpuroven1zvlastnipripady mlpuroven2basneevzen ",
       "subtitle": "",
       "h2": "",
-      "h3": "",
+      "h3": "mlpcislobasne ",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
+      "brBefore": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlpversebezpred mlpversebezpred1 mlpversebezpred2 ",
       "brAfter": "",
-      "blockquote": "",
+      "blockquote": "mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle mlpvenovani",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "mlpvenovani mlpznakkurziva11b mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle",
+      "strong": "mlpznaktucne mlptirazautoranazev",
       "remove": "",
       "ignore": ""
     },
@@ -32,13 +32,13 @@
       {
         "isSection": true,
         "id": "section-1",
-        "listType": "plain",
+        "listType": "numbered",
         "children": [
           {
             "filename": "evzen_onegin_001.md",
             "xhtml": "evzen_onegin_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -50,7 +50,7 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -58,7 +58,7 @@
             "filename": "evzen_onegin_003.md",
             "xhtml": "evzen_onegin_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -68,7 +68,7 @@
             "filename": "evzen_onegin_004.md",
             "xhtml": "evzen_onegin_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -81,18 +81,20 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "evzen_onegin_006.md",
-            "xhtml": "evzen_onegin_006.html",
-            "id": 5,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [
+              {
+                "filename": "evzen_onegin_006.md",
+                "xhtml": "evzen_onegin_006.html",
+                "id": 5,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ],
+            "title": "Věnování"
           },
           {
             "filename": "evzen_onegin_007.md",
@@ -102,6 +104,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "HLAVA PRVNÍ",
             "children": [
               {
                 "filename": "evzen_onegin_008.md",
@@ -113,8 +116,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "HLAVA PRVNÍ"
+            ]
           },
           {
             "filename": "evzen_onegin_009.md",
@@ -124,6 +126,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "HLAVA DRUHÁ",
             "children": [
               {
                 "filename": "evzen_onegin_010.md",
@@ -135,8 +138,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "HLAVA DRUHÁ"
+            ]
           },
           {
             "filename": "evzen_onegin_011.md",
@@ -146,6 +148,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "HLAVA TŘETÍ",
             "children": [
               {
                 "filename": "evzen_onegin_012.md",
@@ -157,8 +160,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "HLAVA TŘETÍ"
+            ]
           },
           {
             "filename": "evzen_onegin_013.md",
@@ -168,6 +170,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "HLAVA ČTVRTÁ",
             "children": [
               {
                 "filename": "evzen_onegin_014.md",
@@ -179,8 +182,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "HLAVA ČTVRTÁ"
+            ]
           },
           {
             "filename": "evzen_onegin_015.md",
@@ -190,6 +192,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "HLAVA PÁTÁ",
             "children": [
               {
                 "filename": "evzen_onegin_016.md",
@@ -201,8 +204,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "HLAVA PÁTÁ"
+            ]
           },
           {
             "filename": "evzen_onegin_017.md",
@@ -212,6 +214,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "HLAVA ŠESTÁ",
             "children": [
               {
                 "filename": "evzen_onegin_018.md",
@@ -223,8 +226,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "HLAVA ŠESTÁ"
+            ]
           },
           {
             "filename": "evzen_onegin_019.md",
@@ -234,6 +236,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "HLAVA SEDMÁ",
             "children": [
               {
                 "filename": "evzen_onegin_020.md",
@@ -245,8 +248,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "HLAVA SEDMÁ"
+            ]
           },
           {
             "filename": "evzen_onegin_021.md",
@@ -256,6 +258,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "HLAVA OSMÁ",
             "children": [
               {
                 "filename": "evzen_onegin_022.md",
@@ -267,8 +270,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "HLAVA OSMÁ"
+            ]
           },
           {
             "filename": "evzen_onegin_023.md",
@@ -278,6 +280,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "DODATKY",
             "children": [
               {
                 "filename": "evzen_onegin_024.md",
@@ -287,30 +290,32 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": []
+                "children": [],
+                "title": "PUTOVÁNÍ ONĚGINOVO"
+              },
+              {
+                "filename": "evzen_onegin_025.md",
+                "xhtml": "evzen_onegin_025.html",
+                "id": 24,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "ONĚGINOVO ALBUM"
+              },
+              {
+                "filename": "evzen_onegin_026.md",
+                "xhtml": "evzen_onegin_026.html",
+                "id": 25,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VYNECHANÉ SLOKY"
               }
-            ],
-            "title": "DODATKY"
-          },
-          {
-            "filename": "evzen_onegin_025.md",
-            "xhtml": "evzen_onegin_025.html",
-            "id": 24,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "evzen_onegin_026.md",
-            "xhtml": "evzen_onegin_026.html",
-            "id": 25,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            ]
           },
           {
             "filename": "evzen_onegin_027.md",
@@ -320,14 +325,14 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční poznámka"
+            "title": "Ediční\npoznámka",
+            "children": []
           },
           {
             "filename": "evzen_onegin_028.md",
             "xhtml": "evzen_onegin_028.html",
             "id": 27,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -343,7 +348,7 @@
       "identifier": "6b021565-2647-4cf3-ab71-d6b613272ca1",
       "author": "Alexandr Sergejevič Puškin",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-11T10:22:41.199Z"
+      "modified": "2022-02-11T10:48:25.066Z"
     },
     "chapters": [
       {
@@ -632,6 +637,6 @@
       "user": "books-are-next",
       "repo": "puskin-evzen-onegin"
     },
-    "generatedAt": 1644574961969
+    "generatedAt": 1644576505988
   }
 }

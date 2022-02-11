@@ -2,7 +2,7 @@
 title: HLAVA TŘETÍ
 ---
 
-Elle était fille, elle était amoureuse.
+> _Elle était fille, elle était amoureuse._
 
 — MALFILÂTRE
 

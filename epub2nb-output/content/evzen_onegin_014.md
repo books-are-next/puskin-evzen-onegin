@@ -2,11 +2,15 @@
 title: ''
 ---
 
-I–II–III–IV–V–VI
+### I–II–III–IV–V–VI
+
+  
 
 — — —
 
-VII
+### VII
+
+  
 
 Čím míň jsme uchváceni ženou,  
 tím více se jí líbíme.  
@@ -23,7 +27,9 @@ Však sláva Lovelaců je v prachu,
 podpatky rudé zmizely  
 a paruky jich v skříni tlí.
 
-VIII
+### VIII
+
+  
 
 Kdo syt by nebyl řeči lstivé,  
 jež chválí a zas haní hned?  
@@ -40,7 +46,9 @@ prstýnky, slzy, klepy, kletby,
 matek a tetek strážný čich,  
 manželů přízeň únavných?
 
-IX
+### IX
+
+  
 
 Tak sníval často Evžen v bdění.  
 Byl za dob první mladosti  
@@ -57,7 +65,9 @@ i léčil smíchem nudy svízel.
 Tak ubil osm krásných let,  
 života nejsvěžejší květ.
 
-X
+### X
+
+  
 
 Už krásky nemiloval, ale  
 lhostejným poutníkem se stal.  
@@ -67,14 +77,16 @@ Hrál lásku, cítě nudu v skrytu,
 opouštěl ženy bez soucitu,  
 nemaje za nic přízeň, hněv.  
 Salonů omrzelý lev  
-tak k svému whistu jezdí denně,  
+tak k svému _whistu_ jezdí denně,  
 rozšafně nad kartami bdí,  
 pak klidně domů odjíždí,  
 když lehl si, spí nerušeně  
 a zrána ještě sotva ví,  
 kam navečer se vypraví.
 
-XI
+### XI
+
+  
 
 Když Tánin list však držel v ruce,  
 Oněgin živě dojat byl.  
@@ -91,7 +103,9 @@ tu čistou duši důvěřivou.
 Teď v alej snad vás vésti smím,  
 kde Taťána se sešla s ním.
 
-XII
+### XII
+
+  
 
 Dvě minuty tak stáli němi,  
 až Evžen s vážným pohledem  
@@ -108,7 +122,9 @@ jak vy. Důvěru za důvěru.
 Má zpověď spojena je s tím.  
 A buďte dobrým soudcem mým.
 
-XIII
+### XIII
+
+  
 
 Kdybych svůj život uzavříti  
 v kruh domácnosti jednou snil,  
@@ -125,7 +141,9 @@ za družku dní svých, svého smutku,
 jak záruku, že hoden vás,  
 bych šťasten snad… být mohl zas!
 
-XIV
+### XIV
+
+  
 
 Mé štěstí? Listu podobá se,  
 jejž ve vichřici trousí kmen.  
@@ -142,7 +160,9 @@ I posuďte jen, jaké růže
 by asi Hymen po času  
 nám nadlouho vplet do vlasů.
 
-XV
+### XV
+
+  
 
 Je hroznější věc v světě celém  
 než dům, kde žena zklamaná  
@@ -159,7 +179,9 @@ jste oddala se ve svém listě?
 Což osud neblahý by byl  
 vám úděl tento přisoudil?
 
-XVI
+### XVI
+
+  
 
 V mé duši povadlo snů kvítí.  
 Je po jaru a naději.  
@@ -176,14 +198,16 @@ na uzdě držte cit svůj čistý,
 ne každý pochopí jak já,  
 a nezkušenost bývá zlá.“
 
-XVII
+### XVII
+
+  
 
 Tak mluvil. Vítr hučel v boru.  
 V slz závěji a uštvaná,  
 bez dechu téměř, bez odporu  
 mu naslouchala Taťána.  
 Podal jí ruku. Teskně, němě,  
-či mechanicky, říc chce se mně,  
+či _mechanicky_, říc chce se mně,  
 se opřela a hlavinku  
 sklonila ještě trošinku  
 do tmy, jež temnější se stává.  
@@ -193,7 +217,9 @@ Máť selská svoboda svá práva,
 jimž právě tak se těšívá  
 jak pyšná Moskva hýřivá.
 
-XVIII
+### XVIII
+
+  
 
 Kdo z vás by nesouhlasil se mnou,  
 že Evžen velmi šlechetně  
@@ -210,11 +236,13 @@ však přátel střež nás, Bože, cele!
 Co jenom já jich vždycky měl!  
 Jak bych si na ně nevzpomněl.
 
-XIX
+### XIX
+
+  
 
 Jak ne! Však nechme černé ovce  
 těch myšlenek spát zaklety!  
-Připomínám jen — v uvozovce —  
+Připomínám jen — _v uvozovce_ —  
 že není hnusné klevety,  
 v podkroví lhářem porozené  
 a světskou luzou zpečetěné,  
@@ -227,13 +255,15 @@ a žertem dále do úst nových.
 Vždyť je váš přítel jediný,  
 vždyť vás má rád… jak z rodiny.
 
-XX
+### XX
+
+  
 
 Hm, hm… čtenáři blahorodí,  
 je zdráva vaše rodina?  
 Dovolte: snad se právě hodí,  
 by pověděl vám ten, kdo zná,  
-co příbuzní nám znamenají  
+co _příbuzní_ nám znamenají  
 a jakou vlastně roli hrají:  
 My vlídní musíme k nim být  
 a s láskou z duše té je ctít,  
@@ -244,7 +274,9 @@ by po celičký zbytek roku
 si na nás nepomyslili…  
 A dlouhých let se dožili!
 
-XXI
+### XXI
+
+  
 
 Víc slíbí láska něžných paní  
 než příbuznost a přátelství.  
@@ -261,7 +293,9 @@ rázem je konec s přítelkyní:
 a znenadání, snad to znáš —  
 si hraje s láskou satanáš.
 
-XXII
+### XXII
+
+  
 
 Koho mít rád? A komu věřit?  
 Kdo nevrhá k nám zrady stín?  
@@ -278,7 +312,9 @@ vážený čtenáři mých splínů,
 vzor hodný sama sebe — chceš?  
 Nic pěknějšího nenajdeš.
 
-XXIII
+### XXIII
+
+  
 
 Lze zcela lehko uhodnouti,  
 co schůzka měla vzápětí.  
@@ -295,7 +331,9 @@ a hasne mládí milé Táni.
 Tak jitro, sotva zrozené,  
 stín bouře do tmy zažene.
 
-XXIV
+### XXIV
+
+  
 
 Žel, třikrát žel, Taťána vadne;  
 a bledne v mrtvém mlčení.  
@@ -312,7 +350,9 @@ vždyť s Táňou její bolest žiji;
 i sečkejte… jen chvíli snad…  
 vždyť mám ji tolik, tolik rád.
 
-XXV
+### XXV
+
+  
 
 Den za dnem přitahován dále  
 půvabem mládí Olžina,  
@@ -329,7 +369,9 @@ ze snědé milenčiny šíje,
 a líbat její sukně lem,  
 když povzbudí ho úsměvem.
 
-XXVI
+### XXVI
+
+  
 
 Též někdy, Olgu lesem vodě,  
 Vladimír román rozbalí,  
@@ -346,7 +388,9 @@ nad záhadnými figurkami.
 A on tak roztržitě hrál,  
 že vlastní věž si někdy bral.
 
-XXVII
+### XXVII
+
+  
 
 I když se potom domů vrátí,  
 zas Olgou jen se zabývá.  
@@ -363,7 +407,9 @@ jak němý památník své dumy,
 sled milostného zasnění,  
 jež od dávna se nemění.
 
-XXVIII
+### XXVIII
+
+  
 
 Vždyť znáte slečen ze vsi alba,  
 kde počmárán je každý list,  
@@ -374,13 +420,15 @@ verš všelijaký vepsaly sem,
 vždy zkomolený, to se ví,  
 na věčnou paměť přátelství.  
 Na první stránce připomínka:  
-Qu’écrivez-vous sur ces tablettes?  
-A podpis: t. à. v. Annette.  
+_Qu’écrivez-vous sur ces tablettes?  
+_A podpis: _t. à. v. Annette_.  
 A na poslední chytrá zmínka:  
-„Víc nežli já kdo má tě rád,  
-zkus pode mne se podepsat.“
+_„Víc nežli já kdo má tě rád,  
+zkus pode mne se podepsat.“_
 
-XXIX
+### XXIX
+
+  
 
 Tu najdeš všude bez výjimky  
 dvou srdcí v ohni podobu;  
@@ -397,7 +445,9 @@ a nikdo v snaze zlomyslné
 nebude vážně rozjímat,  
 zda dovedl jsem vtipně lhát.
 
-XXX
+### XXX
+
+  
 
 Však vy, luxusní památníky  
 z čertovské bibliotéky,  
@@ -414,7 +464,9 @@ hrst potměšilých epigramů,
 já, jehož zlostí čert by vzal,  
 jí mám teď psáti madrigal!
 
-XXXI
+### XXXI
+
+  
 
 Lenskij ho ovšem nenapíše  
 v památní knížky Olžiny.  
@@ -431,7 +483,9 @@ a sebrané tvé elegie
 ti půjdou někdy v příštích dnech  
 za svědky o tvých osudech.
 
-XXXII
+### XXXII
+
+  
 
 Zde tiše! Pozor na kritiky!  
 Tu jeden přísně káže nám  
@@ -439,8 +493,8 @@ zaškrtit elegické vzlyky
 a dát se k jiným končinám.  
 A křičí: „Nechte pláče, braši,  
 ve vašich verších věčně straší  
-stesk minulosti, dávný žal:  
-Už dosti! Změňte ideál!“  
+_stesk minulosti, dávný žal:  
+_Už dosti! Změňte ideál!“  
 — Máš pravdu. Hledej s námi tedy  
 škrabošku, kinžál, polnici,  
 myšlenek mrtvě ležící  
@@ -448,7 +502,9 @@ kapitál probuď z jeho bědy.
 To myslíš?“ — „Kdež! Co za nápad!  
 Pánové, ódy máte psát,
 
-XXXIII
+### XXXIII
+
+  
 
 jak psávali v čas zašlé módy,  
 hrdinným, mocným úhozem…“  
@@ -465,7 +521,9 @@ svou vznešeností…“ Moh bych dlouhé
 vést spory, líp však mlčet jest.  
 Nač sváry století dvou vést?
 
-XXXIV
+### XXXIV
+
+  
 
 I svobody i slávy žádal  
 si Lenskij, v snách se toulaje.  
@@ -482,7 +540,9 @@ své unylé a milé krásce —
 byť mezitím ta spanilá  
 bůhvíkam v duchu bloudila.
 
-XXXV
+### XXXV
+
+  
 
 Já ovšem každé snů svých pláně,  
 svých harmonických hříček vzlet  
@@ -499,11 +559,15 @@ vylekám vždycky hejno kachen,
 jež nechtějíce slyšeti  
 zvuk sladkých strof, hned odletí.
 
-XXXVI
+### XXXVI
+
+  
 
 — — —
 
-XXXVII
+### XXXVII
+
+  
 
 Nu dost! Vraťme se k Evženovi!  
 Jen trpělivost, prosím vás.  
@@ -519,11 +583,15 @@ načež si ke snídani vzal
 svůj špatný žurnál, trochu starý,  
 a oblékal se…
 
-XXXVIII
+### XXXVIII
+
+  
 
 — — —
 
-XXXIX
+### XXXIX
+
+  
 
 Dost knih a spánku, toulky zdravé,  
 stín lesa, bystřin zurčení,  
@@ -540,7 +608,9 @@ krásného léta, jež nám mizí,
 a zapomenul přátel, měst  
 i nudy vrtošivých cest.
 
-XL
+### XL
+
+  
 
 Karikaturou jižní zimy  
 severní naše léto je.  
@@ -557,7 +627,9 @@ již táhl k jihu; přiblížila
 se doba nudy, tma a chlad.  
 U dvora stál již listopad.
 
-XLI
+### XLI
+
+  
 
 Sychravé úsvity teď začnou  
 mžít polem, v němž šum práce zmlk.  
@@ -574,7 +646,9 @@ Však v jizbě zpěv — tam dívka přede
 a smolná louč jí zvečera  
 přátelsky praská do šera.
 
-XLII
+### XLII
+
+  
 
 A hle, již mrazem dech se úží,  
 květ jinovatky stříbří pláň…  
@@ -591,7 +665,9 @@ a klouzne, padne dozajista.
 Roj bílých hvězdiček se mih.  
 To padá, padá první sníh.
 
-XLIII
+### XLIII
+
+  
 
 Co za dnů těch se dělat sluší?  
 Jít na procházku? Z venkova  
@@ -608,7 +684,9 @@ Zlob se či pij — však večer dlouhý
 ti uteče a zítra též —  
 tak slavně zimu přežiješ.
 
-XLIV
+### XLIV
+
+  
 
 Evžen jak Childe Harold si veda,  
 sotva se líně ráno zved,  
@@ -625,7 +703,9 @@ a Evžen čeká: každou chvíli
 tu může s trojkou Lenskij být.  
 Tož rychle na stůl, jíst a pít!
 
-XLV
+### XLV
+
+  
 
 Od Cliquotky či od Moëtů  
 blahoslavené víno hned  
@@ -642,24 +722,28 @@ co hloupostí mi vnuklo maně,
 co bujných veršů, jaký smích,  
 co hádek a snů rozkošných!
 
-XLVI
+### XLVI
+
+  
 
 Já poznal však, žaludku mému  
 šum pěn že nejde k duhu již.  
-A proto přednost bordeauxskému  
-teď před šampaňským dávám spíš.  
+A proto přednost _bordeauxskému_  
+teď před _šampaňským_ dávám spíš.  
 Nesnesu ho již, musím říci,  
 neb podobá se milovnici,  
 jež oslní a rozdává,  
 a prázdná je a svéhlavá.  
-Však Bordeaux mi jak přítel slouží,  
+Však _Bordeaux_ mi jak přítel slouží,  
 jenž je mi vždy i v času zlém  
 a všude dobrým soudruhem,  
 jenž s námi o bolest, když souží,  
 i o prázdeň se rozdělí.  
-Buď zdrávo, Bordeaux, příteli!
+Buď zdrávo, _Bordeaux_, příteli!
 
-XLVII
+### XLVII
+
+  
 
 Krb přestal praskat; pod popelem  
 jen zlatý uhel řeřaví.  
@@ -676,7 +760,9 @@ hodinkou mezi psem a vlkem,
 však proč, to dnes kdo sotva ví.)  
 Dvojice přátel rozpráví:
 
-XLVIII
+### XLVIII
+
+  
 
 „Co s Taťánou? Co se sousedy?  
 Co s ohnivou je Olgou tvou?“  
@@ -693,7 +779,9 @@ teď zavřel jsi se v domě tady.
 A jsem to Honza… nebo spím…  
 Vždyť tenhle týden zván jsi k nim. —
 
-XLIX
+### XLIX
+
+  
 
 „Já?“ — Ovšemže ty. Taťána má  
 v sobotu svátek. Prosí tě  
@@ -710,7 +798,9 @@ na zdraví sousedčino do dna.
 A začal opět od kraje  
 o Olze své: to láska je!
 
-L
+### L
+
+  
 
 Byl šťasten. Již dva týdny pouze,  
 a tma manželské ložnice  
@@ -727,7 +817,9 @@ jen román v duchu Lafontaina…
 však chudák Lenskij předurčen  
 byl srdcem svým pro život ten.
 
-LI
+### LI
+
+  
 
 Byl milován… A dozajista  
 v to věřil a tím šťasten byl.  

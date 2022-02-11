@@ -1,37 +1,17 @@
 {
   "author": "Alexandr Sergejevič Puškin",
-  "identifier": "puskin-evzen-onegin-2c0b3b6",
+  "identifier": "puskin-evzen-onegin-0061d95",
   "languagecode": "cs",
   "modified": "2022-02-11T10:02:59.873Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Evžen Oněgin",
-  "revision": "2c0b3b6",
+  "revision": "0061d95",
   "generatedAt": {
-    "date": "Fri Feb 11 2022 10:23:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644575017504
+    "date": "Fri Feb 11 2022 10:49:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644576571153
   },
   "documents": [
-    {
-      "title": "Evžen Oněgin",
-      "file": "evzen_onegin_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "evzen_onegin_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Evžen Oněgin",
       "file": "evzen_onegin_002.html",
@@ -39,48 +19,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "evzen_onegin_001.html",
-      "next": "evzen_onegin_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Evžen Oněgin",
-      "file": "evzen_onegin_003.html",
-      "words": 5,
-      "chars": 38,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "evzen_onegin_002.html",
-      "next": "evzen_onegin_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Evžen Oněgin",
-      "file": "evzen_onegin_004.html",
-      "words": 85,
-      "chars": 568,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "evzen_onegin_003.html",
+      "order": 0,
+      "prev": null,
       "next": "evzen_onegin_005.html",
       "toc": [
         {
@@ -96,11 +36,11 @@
       "title": "Evžen Oněgin",
       "file": "evzen_onegin_005.html",
       "words": 68,
-      "chars": 427,
+      "chars": 431,
       "ideas": 14,
       "role": "chapter",
-      "order": 4,
-      "prev": "evzen_onegin_004.html",
+      "order": 1,
+      "prev": "evzen_onegin_002.html",
       "next": "evzen_onegin_006.html",
       "toc": [
         {
@@ -115,11 +55,11 @@
     {
       "title": "Evžen Oněgin",
       "file": "evzen_onegin_006.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 72,
+      "chars": 468,
+      "ideas": 17,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "evzen_onegin_005.html",
       "next": "evzen_onegin_007.html",
       "toc": [
@@ -139,7 +79,7 @@
       "chars": 64,
       "ideas": 3,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "evzen_onegin_006.html",
       "next": "evzen_onegin_008.html",
       "toc": [
@@ -159,7 +99,7 @@
       "chars": 20424,
       "ideas": 816,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "evzen_onegin_007.html",
       "next": "evzen_onegin_009.html",
       "toc": [
@@ -179,7 +119,7 @@
       "chars": 33,
       "ideas": 4,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "evzen_onegin_008.html",
       "next": "evzen_onegin_010.html",
       "toc": [
@@ -199,7 +139,7 @@
       "chars": 14820,
       "ideas": 600,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "evzen_onegin_009.html",
       "next": "evzen_onegin_011.html",
       "toc": [
@@ -219,7 +159,7 @@
       "chars": 103,
       "ideas": 5,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "evzen_onegin_010.html",
       "next": "evzen_onegin_012.html",
       "toc": [
@@ -239,7 +179,7 @@
       "chars": 17839,
       "ideas": 713,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "evzen_onegin_011.html",
       "next": "evzen_onegin_013.html",
       "toc": [
@@ -259,7 +199,7 @@
       "chars": 95,
       "ideas": 5,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "evzen_onegin_012.html",
       "next": "evzen_onegin_014.html",
       "toc": [
@@ -276,10 +216,10 @@
       "title": "Evžen Oněgin",
       "file": "evzen_onegin_014.html",
       "words": 3057,
-      "chars": 16252,
+      "chars": 16256,
       "ideas": 650,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "evzen_onegin_013.html",
       "next": "evzen_onegin_015.html",
       "toc": [
@@ -299,7 +239,7 @@
       "chars": 68,
       "ideas": 4,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "evzen_onegin_014.html",
       "next": "evzen_onegin_016.html",
       "toc": [
@@ -316,10 +256,10 @@
       "title": "Evžen Oněgin",
       "file": "evzen_onegin_016.html",
       "words": 2984,
-      "chars": 15790,
-      "ideas": 634,
+      "chars": 15789,
+      "ideas": 635,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "evzen_onegin_015.html",
       "next": "evzen_onegin_017.html",
       "toc": [
@@ -339,7 +279,7 @@
       "chars": 179,
       "ideas": 7,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "evzen_onegin_016.html",
       "next": "evzen_onegin_018.html",
       "toc": [
@@ -359,7 +299,7 @@
       "chars": 16257,
       "ideas": 649,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "evzen_onegin_017.html",
       "next": "evzen_onegin_019.html",
       "toc": [
@@ -379,7 +319,7 @@
       "chars": 200,
       "ideas": 9,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "evzen_onegin_018.html",
       "next": "evzen_onegin_020.html",
       "toc": [
@@ -399,7 +339,7 @@
       "chars": 19544,
       "ideas": 785,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "evzen_onegin_019.html",
       "next": "evzen_onegin_021.html",
       "toc": [
@@ -419,7 +359,7 @@
       "chars": 144,
       "ideas": 7,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "evzen_onegin_020.html",
       "next": "evzen_onegin_022.html",
       "toc": [
@@ -439,7 +379,7 @@
       "chars": 20687,
       "ideas": 826,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "evzen_onegin_021.html",
       "next": "evzen_onegin_023.html",
       "toc": [
@@ -459,7 +399,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "evzen_onegin_022.html",
       "next": "evzen_onegin_024.html",
       "toc": [
@@ -479,7 +419,7 @@
       "chars": 11321,
       "ideas": 428,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "evzen_onegin_023.html",
       "next": "evzen_onegin_025.html",
       "toc": [
@@ -499,7 +439,7 @@
       "chars": 2809,
       "ideas": 116,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "evzen_onegin_024.html",
       "next": "evzen_onegin_026.html",
       "toc": [
@@ -519,7 +459,7 @@
       "chars": 6602,
       "ideas": 272,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "evzen_onegin_025.html",
       "next": "evzen_onegin_027.html",
       "toc": [
@@ -539,9 +479,9 @@
       "chars": 439,
       "ideas": 4,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "evzen_onegin_026.html",
-      "next": "evzen_onegin_028.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -553,20 +493,20 @@
       ]
     },
     {
-      "title": "Evžen Oněgin",
-      "file": "evzen_onegin_028.html",
-      "words": 58,
-      "chars": 398,
-      "ideas": 14,
-      "role": "chapter",
-      "order": 27,
+      "title": "Tiráž • Evžen Oněgin",
+      "file": "colophon.html",
+      "words": 149,
+      "chars": 1009,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
       "prev": "evzen_onegin_027.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -575,14 +515,14 @@
   ],
   "totals": {
     "all": {
-      "words": 30941,
-      "chars": 165154,
-      "ideas": 6579
+      "words": 31013,
+      "chars": 165629,
+      "ideas": 6597
     },
     "chapters": {
-      "words": 30934,
-      "chars": 165108,
-      "ideas": 6575
+      "words": 30858,
+      "chars": 164579,
+      "ideas": 6570
     }
   }
 }

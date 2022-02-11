@@ -2,7 +2,7 @@
 title: HLAVA ŠESTÁ
 ---
 
-Là, sotto i giorni nubilosi e brevi,
+> _Là, sotto i giorni nubilosi e brevi,_
 
 Nasce una gente a cui l’morir non dole.
 

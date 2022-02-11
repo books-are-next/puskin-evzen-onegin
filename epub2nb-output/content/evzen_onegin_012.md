@@ -2,7 +2,9 @@
 title: ''
 ---
 
-I
+### I
+
+  
 
 „Kam? Tihle básníci jsou pěkní!“  
 — Buď zdráv, Evžene, pospíchám. —  
@@ -19,7 +21,9 @@ a hrozné pohostinství, hochu,
 a nekonečný nudný tlach  
 o dešti, lnu a o kravách…“
 
-II
+### II
+
+  
 
 — V tom přece není pranic zlého. —  
 „Jen nuda, hochu, přisámbůh.“  
@@ -36,7 +40,9 @@ Představ mně ji.“ — Toť žert? — „Ne, vskutku!“
 — Jak rád! — „A kdy?“ — Teď pravý čas.  
 Ochotně jistě přijmou nás. —
 
-III
+### III
+
+  
 
 „Tož jeďme.“ — Jeli, ujížděli,  
 přijeli, hosti rozmilí.  
@@ -53,7 +59,9 @@ je na stůl stále podáván.
 — — —  
 — — —
 
-IV
+### IV
+
+  
 
 Nejkratší cestou jedou domů  
 pak oba v pozdní hodinu.  
@@ -70,7 +78,9 @@ je prostá, ale příjemná je,
 z těch starých, dobrých maminek.  
 Brr, tahle šťáva z brusinek!
 
-V
+### V
+
+  
 
 Slyš! Taťána, která to byla?“  
 — Ta mlčenlivá, zastesklá  
@@ -87,7 +97,9 @@ nad tímhle naším hloupým krajem.“
 Vladimír suše odkašlal  
 a vůbec nemluvil už dál.
 
-VI
+### VI
+
+  
 
 A zatím příchod Oněgina  
 k Lariným vzbudil velký vzruch.  
@@ -104,7 +116,9 @@ a nebyla-li, to je tím,
 Lenského s Olgou v onen čas  
 už dávno svázal lidu hlas.
 
-VII
+### VII
+
+  
 
 Taťána hněvala se sice  
 na tyhle klepy. Tajně však  
@@ -121,7 +135,9 @@ po někom, k němuž srdce bije.
 A duše čekala, a v hruď  
 se vetřel obraz. Čí? Bůh suď.
 
-VIII
+### VIII
+
+  
 
 A dočkala se. Procitlýma  
 očima ví: toť on, toť on!  
@@ -138,7 +154,9 @@ a nenávidí z duše snivé,
 jíž láska táhne nad hlavou,  
 přítomnost jejich zdlouhavou.
 
-IX
+### IX
+
+  
 
 A s jakým zájmem, s jakou chutí  
 teď rozkošné čte romány!  
@@ -155,7 +173,9 @@ se slili ve snu jedné ženy
 v jediný obraz, v jeden stín —  
 vždy byl to Evžen Oněgin.
 
-X
+### X
+
+  
 
 S románem v ruce, zcela vžila  
 se ve své vzory Taťána.  
@@ -172,7 +192,9 @@ list, posílaný hrdinovi…
 Leč Evžen, cokoli byl on,  
 dojista nebyl Grandisson.
 
-XI
+### XI
+
+  
 
 Sloh drže v ladném, vážném stínu,  
 ohnivý tvůrce kdysi dbal,  
@@ -189,7 +211,9 @@ a vzadu na posledním listě…
 zločince stihl přísný trest  
 a dobro odměněno jest.
 
-XII
+### XII
+
+  
 
 Však my jak v mlze jsme teď, běda,  
 morálka nudí bez mezí,  
@@ -206,7 +230,9 @@ tajemstvím okouzlené ženy.
 A romantický žal se skví  
 i na zoufalém sobectví.
 
-XIII
+### XIII
+
+  
 
 Přátelé, jaký smysl má to?  
 Snad z vůle nebes přestanu  
@@ -223,7 +249,9 @@ a ruských rodin historii
 vám vypovím, a lásky vzdech,  
 a mravy zbylé po dědech.
 
-XIV
+### XIV
+
+  
 
 O prostých řečech otce, děda  
 vám povím, ale nejvíce  
@@ -240,7 +268,9 @@ u nohou milované krásky
 žár mladosti. Těch krásných vět,  
 jimž odvykl jsem od těch let!
 
-XV
+### XV
+
+  
 
 Já s pláčem přihlížím tvé muce,  
 Taťáno, Táňo rozmilá!  
@@ -257,7 +287,9 @@ jež šťastná shledání tvá chrání.
 A před očima všude již  
 stín osudného svůdce zříš.
 
-XVI
+### XVI
+
+  
 
 Taťána, běda, nemá stání,  
 rozsévá pod stromy svůj žal.  
@@ -274,7 +306,9 @@ do zamlžených korun v křoví.
 Nemohouc usnout, černou tmou  
 Taťána volá chůvu svou.
 
-XVII
+### XVII
+
+  
 
 „Nemohu, ňáňo, spát v tom dusnu.  
 Otevři okno. A pojď blíž.“  
@@ -291,7 +325,9 @@ a stáří všecko splete v nás. —
 (o vílách přece nechci nic)  
 mi o své první lásce říc…“
 
-XVIII
+### XVIII
+
+  
 
 — Máš rozum, Táňo? My v ty časy  
 přec neslýchaly o lásce.  
@@ -308,7 +344,9 @@ Ze strachu hořce plakala jsem
 a s pláčem rozpletli mi cop.  
 Tak vdávaly se za mých dob.
 
-XIX
+### XIX
+
+  
 
 Pak mezi cizí odvedli mě…  
 Ty ale neposloucháš již. —  
@@ -325,7 +363,9 @@ vždyť celá hoříš… pro Pána… —
 A drsná ruka rozchvěle  
 křižuje Táňu po čele.
 
-XX
+### XX
+
+  
 
 „Jsem zamilována,“ zas hlásí  
 své chůvě hořce Taťána.  
@@ -342,7 +382,9 @@ se sklánějící v dlouhé kytli;
 a v čarodějném přísvitu  
 vzdychaly obě ženy tu.
 
-XXI
+### XXI
+
+  
 
 Sen Taťánina srdce zapad  
 v daleký, modrý luny svit.  
@@ -359,7 +401,9 @@ nevinná dívčí láska dýše.
 A psaní, v letu napsané…  
 Taťáno, kdo je dostane?
 
-XXII
+### XXII
+
+  
 
 Znával jsem nedostupné krásky,  
 studené, čisté jako led.  
@@ -370,13 +414,15 @@ nad jejich nevinností lichou,
 a přiznám, prchal jsem jim hned,  
 jako bych nad obočím čet  
 jim s hrůzou nadpis nad Infernem:  
-Kdo jdeš sem, bez naděje buď!  
+_Kdo jdeš sem, bez naděje buď!_  
 Strach z lásky mají, leč i chuť  
 děsiti muže v srdci černém.  
 Snad ještě v Petrohradě též  
 podobné dámy nalezneš.
 
-XXIII
+### XXIII
+
+  
 
 Já v kruhu dvorných nápadníků  
 i jiné rozmarnice znal,  
@@ -393,7 +439,9 @@ a lehkověrný milovníček
 se slepě zas, než odplynou,  
 hnal za marnou svou vidinou.
 
-XXIV
+### XXIV
+
+  
 
 Oč větší Taťánina vina?  
 O to, že v milé prostotě,  
@@ -410,7 +458,9 @@ i něžným srdcem, krví dravou?
 A křehkost vášně té že svět  
 by nedovedl odpouštět?
 
-XXV
+### XXV
+
+  
 
 Koketa ano řekne stěží,  
 neb chladnou radost ze hry má.  
@@ -427,7 +477,9 @@ neb jinak, unuděný námi,
 vítězný otrok hotoví  
 se vždycky strhat okovy.
 
-XXVI
+### XXVI
+
+  
 
 Teď tíží mě však úkol jiný:  
 bych uctil vlastenecký cit,  
@@ -444,7 +496,9 @@ se rusky vyznávati bála,
 až dosud řeč ta nezvyklá  
 poštovní próze unikla.
 
-XXVII
+### XXVII
+
+  
 
 Vím: chtěli dámy donutiti  
 číst rusky. Klobouk na stranu!  
@@ -461,7 +515,9 @@ vždy v rozpacích se zakoktaly,
 však cizí zato po chvíli  
 se jako rodnou bavily.
 
-XXVIII
+### XXVIII
+
+  
 
 Dej Bůh, bych nepotkal kdy v bále  
 — mne strach již předem zalyká —  
@@ -478,7 +534,9 @@ a v básní ctitelky se změní.
 Co já pak? Věřte, v sluchu mém  
 vše zůstane zas při starém.
 
-XXIX
+### XXIX
+
+  
 
 Nedbalost v chybujícím slovu,  
 zlý přízvuk, jímž řeč šidíme,  
@@ -495,7 +553,9 @@ a málem bych už všeho nechal.
 Vždyť vím: ten něžný Parny dnes  
 už do zapomenutí kles.
 
-XXX
+### XXX
+
+  
 
 Básníku Hostin, temných smutků,  
 kdybys tu se mnou ještě byl,  
@@ -512,7 +572,9 @@ sám pod finského nebe prahy
 se kdesi toulá, neslyší  
 hlas bolesti mé nejtišší.
 
-XXXI
+### XXXI
+
+  
 
 Zde leží Taťánino psaní.  
 Jen plaše beru v dlaň ten list  
@@ -530,6 +592,8 @@ pobledlý snímek živé malby;
 zahraná hudba z Webera.
 
 TAŤÁNIN DOPIS ONĚGINOVI
+
+  
 
 „Já píši vám — co mohu více?  
 Co ještě mohu dodati?  
@@ -553,6 +617,8 @@ Však řekli, že jste samotář.
 A my… z nás věru nejde zář,  
 třebaže ze srdce vás ctíme.
 
+  
+
 Proč jenom, proč jste přišel k nám?  
 Já v žalu opuštěné vsi té  
 bych neznala vás, jak vás znám,  
@@ -562,6 +628,8 @@ by smířil čas, pak (kdož to ví?)
 bych zadala se mužovi  
 a byla mu i věrnou ženou  
 i ctnostnou matkou usmířenou.
+
+  
 
 Jiného…? Ne již. V světě ráda  
 nikoho nemohu mít já.  
@@ -609,12 +677,16 @@ Buď lásku najevo mi dej,
 či těžké sny mé zpřetrhej,  
 ať stihne mě trest zasloužený!
 
+  
+
 I končím! Hrůzno mi číst psaní…  
 Já studem, strachy umírám…  
 Však vím, že vaše čest mě chrání,  
 a směle svěřuji se vám…“
 
-XXXII
+### XXXII
+
+  
 
 Taťána vzdychá z teskné duše.  
 List v prstech se jí zachvívá.  
@@ -631,7 +703,9 @@ Stříbrné vlnky strouhou plynou.
 Je ráno. Všichni vstali již.  
 Však s Taťánou je dneska kříž.
 
-XXXIII
+### XXXIII
+
+  
 
 S opřenou hlavou neviděla,  
 že přichází den chvílí tou.  
@@ -648,7 +722,9 @@ Nu, sláva Bohu, že jsi zdráva!
 Ta noční starost mizí hned.  
 Máš dneska tvář jak z máku květ. —
 
-XXXIV
+### XXXIV
+
+  
 
 „Ach ňáňo, byla bys tak hodná…  
 nemysli, že to… zlé je snad…“  
@@ -665,7 +741,9 @@ Prosím tě, pověz mi vše znova —
 kolem je tolik sousedů,  
 sečíst je sotva dovedu. —
 
-XXXV
+### XXXV
+
+  
 
 „Jak nechápavá jsi dnes, ňáňo!“  
 — To starobou je, dítě mé.  
@@ -682,7 +760,9 @@ Co to? Zas slabost rozráží tě? —
 „Ba ne, má ňáňo, zdráva jsem.  
 Jen ať hoch letí s dopisem.“
 
-XXXVI
+### XXXVI
+
+  
 
 Den uplynul a druhý je tu.  
 Taťána, bledá jako list,  
@@ -699,7 +779,9 @@ stařičké paní Lenskij řek,
 Taťána oči přivřela,  
 jako by výtku slyšela.
 
-XXXVII
+### XXXVII
+
+  
 
 Šel soumrak. Na prostřeném stole  
 už kypěl lesklý samovar.  
@@ -716,7 +798,9 @@ líbezným prstíkem svým psala
 tajemně po zamženém skle  
 monogram lásky O a E.
 
-XXXVIII
+### XXXVIII
+
+  
 
 A duše se jí tetelila  
 v slzách, jež zrak jí zastřely.  
@@ -733,7 +817,9 @@ keř šeříku se láme za ní,
 až nad potokem v květnici  
 na zarosenou lavici
 
-XXXIX
+### XXXIX
+
+  
 
 dopadla… „Evžen! Evžen je tu!  
 Můj Bože, co si myslí jen?“  
@@ -752,6 +838,8 @@ Toť šlechta vynalézavá!)
 
 PÍSEŇ DĚVČAT
 
+  
+
 Dívčice, panenky,  
 dušinky rozmilé,  
 hrajte si, dívčice,  
@@ -760,6 +848,8 @@ Pusťte se do zpěvu
 písničky šalebné,  
 přivabte mládence  
 do kola našeho.
+
+  
 
 A když ho zvábíme,  
 z dálky ho poznáme,  
@@ -771,7 +861,9 @@ písničky šalebné,
 nebuď tak zvědavý  
 na dívčí zábavy.
 
-XL
+### XL
+
+  
 
 Tak zpívaly a Táňa hluše  
 vnímala jásot písně v mhách.  
@@ -788,7 +880,9 @@ Tak zajíc v ozimu se třese,
 když zhlédne v rukou střelce zbraň,  
 z křoviny namířenou naň.
 
-XLI
+### XLI
+
+  
 
 Nakonec, plna beznaděje,  
 se odhodlala jíti dál.  

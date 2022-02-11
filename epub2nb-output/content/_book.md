@@ -11,10 +11,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
 readingOrder:
-  - evzen_onegin_001.html
   - evzen_onegin_002.html
-  - evzen_onegin_003.html
-  - evzen_onegin_004.html
   - evzen_onegin_005.html
   - evzen_onegin_006.html
   - evzen_onegin_007.html
@@ -38,10 +35,15 @@ readingOrder:
   - evzen_onegin_025.html
   - evzen_onegin_026.html
   - evzen_onegin_027.html
-  - evzen_onegin_028.html
+  - colophon.html
 tocBase:
   - id: section-1
     children:
+      - link: evzen_onegin_005.html
+        title: Věnování
+        hiddenTitle: true
+        children: []
+        listType: plain
       - link: evzen_onegin_007.html
         title: HLAVA PRVNÍ
         hiddenTitle: false
@@ -85,13 +87,24 @@ tocBase:
       - link: evzen_onegin_023.html
         title: DODATKY
         hiddenTitle: false
-        children: []
+        children:
+          - link: evzen_onegin_024.html
+            title: PUTOVÁNÍ ONĚGINOVO
+            hiddenTitle: false
+          - link: evzen_onegin_025.html
+            title: ONĚGINOVO ALBUM
+            hiddenTitle: false
+          - link: evzen_onegin_026.html
+            title: VYNECHANÉ SLOKY
+            hiddenTitle: false
         listType: plain
       - link: evzen_onegin_027.html
-        title: Ediční poznámka
+        title: |-
+          Ediční
+          poznámka
         hiddenTitle: false
     isSection: true
-    listType: plain
+    listType: numbered
 static:
   - style
   - scripts

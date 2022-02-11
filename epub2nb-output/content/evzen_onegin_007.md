@@ -2,6 +2,6 @@
 title: HLAVA PRVNÍ
 ---
 
-I kvapí s životem, i s city pospíchá.
+> _I kvapí s životem, i s city pospíchá._
 
 — KN. VJAZEMSKIJ
