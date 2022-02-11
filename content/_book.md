@@ -104,7 +104,7 @@ tocBase:
           poznámka
         hiddenTitle: false
     isSection: true
-    listType: numbered
+    listType: plain
 static:
   - style
   - scripts
