@@ -2,6 +2,8 @@
 title: PUTOVÁNÍ ONĚGINOVO
 ---
 
+  
+
 Kdo ústy světa souzen bývá,  
 ten, pochopíte, nesnáší,  
 když fáma společnosti divá  
@@ -16,6 +18,8 @@ v souboji druha zastřeliv,
 bez cíle, v spárech nudy živ,  
 bez ženy, služby, v srdci chlad,  
 už dávno něčím se chtěl stát.
+
+  
 
 Nudil se, platě za Melmotha  
 či jinou masku koketní.  
@@ -32,6 +36,8 @@ A chystá se a v duchu vidí
 svatou Rus, její roviny  
 a města, moře, pustiny.
 
+  
+
 I sebral se — a s jarou silou,  
 bylo to v červnu, třetího,  
 v kolesce lehké cestou bílou  
@@ -46,6 +52,8 @@ zákonodárce Jaroslav,
 car Ivan Hrozný, vnuk Ivanův,  
 schýlené chrámy a kol nich  
 šum lidu časů minulých.
+
+  
 
 Ó tíseň, tíseň! Rychle dále  
 pospíchá Evžen. Z šírých měr  
@@ -62,6 +70,8 @@ a vozků zpěv a křik a skřeky
 se nesou prachem. Evžen spí,  
 až na Tverské se probudí.
 
+  
+
 A Moskva Evženovi kyne  
 divokým spěchem, shonem svým;  
 svod dívek svých kol něho vine  
@@ -76,6 +86,8 @@ Měl zájem Moskvy na chvíli.
 Jednou jak zvěda se ho hrozí,  
 pak k jeho poctě skládá rým  
 a namlouvá ho pannám svým.
+
+  
 
 Ó tíseň, tíseň! — V Nižnij spěchá,  
 vlast Minina. Tu Makarjev  
@@ -92,8 +104,10 @@ a dcerky loňské módy svoje.
 Vše lže tu, kypí zvesela,  
 vším obchod vládne docela,
 
+  
+
 Ó tíseň! — Čeká na pohodu.  
-Už Volha, řek a jezer skvost,  
+Už Volha, _řek a jezer skvost_,  
 ho zve na mohutnou svou vodu,  
 kde vítr v bílých plachtách rost.  
 Lovec se lehce zvábit nechá,  
@@ -106,6 +120,8 @@ o smělých jízdách po kraji,
 o ruchu zbojnického sídla,  
 jež Stěnka Razin proslavil,  
 když volžské vlny krvavil.
+
+  
 
 Zní píseň o nezvaných hostech,  
 kteří kdys loupili a žhli.  
@@ -122,6 +138,8 @@ z kaspických písků prchnout chvátá,
 bez prodlení, pln tísně zas…  
 A jede rovnou na Kavkaz.
 
+  
+
 I vidí tu, jak Těrek divý  
 rve dravě příkré břehy své,  
 jak vznáší se král orel sivý  
@@ -136,6 +154,8 @@ tu přirozenou hradbu řek
 a hor se záludnými kryty;  
 na březích Kury, Aragvy  
 se ruské stany bělají.
+
+  
 
 Už věčný strážce šírých pouští,  
 hrotivý Beštu, vroubí dál,  
@@ -152,6 +172,8 @@ koketa nazpět chce svůj květen,
 starci by rádi dopili  
 se mládí zas — byť na chvíli.
 
+  
+
 Hle, všichni choří, všichni bledí…  
 Jen on, v snech hořkých ztracený,  
 Oněgin, se soucitem hledí  
@@ -166,6 +188,8 @@ I o dně z cizích úst jen vím.
 I já jak tato cháska chorá,  
 které to dopřál Stvořitel,  
 naději poznati bych chtěl.
+
+  
 
 Blažen, kdo stár! Blažen, kdo chorý!  
 Neb osud si ho v péči vzal.  
@@ -182,6 +206,8 @@ nadšený Mickiewicz tam básnil
 a na pobřeží v stínu skal  
 na svoji Litvu vzpomínal.
 
+  
+
 Poprvé viděn, zrána, z lodi,  
 jak půvabný je krymský břeh,  
 k němuž mě vzpomínkami vodí  
@@ -196,6 +222,8 @@ Jakým to ohněm byl jsem vzňat!
 Vlnami stesku kouzelnými  
 jak plamen zaplavil mi hruď!  
 Ne, Múzo, ne! Už němá buď!
+
+  
 
 Těch citů, jež se ozývaly  
 v mém srdci! — Pohltil je svět.  
@@ -212,6 +240,8 @@ spí poezie vzletuplná.
 V pohár, jenž jejím vínem hrál,  
 já mnoho vody přimíchal.
 
+  
+
 Teď potřebuji obraz jiný:  
 o písečnaté stráni sním,  
 před chatou chci dvě jeřabiny  
@@ -226,6 +256,8 @@ na vetchých prknech kabaku.
 Mám za ideál — hospodyni  
 a touhou mou je — pouze klid  
 a mísa šči a pánem být.
+
+  
 
 V čas deště zašel jsem si kdysi  
 za dobytčího dvora zeď…  
@@ -242,6 +274,8 @@ i Evžen vešel. Tiše stanul
 tři léta po mně tu. Jak stál,  
 na mne si tady vzpomínal.
 
+  
+
 Oděsa plna prachu byla,  
 žhlo slunce. Žil jsem tehdy tam.  
 Kupecká píle okřídlila  
@@ -256,6 +290,8 @@ a Francouz, Turek v chalátu,
 Řek, Španěl, Rumun rozložitý  
 i snědý Nilu syn tu dlí,  
 Morali, korzár bývalý.
+
+  
 
 Oděsu zvučně popisoval  
 náš druh Tumanskij. Škoda jen:  
@@ -286,6 +322,8 @@ v níž váznou lidí, vozů řady,
 kde drožku vůl, když selže kůň,  
 jde tahat přes bezednou tůň.
 
+  
+
 Už zvoní však štěrk pod kladivy  
 a zachráněnou ulicí,  
 dlážděným městem jako divý  
@@ -300,6 +338,8 @@ když bez cla vozí víno sem.
 A jižní slunce, blízko k moři…  
 Nač více si kdo vzpomene?  
 Vy kraje blahoslavené!
+
+  
 
 Když na korábu výstřel ranní  
 se z děla rozlehl, já hned  
@@ -316,6 +356,8 @@ vychází na balkon, by špínu
 vymetl dlouhým pometlem.  
 Dva kupci spěchají už sem.
 
+  
+
 Den čaroděj svou lehkou hůlkou  
 klid ulic v úprk obrací.  
 Jdou za prací i za potulkou,  
@@ -330,6 +372,8 @@ zda cizí víno připlulo?
 Zda zpráva o moru ho zleká?  
 Kde požáry, kde válka, hlad,  
 a vše, o čem lze povídat?
+
+  
 
 My ale, mládež bez starosti,  
 ve směsi kupců kvapících  
@@ -346,6 +390,8 @@ ze sklepa láhev ojíněnou.
 Čas letí, účet hrozivý  
 se přitom tajně přiživí.
 
+  
+
 Leč stíny šera pospíchají  
 a běda, kdo se nevzchopí!  
 V opeře Rossiniho hrají:  
@@ -361,6 +407,8 @@ do sklenic v zlatém mihotání…
 Lze víno však, jež kyne mi,  
 srovnávat, páni, s do-re-mi?
 
+  
+
 Těch kouzel, jež má paměť křísí!  
 Těch skel, upřených v tváře dam!  
 Těch letmých schůzek v zákulisí!  
@@ -373,8 +421,10 @@ Vnímavá napůl, napůl hluchá
 k jich šepotu a k áriím  
 i k žertům vážně míněným…  
 A muž — spí v koutě na půl ucha,  
-zavolá fuora, zívne si,  
+zavolá _fuora_, zívne si,  
 a chrápaje, nás poděsí.
+
+  
 
 Hřmí finále; a sál se prázdní;  
 a davem zahemží se vjezd;  
@@ -391,6 +441,8 @@ mlhavý obraz oblak snímá
 nad průsvitavou tišinou.  
 Jen Černé moře hučí tmou…
 
+  
+
 Tak tady s novým kruhem přátel  
 já tehdy v Oděse jsem žil.  
 Kde byl můj chmurný cestovatel?  
@@ -406,6 +458,8 @@ jak temný přelud jiné země;
 jak uvítán byl od přátel  
 a jakou já jsem radost měl!
 
+  
+
 Přátelství, přírody daň vonná!!!  
 My na sebe jsme zírali,  
 jak auguři dva z Cicerona  
@@ -413,6 +467,8 @@ pak tiše jsme se zasmáli…
 — — —  
 — — —  
 — — —
+
+  
 
 Nu, dlouho jsme se nevodili  
 po bílých březích euxinských.  
@@ -429,6 +485,8 @@ jsem odjel k lesům na Tříhoří,
 v severní, dalekou tu ves  
 a těžký žal tam na mne kles.
 
+  
+
 Ať kdekoli jen osud chystá  
 si pro mne bezejmenný kout,  
 ať kamkoli dlaň jeho jistá  
@@ -443,6 +501,8 @@ Sám, v davu, i jda na hřbitov,
 já věčně budu v lučním kvítí  
 vás vidět, stíny Tříhoří,  
 v němž klid váš, sen mi zahoří.
+
+  
 
 I mírné Soroti břeh táhlý,  
 i rozčeřená návrší,  

@@ -2,7 +2,7 @@
 title: HLAVA SEDMÁ
 ---
 
-Moskvo, ty milá dcero Rusi,
+> _Moskvo, ty milá dcero Rusi,_
 
 kde rovnou tobě hledati?
 

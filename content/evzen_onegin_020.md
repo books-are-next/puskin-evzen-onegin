@@ -2,7 +2,9 @@
 title: ''
 ---
 
-I
+### I
+
+  
 
 Sníh tál již v teplém dechu jara,  
 z hor hrnuly se bystřiny  
@@ -19,7 +21,9 @@ již letí z voskové své cely.
 A noc co noc z tmy vyklíčí  
 do ticha tlukot slavičí.
 
-II
+### II
+
+  
 
 Jak smuten jsem, když blížíš se mi,  
 ó jaro, jaro! Lásky čas!  
@@ -36,7 +40,9 @@ mi přidá nudy jen a jedu
 do dávno mrtvé duše mé,  
 jež vidí vše v tmách ztopené?
 
-III
+### III
+
+  
 
 Či bez radosti nad návraty  
 s podzimem zašlých zelení  
@@ -53,7 +59,9 @@ a tlukot našich srdcí raní
 přeludem dálky, plující  
 tmou při kouzelném měsíci?
 
-IV
+### IV
+
+  
 
 Je čas: jdi každý dobrák líný,  
 jenž na slast myslit dovede;  
@@ -70,7 +78,9 @@ a do přírody, kamarádi,
 dle chuti po svých, po voze  
 z měst, zaprášených uboze.
 
-V
+### V
+
+  
 
 I vy, čtenáři, na mou duši,  
 kolesku měl byste si vzít  
@@ -87,7 +97,9 @@ děvčátka mého blouznivého,
 kde však jen stopa zoufalá  
 po uprchlíku zůstala.
 
-VI
+### VI
+
+  
 
 Pojď, půjdem k vrchů polokruhu,  
 kde k řece běžíc, bystřina  
@@ -104,7 +116,9 @@ smrt smělých skosila ho záhy.
 V ten a ten rok, v let toliku.  
 Spi klidně, mladý básníku!“
 
-VII
+### VII
+
+  
 
 Byl čas, kdy pokřivenou sosnu  
 věneček divný zdobíval.  
@@ -121,11 +135,15 @@ Jen pastýř s lýkem svým tu sedá
 a jeho píseň jako dřív  
 pomalu splývá s tichem niv.
 
-VIII–IX
+### VIII–IX
+
+  
 
 — — —
 
-X
+### X
+
+  
 
 Ubohý Lenskij! V prázdná lada  
 neplakal dlouho její žal.  
@@ -142,7 +160,9 @@ svou hlavu do závoje chýlí,
 má oheň v očích sklopených,  
 na rty jí lehký úsměv dých.
 
-XI
+### XI
+
+  
 
 Ubohý Lenskij! Zda se rmoutí  
 ve vanu věčna, v hrobě svém,  
@@ -159,7 +179,9 @@ A jenom pro statky, vždyť víme,
 hádavých dědiců zlý chór  
 dál vede hanebný svůj spor.
 
-XII
+### XII
+
+  
 
 Brzičko u Lariných věru  
 zmlk Olin zvonečkový smích.  
@@ -176,7 +198,9 @@ a všichni loučit se už chtějí,
 s odjíždějící dvojicí  
 jde ještě Táňa mlčící.
 
-XIII
+### XIII
+
+  
 
 Pak dlouho, dlouho dívala se  
 za nimi jako mlhou par.  
@@ -193,7 +217,9 @@ a útěchy, té nenachází
 pro slzy nevyplakané,  
 pro srdce napůl urvané.
 
-XIV
+### XIV
+
+  
 
 V samotě krutěji žhnou žaly  
 a vášeň vzrůstat začíná.  
@@ -210,7 +236,9 @@ jak dým do nebe modravého.
 Dvě srdce možná dosavad  
 ho litují… Nač litovat?
 
-XV
+### XV
+
+  
 
 Šel soumrak. Nebe smrákalo se.  
 Šum vod zněl tiše. Bzučel chroust.  
@@ -227,7 +255,9 @@ a sad nad řekou ozářenou.
 Hleděla dolů. Srdce jí  
 zatlouklo rychlej, silněji.
 
-XVI
+### XVI
+
+  
 
 Je v rozpacích: „Zde bydlil v zimě.  
 Mám jíti dál, mám zpět se dát?  
@@ -244,7 +274,9 @@ a s bujným křikem, s trochou rvačky
 psy zahnal. Noví přátelé  
 si vedli slečnu vesele.
 
-XVII
+### XVII
+
+  
 
 „A panské byty, přístupny jsou?“  
 se Táňa dětí zeptala.  
@@ -261,7 +293,9 @@ stařenka za Taťánou běží
 a šeptá u krbu: „Zde pán  
 tak rád sedával zadumán…
 
-XVIII
+### XVIII
+
+  
 
 Zde sedával s ním při obědě  
 pan Lenskij. Opustil už svět…  
@@ -278,7 +312,9 @@ Dej Pánbůh klid té duši milé,
 už karty, chudák, nehraje.  
 Ať matka zem mu lehká je!“
 
-XIX
+### XIX
+
+  
 
 Taťána obchází vše v chvatu,  
 dojatá, na vše zvědavá.  
@@ -295,7 +331,9 @@ i stolek, na němž soška z kovu,
 v klobouku, čelo zchmuřené  
 a ruce křížem složené.
 
-XX
+### XX
+
+  
 
 Jako by Táňu očaroval  
 v té módní cele, stojí tu.  
@@ -312,7 +350,9 @@ Jen ještě prosí, zda by směla
 sem zajít — jaký je tu klid! —  
 a do knih se zde pohroužit.
 
-XXI
+### XXI
+
+  
 
 Až za vrata ji provázela  
 klíčnice. Ale zítra hned  
@@ -329,7 +369,9 @@ podivný výběr; celá vzplála,
 s hladovou duší četla dál.  
 A nový svět tu před ní stál.
 
-XXII
+### XXII
+
+  
 
 Oněgin dávno už, jak víme,  
 odvykl zcela světu knih.  
@@ -346,7 +388,9 @@ oddaný snům, jimž není léku,
 i s rozumem svým zběsilým,  
 jenž rozplývá se v marný dým.
 
-XXIII
+### XXIII
+
+  
 
 Škrt nehtem, ostře vyznačený,  
 tkvěl tu a tam na stránkách knih.  
@@ -363,7 +407,9 @@ ve všech těch značkách tkvěla celá,
 tu v křížku, v slůvku ztraceném,  
 tu v otazníku zkrouceném.
 
-XXIV
+### XXIV
+
+  
 
 I začíná teď nad knihami  
 pozvolna lépe chápati  
@@ -380,7 +426,9 @@ stín, jenž se v cizí masce plouhá,
 slov módních plný lexikon,  
 či parodie že je on?
 
-XXV
+### XXV
+
+  
 
 Co bylo v hádance té skryto?  
 Snad přece pravda svitla jí?  
@@ -397,7 +445,9 @@ a každému div nevyspílá.
 Jen vzdychá v toulkách po polích.  
 Prý nechce…“ matčin nářek ztich.
 
-XXVI
+### XXVI
+
+  
 
 — Nemá snad lásku? — „Nevím, kdo by!  
 Bujanov prosil: koš měl hned.  
@@ -414,7 +464,9 @@ Houf ženichů tam u cesty! —
 — Pro jednu zimu? To je krám!  
 A ostatně — já půjčím vám. —
 
-XXVII
+### XXVII
+
+  
 
 Je dobrá rada ve zlém čase.  
 Stařenka kvůli dítěti  
@@ -431,7 +483,9 @@ se jí tam budou vysmívati…!
 To vše jí hrůzu nahání.  
 Líp zůstat v tichém ústraní.
 
-XXVIII
+### XXVIII
+
+  
 
 Jen vstala, záhy za úsvitu,  
 už do přírody pospíchá  
@@ -448,7 +502,9 @@ Volnosti, sbohem, těžko je mi
 jít do mlžného neznáma.  
 Co chystá pro mne sudba má?“
 
-XXIX
+### XXIX
+
+  
 
 A její toulky se teď dlouží.  
 Tu láká potok, onde chlum.  
@@ -465,7 +521,9 @@ A již sem sever s mračny chvátá;
 dul, zahučel a zima již  
 jde o svých berlích blíž a blíž.
 
-XXX
+### XXX
+
+  
 
 Už přišla, už se chumelila,  
 na duby pověsil se sníh,  
@@ -482,7 +540,9 @@ a prvním sněhem ze střech lázně
 tvář, hruď, ramena nemyje.  
 Takový v ní strach z cesty je.
 
-XXXI
+### XXXI
+
+  
 
 Už minul den, kdy vyjet měli,  
 už věru nejvyšší byl čas.  
@@ -499,7 +559,9 @@ Ven z jizeb služebnictvo chvátá
 a všude šum a pláč má vrch,  
 už vedou na dvůr osmnáct mrch,
 
-XXXII
+### XXXII
+
+  
 
 v bojarské saně zapřahají,  
 snídani nesou ze dveří  
@@ -516,7 +578,9 @@ nuž sbohem, zákoutí má milá,
 kdy uzřím vás?“ A Táňa má  
 si stírá slzy rukama.
 
-XXXIII
+### XXXIII
+
+  
 
 Snad jednou, díky vzdělanosti,  
 až povolí jí ruský svět  
@@ -533,7 +597,9 @@ povedem směle chodbu zděnou
 a bude v zájmu národa  
 co stanice, to hospoda.
 
-XXXIV
+### XXXIV
+
+  
 
 Teď naše cesty, chátrajíce,  
 pozvolna hnijou, mosty též.  
@@ -550,7 +616,9 @@ jež ruské cesty těžce snáší,
 a Pána Boha prosí dál,  
 by cesty spravit nenechal.
 
-XXXV
+### XXXV
+
+  
 
 Leč zato v zimě! Mrazík tenký  
 dal do pořádku silnice.  
@@ -567,7 +635,9 @@ si jejich herky cestu klestí
 a Táňa naše unylá  
 se dokonale znudila.
 
-XXXVI
+### XXXVI
+
+  
 
 Však už se blíží, už zří na ně  
 v svém zlatě, v záři plamenné  
@@ -584,7 +654,9 @@ Moskvo! Co všecko v tomto slově
 je pro nás navždy spojeno,  
 ruského srdce ozvěno!
 
-XXXVII
+### XXXVII
+
+  
 
 Hle, do šera svých doubrav skrytý  
 Petrovský zámek! Chmuří v dál  
@@ -601,7 +673,9 @@ jen požár před ním založila.
 Dřív opojen, teď zasněný,  
 se odtud díval v plameny.
 
-XXXVIII
+### XXXVIII
+
+  
 
 Buď sbohem, svědku zašlé slávy,  
 Petrovský zámku! Jeďme dál!  
@@ -618,11 +692,15 @@ bulváry, aleje a báně,
 balkony, vrata znaků lvích  
 a hejna kavek na křížích.
 
-XXXIX
+### XXXIX
+
+  
 
 — — —
 
-XL
+### XL
+
+  
 
 Ta dálka! Saně kodrcají  
 už hodinu a snad už dvě.  
@@ -639,7 +717,9 @@ stařičká kněžna na divanu.
 A stařenky se líbaly  
 a plakaly a volaly:
 
-XLI
+### XLI
+
+  
 
 — Pachette! — „Má kněžno! Alino má!“  
 — Mon ange! Ta radost! — „Tolik let!“  
@@ -656,7 +736,9 @@ Jak ne, sestřenko… kdeže on?“
 Na Štědrý den tu u mne byl.  
 Nedávno syna oženil.
 
-XLII
+### XLII
+
+  
 
 A ten… Však pozděj dojdem k němu,  
 viď! Zítra Táňu ukážem  
@@ -673,7 +755,9 @@ Ke stáru život k břemenu je… —
 A pro pláč, jenž ji s kašlem chyt,  
 nemohla ani dokončit.
 
-XLIII
+### XLIII
+
+  
 
 Dobrota její dojímala  
 Taťánu, přesto smutnou přec,  
@@ -690,7 +774,9 @@ však z šera svítá obraz jiný:
 konírna, kuchyň, cizí dvůr  
 se noří s ploty z jitřních chmur.
 
-XLIV
+### XLIV
+
+  
 
 A ke příbuzným po obědech  
 den za dnem vodí Taťánu,  
@@ -707,7 +793,9 @@ jako bych kmotrou tobě stála!“
 Babičky sborem kývají:  
 „Jak nám ta léta prchají!“
 
-XLV
+### XLV
+
+  
 
 Po pravdě jsou však beze změny;  
 v svých starých zvycích zejména:  
@@ -724,7 +812,9 @@ a manžel zas, člen klubu zdávna,
 je stále krotký, nahluchlý  
 a pitím za dva opuchlý.
 
-XLVI
+### XLVI
+
+  
 
 Grácie Moskvy, jejich dcery,  
 teď mají novou zábavu.  
@@ -741,7 +831,9 @@ do módních účesů ji nutí,
 a pak i jejich tajemství,  
 tajemství srdcí Táňa zví,
 
-XLVII
+### XLVII
+
+  
 
 vítězství té a výhru oné,  
 sny, naděje a námluvy.  
@@ -758,7 +850,9 @@ posvátný poklad slz a blaha,
 co živa bude, nezradí  
 v svém mlčenlivém úkradí.
 
-XLVIII
+### XLVIII
+
+  
 
 I přesto touží Táňa zase  
 brát účast v čilé besedě.  
@@ -775,7 +869,9 @@ a v srdci sotva žertem svitne.
 Ba také hloupost od dávna  
 tu pramálo je zábavná.
 
-XLIX
+### XLIX
+
+  
 
 Společně k Táně zrakem bloudí  
 škrobená mládež z archivu.  
@@ -792,7 +888,9 @@ Zeptal se na ni, když to zhlédl,
 mladíka, jenž byl po ruce,  
 jakýsi stařík v paruce.
 
-L
+### L
+
+  
 
 Leč tam, kde divě rozlehne se  
 křik Melpomeny k prázdným zdem,  
@@ -809,7 +907,9 @@ se lorňon nepřejícné dámy
 a muži, jež ctí módní svět,  
 v lóžích a křeslech, jak by smet.
 
-LI
+### LI
+
+  
 
 Pak ovšem na plesy ji vlekou.  
 Tam nával, dusno je a šum.  
@@ -826,7 +926,9 @@ Sbor husarů tu úspěch shání,
 oslní, zvíří dívčí sen  
 a s břinkotem zas letí ven.
 
-LII
+### LII
+
+  
 
 Tak mnoho hvězd plá nocí sinou,  
 tak mnoho krásek v Moskvě je.  
@@ -843,7 +945,9 @@ A její oči jak dva vánky…!
 Než dost, už dost; a srdce chraň:  
 vždyť vášním platil jsi již daň.
 
-LIII
+### LIII
+
+  
 
 Smích, šum a poplach v zmatku hloupém,  
 mazurka, kvapík s valčíkem.  
@@ -858,9 +962,11 @@ v svá osamělá zátiší,
 kde zurčet potok uslyší,  
 k svým románům a k vůni květů  
 a k lipovým těm alejím,  
-tam, tam, kde setkala se s ním.
+tam, tam, kde setkala se s _ním_.
 
-LIV
+### LIV
+
+  
 
 Kdo ví, co vše si v dáli vysní:  
 svět zmizel jí i hlučný bál.  
@@ -877,7 +983,9 @@ tam v uniformě ty dva pány?
 Teď stojí bokem. Teď jde dál…“  
 — Kdo? Tenhle tlustý generál…? —
 
-LV
+### LV
+
+  
 
 Ponechme Táně úspěch její  
 a sny, jež teskně oželí.  

@@ -2,7 +2,9 @@
 title: ''
 ---
 
-I
+### I
+
+  
 
 Onoho roku prodloužila  
 se pohoda až přes podzim.  
@@ -19,7 +21,9 @@ a vrchy měkce zvlněnými
 proudilo světlo, tančil jas.  
 Konečně zima, zima zas.
 
-II
+### II
+
+  
 
 I sedlák ožil. Bez meškání  
 se chystá k cestě sanicí.  
@@ -36,7 +40,9 @@ prst mrzne mu i mne si skráně
 i plakat se mu chce i smát  
 a matka hrozí mu již z vrat.
 
-III
+### III
+
+  
 
 Nu, tenhle zimní obraz kraje  
 vám připadá snad naivní:  
@@ -53,7 +59,9 @@ nezamýšlím však konkurence
 s ním, ani s tebou, pěvče náš,  
 jenž finské děvče opěváš.
 
-IV
+### IV
+
+  
 
 Taťána (sama netušila,  
 jak ruská její duše je)  
@@ -70,7 +78,9 @@ svým slečnám služky věštívaly
 ženicha od vojanských vždy.  
 A k němu válku, to se ví.
 
-V
+### V
+
+  
 
 Taťána věřila v ty zkazky,  
 jež po svých dědech dědil lid.  
@@ -87,7 +97,9 @@ to nezvratný jí důkaz byl,
 se nebem měsíc dvourohý,  
 od leva svítě pod nohy,
 
-VI
+### VI
+
+  
 
 třásla se, všechny barvy hrajíc.  
 Když nebem hvězda letěla,  
@@ -104,7 +116,9 @@ na Táňu strach, že sotva dýchá
 a zarmoucena do duše  
 je vždycky v černé předtuše.
 
-VII
+### VII
+
+  
 
 Však právě tato hrůza chladná  
 ji tajnou krásou vábila.  
@@ -121,7 +135,9 @@ kde vše to tam. I to je jedno:
 vše ztraceno, leč naděje  
 dál dětským šeptem klame je.
 
-VIII
+### VIII
+
+  
 
 Taťána zvědavě se dívá,  
  jak vosk jí padá do vody.  
@@ -131,14 +147,16 @@ Prsteny, vylovené v míse
 plničké vody, střídají se.  
 A když se její kutálel,  
 stařičké písně nápěv zněl:  
-„Tam každý mužik mívá zlato;  
+_„Tam každý mužik mívá zlato;  
 lopatou stříbro shrabuje.  
 Komu ta píseň, ať mu je  
-vždy dobře.“ Ale píseň tato  
+vždy dobře.“_ Ale píseň tato  
 zní teskně, věští ztrátu prý.  
-A dívky chtí spíš Kočičky.
+A dívky chtí spíš _Kočičky_.
 
-IX
+### IX
+
+  
 
 Tak harmonicky k svému srázu  
 uplývá nebem, plným chmur,  
@@ -152,10 +170,12 @@ Sníh křupe… chodec… rychle k němu!
 Když dohoní ho po špičkách,  
 hlas něžnější než zvonky v tmách  
 zaznívá k stínu zlekanému:  
-„Jak říkají vám?“ A tu on  
+„_Jak říkají vám?_“ A tu on  
 jí odpovídá: Agafon.
 
-X
+### X
+
+  
 
 A pak jí ňáňa poradila:  
 Snad budoucnost se zjeví ti,  
@@ -172,7 +192,9 @@ a zrcadlo, jež do hlav skryla,
 osleplo, nečaruje již.  
 Je ticho. Taťáno má, spíš?
 
-XI
+### XI
+
+  
 
 Jen sklížily se oči Táni,  
 hned v podivný sen upadla.  
@@ -189,7 +211,9 @@ Před temně rozevřenou strží,
 vln hlukem na smrt zlekaná,  
 se zastavila Taťána.
 
-XII
+### XII
+
+  
 
 I hledí, hledí vyčítavě  
 na potok, jenž jí překáží.  
@@ -206,7 +230,9 @@ a krůčkem, v němž se hrůza tají,
 přeběhla. Ach! A huňáč dál  
 se cestou za ní kolébal.
 
-XIII
+### XIII
+
+  
 
 Dál, bez odvahy vzhlédnout k němu,  
 pospíchá Táňa ze všech sil;  
@@ -223,7 +249,9 @@ však kudy jíti? Pod vlnami
 metelic kře i výspy skal  
 sníh bílou plachtou zasypal.
 
-XIV
+### XIV
+
+  
 
 I míří k lesu. Medvěd za ní.  
 Sníh po kolena sahá jí.  
@@ -240,7 +268,9 @@ neb vyhrnouti jej se stydí.
 I běží dál a běží dál.  
 A medvěd jak by si s ní hrál.
 
-XV
+### XV
+
+  
 
 Upadla v sněhu. Medvěd hbitě  
 ji popadl, pryč pospíchá.  
@@ -257,7 +287,9 @@ teď můžeš se tu osušiti.“ —
 A ze sněhu ji v síňku zved,  
 kde položil ji na práh hned.
 
-XVI
+### XVI
+
+  
 
 Když znovu oči otevřela,  
 byl medvěd pryč, jen strop ji střeh.  
@@ -274,7 +306,9 @@ a kostroun, tuhý do směšnosti,
 tam k skřítkovi se přicourá  
 půl jeřáb a půl kocoura.
 
-XVII
+### XVII
+
+  
 
 A ještě strašnější jdou svatí:  
 tu rak s pavoukem křepčící,  
@@ -291,7 +325,9 @@ a jehož jménem zvu své dílo!
 Oněgin, sedě uprostřed,  
 sem tam zrak tajně k dveřím zved.
 
-XVIII
+### XVIII
+
+  
 
 Dá znamení — vše víří zase,  
 zved sklenici — a každý pil.  
@@ -308,7 +344,9 @@ Tu hřmotně povstal za svým stolem
 a mezi dveře Evžen šel  
 a za ním zástup strašidel.
 
-XIX
+### XIX
+
+  
 
 Děs chápal se jí; jak by chtěla  
 pryč běžet, běžet ze všech sil!  
@@ -325,7 +363,9 @@ tesáky v tlamách rozepjaté,
 vše křičí ústy jedněma  
 a sápe se k ní: Má je, má!
 
-XX
+### XX
+
+  
 
 Je má! vzkřik Evžen na svou chasu,  
 jež ihned zmizela jak dým.  
@@ -342,7 +382,9 @@ divoce očima kol hází
 a nad Taťánou ve mdlobách  
 nezvaným hostům klne v tmách.
 
-XXI
+### XXI
+
+  
 
 Spor rozběsnil se. Náhle chytí  
 Oněgin dlouhý nůž, jen mžik —  
@@ -359,7 +401,9 @@ jak lehká vlaštovička vlétla.
 A ptá se v tichu pokoje:  
 Zjevil se ti? A kdo to je?
 
-XXII
+### XXII
+
+  
 
 Však ta, sestry si nevšímajíc,  
 dál leží s knihou v posteli,  
@@ -376,13 +420,15 @@ jak Táňou Martin Zadeka, ten
 chaldejský mudrc. Proč a zač?  
 Byl věštec a snů vykladač.
 
-XXIII
+### XXIII
+
+  
 
 Ten moudrý spis muž kočující  
 přivezl jednou na statek  
 a po únavné tahanici  
 tři a půl ruble si zaň řek,  
-kus Malvíny mé milé Táně  
+kus _Malvíny_ mé milé Táně  
 velkomyslně přidav za ně.  
 Taťána ovšem naopak  
 mu dala knížek celý vak,  
@@ -393,7 +439,9 @@ kdo jiný býval by jí tady
 za každé tísně radu dal  
 a pod hlavou jí věrně spal?
 
-XXIV
+### XXIV
+
+  
 
 Zlý sen jí z hlavy nevychází.  
 Chce věděti, co znamená  
@@ -410,7 +458,9 @@ v ní doznívá jak hukot řeky,
 a plna zlého tušení,  
 má denně větší trápení.
 
-XXV
+### XXV
+
+  
 
 A hle: svou zrůžovělou paží  
 Jitřenka odňala již tmám  
@@ -427,7 +477,9 @@ hluk, smích, na prahu tlačenice,
 poklony s tlachy mnohými,  
 křik dětí, starost s kojnými.
 
-XXVI
+### XXVI
+
+  
 
 Hle, vchází, vedle ženy záře,  
 pan Pusťakov. Jak chudák ztloust!  
@@ -444,7 +496,9 @@ Nezapomeňme na Fljanova.
 Žrout, těžký klepař, tatrman  
 a úplatkář je tento pán.
 
-XXVII
+### XXVII
+
+  
 
 S Charlikovem a jeho paní  
 monsieur Triquet zde po ruce.  
@@ -453,15 +507,17 @@ vtipálek v brejlích, v paruce.
 Jak opravdový Francouz uplet  
 a veze Táně v kapse kuplet,  
 jenž po staru se zpívat smí:  
-Réveillez vous, belle endormie.  
+_Réveillez vous, belle endormie_.  
 Už dávno někde ve zpěvníku  
 ta stará píseň zetlela,  
 Triquet však, hlava umělá  
 a básník, přeškrtl rok vzniku  
-a směle místo belle Nina  
-vybásnil belle Tatiana.
+a směle místo _belle Nina_  
+vybásnil _belle Tatiana._
 
-XXVIII
+### XXVIII
+
+  
 
 A zas je vzhůru celý statek.  
 To starších slečen ideál  
@@ -478,7 +534,9 @@ Slečinky krouží kolem Táni,
 naproti páni. Ještě kříž  
 a celý mumraj sedí již.
 
-XXIX
+### XXIX
+
+  
 
 Teď nad stolem si pokoj dali.  
 Vše žvýká. Ticho chvilenku.  
@@ -495,7 +553,9 @@ a každý místo pro ně shání
 a v zdravic družném zápolu  
 je posazují ke stolu.
 
-XXX
+### XXX
+
+  
 
 Dali jim místo proti Táni.  
 Bledší než luna po ránu,  
@@ -512,7 +572,9 @@ a třeba v tísni, bez ochoty,
 přec dvě tři slůvka procedí.  
 Ač zmatena, dál posedí.
 
-XXXI
+### XXXI
+
+  
 
 Už dávno Evžen snášet nemoh  
 těch dívčích nervóz, slz a mdlob.  
@@ -529,7 +591,9 @@ A mysle na svůj triumf divě,
 hned karikoval zálohou  
 v duchu směs hostí ubohou.
 
-XXXII
+### XXXII
+
+  
 
 Oněgin nebyl sám, jenž zmatek  
 Taťánin postřehnouti moh.  
@@ -546,7 +610,9 @@ předměte veršů mých, v nichž žije
 tvá láska, oslnivá číš,  
 jíž opájel jsem se, vždyť víš!
 
-XXXIII
+### XXXIII
+
+  
 
 Bouchají zátky. Víno šumí  
 svobodně z hrdla tlustým sklem.  
@@ -563,7 +629,9 @@ Pak poet skromný, ne však malý,
 jí připil první jak vzor všem.  
 A obdařil ji kupletem.
 
-XXXIV
+### XXXIV
+
+  
 
 A v proudu zdravic, blahopřání  
 Taťána děkovat jde všem.  
@@ -580,7 +648,9 @@ snad v dobrém úmyslu, snad maně.
 Co na tom? Něhou dvou tří chvil  
 jí přec jen srdce oživil.
 
-XXXV
+### XXXV
+
+  
 
 Hřmot židlí. Hosté opouštěli  
 pro teplý salon štědrý stůl.  
@@ -597,7 +667,9 @@ I po whistu se ruce vinou,
 a dcera nudy únavná  
 je jedna jako druhá hra.
 
-XXXVI
+### XXXVI
+
+  
 
 Už osmý rubber whistu hráli  
 ti pilní borci; osmkrát  
@@ -614,11 +686,15 @@ by poslali své výtky jinam:
 i božský Homér si tak ved,  
 slavný už tři tisíce let.
 
-XXXVII–XXXVIII
+### XXXVII–XXXVIII
+
+  
 
 — — —
 
-XXXIX
+### XXXIX
+
+  
 
 Sotva se dívky k čaji slétnou  
 a šálky k ústům donesou,  
@@ -635,7 +711,9 @@ Bujanov lapil Pusťakovou,
 a vše se hrne do sálu,  
 kde tančí v mladém zápalu.
 
-XL
+### XL
+
+  
 
 Z kraje mé knihy hravá slova  
 (vrať se k nim, čtenáři můj, dnes!)  
@@ -652,7 +730,9 @@ a to i životem i slohem,
 i spěchám tento pátý zpěv  
 očistit od zbytečných plev.
 
-XLI
+### XLI
+
+  
 
 Tak bláznivý, tak jednotvárný,  
 jak vítr našich mladých jar,  
@@ -669,7 +749,9 @@ s ní ve valčíku pokračuje.
 Vše žasne. Také Lenskij, vím,  
 nevěřil vlastním očím svým.
 
-XLII
+### XLII
+
+  
 
 Teď k mazurce se všecko mělo.  
 Byl čas, kdy v bujném rytmu tom  
@@ -686,11 +768,15 @@ vše jako kdys. Sem nedospěla
 tyranská, lichá móda ta,  
 v níž nová Rus je zajata.
 
-XLIII
+### XLIII
+
+  
 
 — — —
 
-XLIV
+### XLIV
+
+  
 
 Bujanov, bratranec můj čilý,  
 Taťánu s Olgou sálem ved  
@@ -707,7 +793,9 @@ vše viděl, ztratil klid a vzplál
 A jen pár stanul, Lenskij hned  
 ji na kotilion zvát se zved.
 
-XLV
+### XLV
+
+  
 
 A nepochodil. Zamluvili  
 se zase k tanci s Evženem.  

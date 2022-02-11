@@ -2,7 +2,7 @@
 title: HLAVA OSMÁ
 ---
 
-Fare thee well, and if for ever,
+> _Fare thee well, and if for ever,_
 
 Still for ever, fare thee well.
 

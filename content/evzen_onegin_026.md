@@ -2,9 +2,11 @@
 title: VYNECHANÉ SLOKY
 ---
 
-Z HLAVY PRVNÍ
+### Z HLAVY PRVNÍ
 
-IX
+### IX
+
+  
 
 Žár srdce záhy tak nás mučí,  
 jak Chateaubriand kdesi řek.  
@@ -23,7 +25,9 @@ Jak poznal zato ženy však!
 
 Z HLAVY DRUHÉ
 
-Konec sloky VIII
+### Konec sloky VIII
+
+  
 
 že věčný rod jich ustele  
 nám v slávě světel, jejichž chvění  
@@ -32,7 +36,9 @@ a lidstvo štěstím obdaří.
 
 Z HLAVY TŘETÍ
 
-Konec sloky III
+### Konec sloky III
+
+  
 
 Od dávna se tak bavívali.  
 Děvečky stojí u dveří,  
@@ -43,7 +49,9 @@ zas koně kritizujíce.
 
 Z HLAVY ČTVRTÉ
 
-I
+### I
+
+  
 
 Na prahu života mnou vládlo  
 lstné, krásné slabé pohlaví.  
@@ -60,7 +68,9 @@ jak nedosažitelné štěstí.
 U milých nohou žít i mřít —  
 o jiném neuměl jsem snít.
 
-II
+### II
+
+  
 
 Pak zase jsem ji nenáviděl  
 a třásl se a slzy lil,  
@@ -77,7 +87,9 @@ Leč pak jak před Pygmalionem
 tu mramorový kámen stál,  
 by za chvíli už žil a plál.
 
-III
+### III
+
+  
 
 Prorockým slovem lyry dávné  
 nechť promluvit smím, příteli.  
@@ -94,7 +106,9 @@ mé srdce ochladlo už v šeru
 a zatáhlo se před láskou  
 v svém prázdnu němotou a tmou.
 
-IV
+### IV
+
+  
 
 Už dávno vím, že dámy samy,  
 tajemství nemohouce skrýt,  
@@ -111,7 +125,9 @@ jako by bylo možno žádat
 od motýlů či fialek  
 hlubokou vášeň, lidský vděk.
 
-XXXVI
+### XXXVI
+
+  
 
 Jsou daleko už, v mhu se tratí…  
 A střelec, křižující pláň,  
@@ -128,12 +144,16 @@ kdo labužnicky víno pije,
 kdo miluje zármutku děs.  
 A všade zla a dobra směs.
 
-Konec sloky XXXVII
+### Konec sloky XXXVII
+
+  
 
 … Jeho kroj  
 by budil snad váš nepokoj.
 
-XXXVIII
+### XXXVIII
+
+  
 
 Chodíval vždycky v ruské blůze,  
 hedvábný šál měl jako pás,  
@@ -142,7 +162,7 @@ a čapku s bílým štítkem zas.
 Sousedka jeho Potměšilá  
 už dávno uražena byla  
 i se sousedem Drobinkým  
-neslušným, divným šatem tím,  
+_neslušným, divným_ šatem tím,  
 Své nevšímavosti snad díky,  
 či že té dámy málo dbal,  
 si ovšem po svém chodil dál  
@@ -152,7 +172,9 @@ jen sousedům svým po chuti.
 
 Z HLAVY PÁTÉ
 
-XXXVII
+### XXXVII
+
+  
 
 In puncto hostin, pěvče Troje,  
 i s Olympem se hodlám přít.  
@@ -169,7 +191,9 @@ než naše vzdělanost, tak snadná;
 však Táňa víc mi znamená  
 než tvoje zhoubná Helena.
 
-XXXVIII
+### XXXVIII
+
+  
 
 Kdo chtěl by pochybovat dále,  
 byť pro Helenu po sto let  
@@ -186,7 +210,9 @@ a úvod nesuďte tak přísně.
 Boj bude. Nejsem zvyklý lhát.  
 Ba mohu na něj přísahat.
 
-XLIII
+### XLIII
+
+  
 
 A dívky jako po manéži,  
 kde hrdé klisny vede bič,  
@@ -205,7 +231,9 @@ a pozor na střevíčky dam!
 
 Z HLAVY ŠESTÉ
 
-XV
+### XV
+
+  
 
 Žárlivost, já vždy dobře chápal,  
 je stejná nemoc jako mor,  
@@ -222,7 +250,9 @@ by, věřte mi to, klidně snes tu
 i žár hranice plamenné,  
 i srdce kata z kamene.
 
-XVI
+### XVI
+
+  
 
 Z mých úst se hana nevydere,  
 neb nechci rušit hrobu klid;  
@@ -239,7 +269,9 @@ až krutou vášnivostí vzplála.
 Ty tam jsou však ty těžké dni.  
 Mučivý stíne, klidně spi!
 
-XXXVIII
+### XXXVIII
+
+  
 
 Anebo, až by rezí žravou  
 mu zničil život hořký jed,  
@@ -256,7 +288,9 @@ na triumfy své pohleděv,
 — — —  
 — — —
 
-XLVII
+### XLVII
+
+  
 
 V hemžení lstivých, malodušných,  
 zhýčkaných, prázdných synáčků,  
@@ -275,7 +309,9 @@ se s vámi koupám, přátelé!
 
 Z HLAVY SEDMÉ
 
-VIII
+### VIII
+
+  
 
 Však přece jednou za soumraku  
 z těch děvčat jedna přišla sem  
@@ -292,7 +328,9 @@ a pyšný na své černé kníry,
 a hrdě, kloně šíji svou,  
 zazvonil před ní ostruhou.
 
-IX
+### IX
+
+  
 
 A dívka na vojína vzhlédla:  
 tvář jeho zlostí hořela —  
@@ -303,14 +341,18 @@ nevěsta zašla beze slova
 s vojínem svým, a nikdy již  
 ji z hor sem přijít neuzříš.
 
-XXXIX
+### XXXIX
+
+  
 
 Ó Moskvo! Moskvo! — — —  
 — — —
 
 Z HLAVY OSMÉ
 
-Konec sloky II
+### Konec sloky II
+
+  
 
 I Dmitrev byl náš vlídný přítel;  
 tradice ruské věrný ctitel,  

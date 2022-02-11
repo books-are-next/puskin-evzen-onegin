@@ -2,7 +2,7 @@
 title: HLAVA PÁTÁ
 ---
 
-Kéž nepoznáš těch hrozných snů,  
-ó moje Světlano!
+> _Kéž nepoznáš těch hrozných snů,  
+> ó moje Světlano!_
 
 — ŽUKOVSKIJ

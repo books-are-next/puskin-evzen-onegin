@@ -2,6 +2,8 @@
 title: ONĚGINOVO ALBUM
 ---
 
+  
+
 Má skvěle okované rohy,  
 zlacené stříbro z obou stran,  
 na každé stránce nákres mnohý  
@@ -17,7 +19,9 @@ Oněgin za dnů svého mládí,
 zápisník, z něhož citovat  
 vám na ukázku budu rád.
 
-1
+### 1
+
+  
 
 Pomlouvají mě, sotva snesou,  
 protivný v kruhu mužů jsem.  
@@ -32,7 +36,9 @@ nicotnost samolibců ruší
 či směšná je, a na obtíž  
 že volný rozum bývá spíš.
 
-2
+### 2
+
+  
 
 Hraběnky –ové bojíte se,  
 povídala nám Líza K.  
@@ -40,21 +46,27 @@ Pochmurný N. v to hlas svůj nese:
 Hraběnky –ové bojíme se  
 jako vy asi pavouka.
 
-3
+### 3
+
+  
 
 V koránu leccos zdravého je:  
 „Modli se před snem, dítě moje!  
 Cti Boha! Střež se křivých cest!  
 Svár s hlupci neplodný vždy jest!“
 
-4
+### 4
+
+  
 
 Lísteček doubrav, polní květy  
 v kavkazské řece zkamení.  
 A stejně v světském mámení  
 pohyne něžný cit náš lety.
 
-5
+### 5
+
+  
 
 Šestého. U V. tancovali.  
 Veliký sál, však nával malý.  
@@ -65,7 +77,9 @@ co něhy, snů jí zahraje!
 Povídala mi (nota bene),  
 že zítra jede k Selimeně.
 
-6
+### 6
+
+  
 
 Večer mi říkala R. C.:  
 „Už dávno jsem vás chtěla vidět.“  
@@ -80,7 +94,9 @@ vždyť vůbec nejste nebezpečný!
 A slyšel jste snad dříve už,  
 že… že jste velmi dobrý muž?“
 
-7
+### 7
+
+  
 
 My dary rodné mateřštiny  
 — varuje vážný mudrc lid —  
@@ -99,7 +115,9 @@ ne v plísni Spisů papírové,
 kde ruský duch, to víte, že  
 jen veteš přemílá a lže.
 
-8
+### 8
+
+  
 
 Mráz se sluncem! Modř z nebe padá,  
 však našim dámám nenapadá  
@@ -112,7 +130,9 @@ a nezazlím to předkům ani:
 narodily se pro harém,  
 pro stín nevolných stěn ty paní.
 
-9
+### 9
+
+  
 
 Byl u V. — R. C. odcházela,  
 jak zefír lehká bezmála.  
@@ -129,11 +149,15 @@ jsem zelenavou šálu pádil.
 Před petrohradskou Venuší  
 dav zamilovaných jsem řadil.
 
-10
+### 10
+
+  
 
 … já mám vás rád… etc.
 
-11
+### 11
+
+  
 
 Dnes tedy představili mi ji.  
 Pozoroval jsem manžela.  

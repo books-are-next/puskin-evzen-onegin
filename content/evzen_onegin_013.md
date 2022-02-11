@@ -2,7 +2,7 @@
 title: HLAVA ČTVRTÁ
 ---
 
-La morale est dans la nature des choses.
+> _La morale est dans la nature des choses._
 
 — NECKER
 
