@@ -1,0 +1,299 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Evžen Oněgin",
+      "identifier": "6b021565-2647-4cf3-ab71-d6b613272ca1",
+      "author": "Alexandr Sergejevič Puškin",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-02-11T10:02:59.873Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_001.md",
+        "xhtml": "evzen_onegin_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_002.md",
+        "xhtml": "evzen_onegin_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_003.md",
+        "xhtml": "evzen_onegin_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_004.md",
+        "xhtml": "evzen_onegin_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_005.md",
+        "xhtml": "evzen_onegin_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_006.md",
+        "xhtml": "evzen_onegin_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_007.md",
+        "xhtml": "evzen_onegin_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_008.md",
+        "xhtml": "evzen_onegin_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_009.md",
+        "xhtml": "evzen_onegin_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_010.md",
+        "xhtml": "evzen_onegin_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_011.md",
+        "xhtml": "evzen_onegin_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_012.md",
+        "xhtml": "evzen_onegin_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_013.md",
+        "xhtml": "evzen_onegin_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_014.md",
+        "xhtml": "evzen_onegin_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_015.md",
+        "xhtml": "evzen_onegin_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_016.md",
+        "xhtml": "evzen_onegin_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_017.md",
+        "xhtml": "evzen_onegin_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_018.md",
+        "xhtml": "evzen_onegin_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_019.md",
+        "xhtml": "evzen_onegin_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_020.md",
+        "xhtml": "evzen_onegin_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_021.md",
+        "xhtml": "evzen_onegin_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_022.md",
+        "xhtml": "evzen_onegin_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_023.md",
+        "xhtml": "evzen_onegin_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_024.md",
+        "xhtml": "evzen_onegin_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_025.md",
+        "xhtml": "evzen_onegin_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_026.md",
+        "xhtml": "evzen_onegin_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_027.md",
+        "xhtml": "evzen_onegin_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "evzen_onegin_028.md",
+        "xhtml": "evzen_onegin_028.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre12",
+      "calibre13",
+      "calibre15",
+      "calibre4",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "mlpchybhlavy",
+      "mlpcislobasne",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlppodpiscitat",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextdopravai",
+      "mlptextuprostredi",
+      "mlptextuprostredi12pred",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven1cast",
+      "mlpuroven1zvlastnipripady",
+      "mlpuroven2basneevzen",
+      "mlpvenovani",
+      "mlpvenovanivlevocxspfirst",
+      "mlpvenovanivlevocxspmiddle",
+      "mlpversebezpred",
+      "mlpversebezpred1",
+      "mlpversebezpred2",
+      "mlpznakkurziva11b",
+      "mlpznaktucne",
+      "msonormal",
+      "msotoc",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection10",
+      "wordsection11",
+      "wordsection12",
+      "wordsection13",
+      "wordsection14",
+      "wordsection15",
+      "wordsection16",
+      "wordsection17",
+      "wordsection18",
+      "wordsection19",
+      "wordsection2",
+      "wordsection20",
+      "wordsection21",
+      "wordsection22",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "puskin-evzen-onegin"
+    },
+    "generatedAt": 1644573780548
+  }
+}

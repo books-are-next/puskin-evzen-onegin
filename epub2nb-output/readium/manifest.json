@@ -1,0 +1,233 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Evžen Oněgin",
+    "identifier": "6b021565-2647-4cf3-ab71-d6b613272ca1",
+    "author": "Alexandr Sergejevič Puškin",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2022-02-11T10:02:59.873Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/evzen_onegin_028.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "HLAVA PRVNÍ",
+      "href": "OEBPS/Text/evzen_onegin_007.html"
+    },
+    {
+      "title": "HLAVA DRUHÁ",
+      "href": "OEBPS/Text/evzen_onegin_009.html"
+    },
+    {
+      "title": "HLAVA TŘETÍ",
+      "href": "OEBPS/Text/evzen_onegin_011.html"
+    },
+    {
+      "title": "HLAVA ČTVRTÁ",
+      "href": "OEBPS/Text/evzen_onegin_013.html"
+    },
+    {
+      "title": "HLAVA PÁTÁ",
+      "href": "OEBPS/Text/evzen_onegin_015.html"
+    },
+    {
+      "title": "HLAVA ŠESTÁ",
+      "href": "OEBPS/Text/evzen_onegin_017.html"
+    },
+    {
+      "title": "HLAVA SEDMÁ",
+      "href": "OEBPS/Text/evzen_onegin_019.html"
+    },
+    {
+      "title": "HLAVA OSMÁ",
+      "href": "OEBPS/Text/evzen_onegin_021.html"
+    },
+    {
+      "title": "DODATKY",
+      "children": [
+        {
+          "title": "PUTOVÁNÍ ONĚGINOVO",
+          "href": "OEBPS/Text/evzen_onegin_024.html"
+        },
+        {
+          "title": "ONĚGINOVO ALBUM",
+          "href": "OEBPS/Text/evzen_onegin_025.html"
+        },
+        {
+          "title": "VYNECHANÉ SLOKY",
+          "href": "OEBPS/Text/evzen_onegin_026.html"
+        }
+      ],
+      "href": "OEBPS/Text/evzen_onegin_023.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/evzen_onegin_027.html"
+    }
+  ]
+}
