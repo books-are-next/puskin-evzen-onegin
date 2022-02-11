@@ -4,18 +4,18 @@ title: HLAVA SEDMÁ
 
 > _Moskvo, ty milá dcero Rusi,_
 
-kde rovnou tobě hledati?
+> _kde rovnou tobě hledati?_
 
 — DMITRIJEV  
  
 
-Jak rodnou Moskvu nemít rád?
+> _Jak rodnou Moskvu nemít rád?_
 
 — BARATYNSKIJ  
  
 
-Tak? Štvete na Moskvu! Hle, přijel z ciziny!
+> _Tak? Štvete na Moskvu! Hle, přijel z ciziny!_
 
-A kde je líp? — Kde nejsme my.
+> _A kde je líp? — Kde nejsme my._
 
 — GRIBOJEDOV

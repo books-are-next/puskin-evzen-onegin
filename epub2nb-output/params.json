@@ -21,9 +21,9 @@
       "br": "",
       "brBefore": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlpversebezpred mlpversebezpred1 mlpversebezpred2 ",
       "brAfter": "",
-      "blockquote": "mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle mlpvenovani",
+      "blockquote": "mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle mlpvenovani mlptextuprostredi msonormal",
       "figure": "",
-      "em": "mlpvenovani mlpznakkurziva11b mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle",
+      "em": "mlpvenovani mlpznakkurziva11b mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle mlptextuprostredi msonormal",
       "strong": "mlpznaktucne mlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -32,7 +32,7 @@
       {
         "isSection": true,
         "id": "section-1",
-        "listType": "numbered",
+        "listType": "plain",
         "children": [
           {
             "filename": "evzen_onegin_001.md",
@@ -82,6 +82,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": true,
+            "title": "Věnování",
             "children": [
               {
                 "filename": "evzen_onegin_006.md",
@@ -93,8 +94,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "Věnování"
+            ]
           },
           {
             "filename": "evzen_onegin_007.md",
@@ -290,8 +290,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "PUTOVÁNÍ ONĚGINOVO"
+                "title": "PUTOVÁNÍ ONĚGINOVO",
+                "children": []
               },
               {
                 "filename": "evzen_onegin_025.md",
@@ -301,8 +301,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "ONĚGINOVO ALBUM"
+                "title": "ONĚGINOVO ALBUM",
+                "children": []
               },
               {
                 "filename": "evzen_onegin_026.md",
@@ -312,8 +312,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VYNECHANÉ SLOKY"
+                "title": "VYNECHANÉ SLOKY",
+                "children": []
               }
             ]
           },
@@ -348,7 +348,7 @@
       "identifier": "6b021565-2647-4cf3-ab71-d6b613272ca1",
       "author": "Alexandr Sergejevič Puškin",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-11T10:48:25.066Z"
+      "modified": "2022-02-11T10:59:46.679Z"
     },
     "chapters": [
       {
@@ -637,6 +637,6 @@
       "user": "books-are-next",
       "repo": "puskin-evzen-onegin"
     },
-    "generatedAt": 1644576505988
+    "generatedAt": 1644577187435
   }
 }

@@ -1,15 +1,15 @@
 {
   "author": "Alexandr Sergejevič Puškin",
-  "identifier": "puskin-evzen-onegin-0061d95",
+  "identifier": "puskin-evzen-onegin-38c905a",
   "languagecode": "cs",
   "modified": "2022-02-11T10:02:59.873Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Evžen Oněgin",
-  "revision": "0061d95",
+  "revision": "38c905a",
   "generatedAt": {
-    "date": "Fri Feb 11 2022 10:49:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644576571153
+    "date": "Fri Feb 11 2022 11:00:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644577235953
   },
   "documents": [
     {
@@ -156,7 +156,7 @@
       "title": "HLAVA TŘETÍ • Evžen Oněgin",
       "file": "evzen_onegin_011.html",
       "words": 17,
-      "chars": 103,
+      "chars": 112,
       "ideas": 5,
       "role": "chapter",
       "order": 7,
@@ -196,7 +196,7 @@
       "title": "HLAVA ČTVRTÁ • Evžen Oněgin",
       "file": "evzen_onegin_013.html",
       "words": 19,
-      "chars": 95,
+      "chars": 114,
       "ideas": 5,
       "role": "chapter",
       "order": 9,
@@ -516,12 +516,12 @@
   "totals": {
     "all": {
       "words": 31013,
-      "chars": 165629,
+      "chars": 165657,
       "ideas": 6597
     },
     "chapters": {
       "words": 30858,
-      "chars": 164579,
+      "chars": 164607,
       "ideas": 6570
     }
   }
