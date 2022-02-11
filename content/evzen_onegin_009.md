@@ -2,8 +2,8 @@
 title: HLAVA DRUHÁ
 ---
 
-_Ó rus!_
+> _Ó rus!_
 
 — HORATIUS
 
-_Ó Rus!_
+> _Ó Rus!_
