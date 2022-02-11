@@ -1,0 +1,612 @@
+{
+  "author": "Alexandr Sergejevič Puškin",
+  "identifier": "puskin-evzen-onegin-201f421",
+  "languagecode": "cs",
+  "modified": "2022-02-11T10:02:59.873Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Evžen Oněgin",
+  "revision": "201f421",
+  "generatedAt": {
+    "date": "Fri Feb 11 2022 10:18:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644574695717
+  },
+  "documents": [
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "evzen_onegin_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "evzen_onegin_001.html",
+      "next": "evzen_onegin_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_003.html",
+      "words": 5,
+      "chars": 38,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "evzen_onegin_002.html",
+      "next": "evzen_onegin_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_004.html",
+      "words": 85,
+      "chars": 568,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "evzen_onegin_003.html",
+      "next": "evzen_onegin_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_005.html",
+      "words": 68,
+      "chars": 427,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 4,
+      "prev": "evzen_onegin_004.html",
+      "next": "evzen_onegin_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_006.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 5,
+      "prev": "evzen_onegin_005.html",
+      "next": "evzen_onegin_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HLAVA PRVNÍ • Evžen Oněgin",
+      "file": "evzen_onegin_007.html",
+      "words": 13,
+      "chars": 64,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 6,
+      "prev": "evzen_onegin_006.html",
+      "next": "evzen_onegin_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HLAVA PRVNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_008.html",
+      "words": 3770,
+      "chars": 20424,
+      "ideas": 816,
+      "role": "chapter",
+      "order": 7,
+      "prev": "evzen_onegin_007.html",
+      "next": "evzen_onegin_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HLAVA DRUHÁ • Evžen Oněgin",
+      "file": "evzen_onegin_009.html",
+      "words": 8,
+      "chars": 33,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 8,
+      "prev": "evzen_onegin_008.html",
+      "next": "evzen_onegin_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HLAVA DRUHÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_010.html",
+      "words": 2721,
+      "chars": 14820,
+      "ideas": 600,
+      "role": "chapter",
+      "order": 9,
+      "prev": "evzen_onegin_009.html",
+      "next": "evzen_onegin_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HLAVA TŘETÍ • Evžen Oněgin",
+      "file": "evzen_onegin_011.html",
+      "words": 17,
+      "chars": 103,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 10,
+      "prev": "evzen_onegin_010.html",
+      "next": "evzen_onegin_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HLAVA TŘETÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_012.html",
+      "words": 3366,
+      "chars": 17839,
+      "ideas": 713,
+      "role": "chapter",
+      "order": 11,
+      "prev": "evzen_onegin_011.html",
+      "next": "evzen_onegin_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HLAVA ČTVRTÁ • Evžen Oněgin",
+      "file": "evzen_onegin_013.html",
+      "words": 19,
+      "chars": 95,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 12,
+      "prev": "evzen_onegin_012.html",
+      "next": "evzen_onegin_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HLAVA ČTVRTÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_014.html",
+      "words": 3057,
+      "chars": 16252,
+      "ideas": 650,
+      "role": "chapter",
+      "order": 13,
+      "prev": "evzen_onegin_013.html",
+      "next": "evzen_onegin_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HLAVA PÁTÁ • Evžen Oněgin",
+      "file": "evzen_onegin_015.html",
+      "words": 12,
+      "chars": 68,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 14,
+      "prev": "evzen_onegin_014.html",
+      "next": "evzen_onegin_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HLAVA PÁTÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_016.html",
+      "words": 2984,
+      "chars": 15790,
+      "ideas": 634,
+      "role": "chapter",
+      "order": 15,
+      "prev": "evzen_onegin_015.html",
+      "next": "evzen_onegin_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HLAVA ŠESTÁ • Evžen Oněgin",
+      "file": "evzen_onegin_017.html",
+      "words": 35,
+      "chars": 179,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 16,
+      "prev": "evzen_onegin_016.html",
+      "next": "evzen_onegin_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HLAVA ŠESTÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_018.html",
+      "words": 3033,
+      "chars": 16257,
+      "ideas": 649,
+      "role": "chapter",
+      "order": 17,
+      "prev": "evzen_onegin_017.html",
+      "next": "evzen_onegin_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HLAVA SEDMÁ • Evžen Oněgin",
+      "file": "evzen_onegin_019.html",
+      "words": 38,
+      "chars": 200,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 18,
+      "prev": "evzen_onegin_018.html",
+      "next": "evzen_onegin_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HLAVA SEDMÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_020.html",
+      "words": 3687,
+      "chars": 19544,
+      "ideas": 785,
+      "role": "chapter",
+      "order": 19,
+      "prev": "evzen_onegin_019.html",
+      "next": "evzen_onegin_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "HLAVA OSMÁ • Evžen Oněgin",
+      "file": "evzen_onegin_021.html",
+      "words": 29,
+      "chars": 144,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 20,
+      "prev": "evzen_onegin_020.html",
+      "next": "evzen_onegin_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "HLAVA OSMÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_022.html",
+      "words": 3983,
+      "chars": 20687,
+      "ideas": 826,
+      "role": "chapter",
+      "order": 21,
+      "prev": "evzen_onegin_021.html",
+      "next": "evzen_onegin_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DODATKY • Evžen Oněgin",
+      "file": "evzen_onegin_023.html",
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 22,
+      "prev": "evzen_onegin_022.html",
+      "next": "evzen_onegin_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DODATKY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_024.html",
+      "words": 2117,
+      "chars": 11321,
+      "ideas": 428,
+      "role": "chapter",
+      "order": 23,
+      "prev": "evzen_onegin_023.html",
+      "next": "evzen_onegin_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "PUTOVÁNÍ ONĚGINOVO",
+              "id": "putování-oněginovo",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_025.html",
+      "words": 532,
+      "chars": 2809,
+      "ideas": 116,
+      "role": "chapter",
+      "order": 24,
+      "prev": "evzen_onegin_024.html",
+      "next": "evzen_onegin_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "ONĚGINOVO ALBUM",
+              "id": "oněginovo-album",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_026.html",
+      "words": 1226,
+      "chars": 6602,
+      "ideas": 272,
+      "role": "chapter",
+      "order": 25,
+      "prev": "evzen_onegin_025.html",
+      "next": "evzen_onegin_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "VYNECHANÉ SLOKY",
+              "id": "vynechané-sloky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ediční\npoznámka • Evžen Oněgin",
+      "file": "evzen_onegin_027.html",
+      "words": 70,
+      "chars": 439,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 26,
+      "prev": "evzen_onegin_026.html",
+      "next": "evzen_onegin_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční\npoznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Evžen Oněgin",
+      "file": "evzen_onegin_028.html",
+      "words": 58,
+      "chars": 398,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 27,
+      "prev": "evzen_onegin_027.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 30941,
+      "chars": 165154,
+      "ideas": 6579
+    },
+    "chapters": {
+      "words": 30934,
+      "chars": 165108,
+      "ideas": 6575
+    }
+  }
+}
