@@ -992,12 +992,12 @@ a sny, jež teskně oželí.
 A nazpět k tomu, o němž pěji,  
 bychom naň nezapomněli.  
 To několika slov si žádá:  
-_„Mladého zpívám kamaráda  
+__„Mladého zpívám kamaráda  
 rozmary, jež mu duší jdou.  
 Požehnej dlouhou práci mou,  
 ó, ty epická Múzo moje!  
 Na cestu dlouhou hůl mi dej,  
-oklikou bloudit nenechej_!“  
+oklikou bloudit nenechej__!“  
 A dost! Shazuji břímě svoje!  
 Já klasicismu čest jsem vzdal:  
 byť pozdě, vstup jsem udělal.

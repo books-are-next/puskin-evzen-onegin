@@ -6,6 +6,6 @@ title: HLAVA ČTVRTÁ
 
 — NECKER
 
-                    __Mravnost je věcem vrozená.__
+                    ___Mravnost je věcem vrozená.___
 
 — NECKER

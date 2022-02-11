@@ -23,7 +23,7 @@
       "brAfter": "",
       "blockquote": "mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle mlpvenovani mlptextuprostredi",
       "figure": "",
-      "em": "mlpvenovani mlpznakkurziva11b mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle mlptextuprostredi msonormal",
+      "em": "mlpvenovani mlpznakkurziva11b mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle mlptextuprostredi msonormal calibre15",
       "strong": "mlpznaktucne mlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -348,7 +348,7 @@
       "identifier": "6b021565-2647-4cf3-ab71-d6b613272ca1",
       "author": "Alexandr Sergejevič Puškin",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-11T11:07:29.457Z"
+      "modified": "2022-02-11T11:15:26.217Z"
     },
     "chapters": [
       {
@@ -637,6 +637,6 @@
       "user": "books-are-next",
       "repo": "puskin-evzen-onegin"
     },
-    "generatedAt": 1644577650207
+    "generatedAt": 1644578127213
   }
 }

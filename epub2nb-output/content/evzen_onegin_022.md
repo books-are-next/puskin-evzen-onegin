@@ -798,7 +798,7 @@ Moh tehdá platit za poetu,
 když v samotářském žalu svém,  
 sedaje v teple před krbem,  
 si pobroukával _Benedettu_  
-či _Idol_, přičemž málem byl  
+či __Idol__, přičemž málem byl  
 by trepky sobě připálil.
 
 ### XXXIX
