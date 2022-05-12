@@ -1,6 +1,7 @@
 ---
 title: ''
 hiddenTitle: true
+contentType: prose
 ---
 
 > _Pétri de vanité il avait encore plus  

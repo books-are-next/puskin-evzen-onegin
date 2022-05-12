@@ -1,5 +1,6 @@
 ---
 title: VYNECHANÉ SLOKY
+contentType: prose
 ---
 
 ### Z HLAVY PRVNÍ

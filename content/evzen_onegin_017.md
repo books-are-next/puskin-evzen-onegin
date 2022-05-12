@@ -1,5 +1,6 @@
 ---
 title: HLAVA ŠESTÁ
+contentType: prose
 ---
 
 > _Là, sotto i giorni nubilosi e brevi,_

@@ -1,5 +1,6 @@
 ---
 title: HLAVA PÁTÁ
+contentType: prose
 ---
 
 > _Kéž nepoznáš těch hrozných snů,  

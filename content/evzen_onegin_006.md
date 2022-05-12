@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 > _Svět hrdý nezatouživ bavit,  

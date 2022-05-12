@@ -1,5 +1,6 @@
 ---
 title: HLAVA OSMÁ
+contentType: prose
 ---
 
 > _Fare thee well, and if for ever,_

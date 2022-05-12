@@ -1,5 +1,6 @@
 ---
 title: HLAVA TŘETÍ
+contentType: prose
 ---
 
 > _Elle était fille, elle était amoureuse._

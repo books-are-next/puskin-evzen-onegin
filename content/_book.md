@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Evžen Oněgin
@@ -11,7 +12,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
 readingOrder:
-  - evzen_onegin_002.html
+  - promo.html
   - evzen_onegin_005.html
   - evzen_onegin_006.html
   - evzen_onegin_007.html
