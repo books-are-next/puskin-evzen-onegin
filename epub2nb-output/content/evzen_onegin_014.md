@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 ### I–II–III–IV–V–VI

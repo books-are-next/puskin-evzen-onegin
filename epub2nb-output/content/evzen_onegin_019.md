@@ -1,5 +1,6 @@
 ---
 title: HLAVA SEDMÁ
+contentType: prose
 ---
 
 > _Moskvo, ty milá dcero Rusi,_

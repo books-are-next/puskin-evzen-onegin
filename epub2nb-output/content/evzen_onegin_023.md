@@ -1,5 +1,6 @@
 ---
 title: DODATKY
+contentType: prose
 ---
 
 

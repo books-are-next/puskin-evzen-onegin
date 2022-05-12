@@ -1,20 +1,49 @@
 {
-  "author": "Alexandr Sergejevič Puškin",
-  "identifier": "puskin-evzen-onegin-b4549a0",
-  "languagecode": "cs",
-  "modified": "2022-02-11T10:02:59.873Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Evžen Oněgin",
-  "revision": "b4549a0",
+  "author": "Alexandr Sergejevič Puškin",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "puskin-evzen-onegin-c0187c9",
+  "revision": "c0187c9",
+  "readingOrder": [
+    "promo.html",
+    "evzen_onegin_005.html",
+    "evzen_onegin_006.html",
+    "evzen_onegin_007.html",
+    "evzen_onegin_008.html",
+    "evzen_onegin_009.html",
+    "evzen_onegin_010.html",
+    "evzen_onegin_011.html",
+    "evzen_onegin_012.html",
+    "evzen_onegin_013.html",
+    "evzen_onegin_014.html",
+    "evzen_onegin_015.html",
+    "evzen_onegin_016.html",
+    "evzen_onegin_017.html",
+    "evzen_onegin_018.html",
+    "evzen_onegin_019.html",
+    "evzen_onegin_020.html",
+    "evzen_onegin_021.html",
+    "evzen_onegin_022.html",
+    "evzen_onegin_023.html",
+    "evzen_onegin_024.html",
+    "evzen_onegin_025.html",
+    "evzen_onegin_026.html",
+    "evzen_onegin_027.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Feb 11 2022 11:26:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644578796515
+    "date": "Thu May 12 2022 10:39:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351944629
   },
   "documents": [
     {
-      "title": "Evžen Oněgin",
-      "file": "evzen_onegin_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -22,15 +51,7 @@
       "order": 0,
       "prev": null,
       "next": "evzen_onegin_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Evžen Oněgin",
@@ -40,7 +61,7 @@
       "ideas": 14,
       "role": "chapter",
       "order": 1,
-      "prev": "evzen_onegin_002.html",
+      "prev": "promo.html",
       "next": "evzen_onegin_006.html",
       "toc": [
         {
@@ -73,7 +94,7 @@
       ]
     },
     {
-      "title": "HLAVA PRVNÍ • Evžen Oněgin",
+      "title": "HLAVA PRVNÍ",
       "file": "evzen_onegin_007.html",
       "words": 13,
       "chars": 64,
@@ -113,7 +134,7 @@
       ]
     },
     {
-      "title": "HLAVA DRUHÁ • Evžen Oněgin",
+      "title": "HLAVA DRUHÁ",
       "file": "evzen_onegin_009.html",
       "words": 8,
       "chars": 33,
@@ -153,7 +174,7 @@
       ]
     },
     {
-      "title": "HLAVA TŘETÍ • Evžen Oněgin",
+      "title": "HLAVA TŘETÍ",
       "file": "evzen_onegin_011.html",
       "words": 17,
       "chars": 103,
@@ -193,7 +214,7 @@
       ]
     },
     {
-      "title": "HLAVA ČTVRTÁ • Evžen Oněgin",
+      "title": "HLAVA ČTVRTÁ",
       "file": "evzen_onegin_013.html",
       "words": 19,
       "chars": 95,
@@ -233,7 +254,7 @@
       ]
     },
     {
-      "title": "HLAVA PÁTÁ • Evžen Oněgin",
+      "title": "HLAVA PÁTÁ",
       "file": "evzen_onegin_015.html",
       "words": 12,
       "chars": 68,
@@ -273,7 +294,7 @@
       ]
     },
     {
-      "title": "HLAVA ŠESTÁ • Evžen Oněgin",
+      "title": "HLAVA ŠESTÁ",
       "file": "evzen_onegin_017.html",
       "words": 35,
       "chars": 179,
@@ -313,7 +334,7 @@
       ]
     },
     {
-      "title": "HLAVA SEDMÁ • Evžen Oněgin",
+      "title": "HLAVA SEDMÁ",
       "file": "evzen_onegin_019.html",
       "words": 38,
       "chars": 200,
@@ -353,7 +374,7 @@
       ]
     },
     {
-      "title": "HLAVA OSMÁ • Evžen Oněgin",
+      "title": "HLAVA OSMÁ",
       "file": "evzen_onegin_021.html",
       "words": 29,
       "chars": 144,
@@ -393,7 +414,7 @@
       ]
     },
     {
-      "title": "DODATKY • Evžen Oněgin",
+      "title": "DODATKY",
       "file": "evzen_onegin_023.html",
       "words": 1,
       "chars": 7,
@@ -413,7 +434,7 @@
       ]
     },
     {
-      "title": "PUTOVÁNÍ ONĚGINOVO • Evžen Oněgin",
+      "title": "PUTOVÁNÍ ONĚGINOVO",
       "file": "evzen_onegin_024.html",
       "words": 2117,
       "chars": 11321,
@@ -433,7 +454,7 @@
       ]
     },
     {
-      "title": "ONĚGINOVO ALBUM • Evžen Oněgin",
+      "title": "ONĚGINOVO ALBUM",
       "file": "evzen_onegin_025.html",
       "words": 532,
       "chars": 2809,
@@ -453,7 +474,7 @@
       ]
     },
     {
-      "title": "VYNECHANÉ SLOKY • Evžen Oněgin",
+      "title": "VYNECHANÉ SLOKY",
       "file": "evzen_onegin_026.html",
       "words": 1226,
       "chars": 6602,
@@ -473,11 +494,11 @@
       ]
     },
     {
-      "title": "Ediční\npoznámka • Evžen Oněgin",
+      "title": "Ediční poznámka",
       "file": "evzen_onegin_027.html",
       "words": 70,
-      "chars": 439,
-      "ideas": 4,
+      "chars": 440,
+      "ideas": 3,
       "role": "chapter",
       "order": 23,
       "prev": "evzen_onegin_026.html",
@@ -486,18 +507,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ediční\npoznámka",
+          "name": "Ediční poznámka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Tiráž • Evžen Oněgin",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 149,
-      "chars": 1009,
-      "ideas": 24,
+      "words": 120,
+      "chars": 816,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "evzen_onegin_027.html",
@@ -515,14 +536,14 @@
   ],
   "totals": {
     "all": {
-      "words": 31013,
-      "chars": 165629,
-      "ideas": 6597
+      "words": 30984,
+      "chars": 165437,
+      "ideas": 6587
     },
     "chapters": {
       "words": 30858,
-      "chars": 164579,
-      "ideas": 6570
+      "chars": 164580,
+      "ideas": 6569
     }
   }
 }

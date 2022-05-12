@@ -1,5 +1,6 @@
 ---
 title: HLAVA ČTVRTÁ
+contentType: prose
 ---
 
 > _La morale est dans la nature des choses._

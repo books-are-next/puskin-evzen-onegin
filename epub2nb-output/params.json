@@ -48,7 +48,7 @@
             "filename": "evzen_onegin_002.md",
             "xhtml": "evzen_onegin_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -348,7 +348,7 @@
       "identifier": "6b021565-2647-4cf3-ab71-d6b613272ca1",
       "author": "Alexandr Sergejevič Puškin",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-11T11:25:42.959Z"
+      "modified": "2017-09-21T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -508,7 +508,7 @@
         "xhtml": "evzen_onegin_026.html"
       },
       {
-        "titleSuggest": "Ediční\npoznámka",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "evzen_onegin_027.md",
         "xhtml": "evzen_onegin_027.html"
@@ -637,6 +637,6 @@
       "user": "books-are-next",
       "repo": "puskin-evzen-onegin"
     },
-    "generatedAt": 1644578743916
+    "generatedAt": 1652351454142
   }
 }

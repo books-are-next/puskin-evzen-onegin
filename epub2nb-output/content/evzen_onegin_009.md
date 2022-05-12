@@ -1,5 +1,6 @@
 ---
 title: HLAVA DRUHÁ
+contentType: prose
 ---
 
 > _Ó rus!_
