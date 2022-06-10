@@ -3,7 +3,7 @@ title: ONĚGINOVO ALBUM
 contentType: prose
 ---
 
-  
+<section>
 
 Má skvěle okované rohy,  
 zlacené stříbro z obou stran,  
@@ -22,7 +22,9 @@ vám na ukázku budu rád.
 
 ### 1
 
-  
+</section>
+
+<section>
 
 Pomlouvají mě, sotva snesou,  
 protivný v kruhu mužů jsem.  
@@ -39,7 +41,9 @@ nicotnost samolibců ruší
 
 ### 2
 
-  
+</section>
+
+<section>
 
 Hraběnky –ové bojíte se,  
 povídala nám Líza K.  
@@ -49,7 +53,9 @@ jako vy asi pavouka.
 
 ### 3
 
-  
+</section>
+
+<section>
 
 V koránu leccos zdravého je:  
 „Modli se před snem, dítě moje!  
@@ -58,7 +64,9 @@ Svár s hlupci neplodný vždy jest!“
 
 ### 4
 
-  
+</section>
+
+<section>
 
 Lísteček doubrav, polní květy  
 v kavkazské řece zkamení.  
@@ -67,7 +75,9 @@ pohyne něžný cit náš lety.
 
 ### 5
 
-  
+</section>
+
+<section>
 
 Šestého. U V. tancovali.  
 Veliký sál, však nával malý.  
@@ -80,7 +90,9 @@ Povídala mi (nota bene),
 
 ### 6
 
-  
+</section>
+
+<section>
 
 Večer mi říkala R. C.:  
 „Už dávno jsem vás chtěla vidět.“  
@@ -97,7 +109,9 @@ A slyšel jste snad dříve už,
 
 ### 7
 
-  
+</section>
+
+<section>
 
 My dary rodné mateřštiny  
 — varuje vážný mudrc lid —  
@@ -118,7 +132,9 @@ jen veteš přemílá a lže.
 
 ### 8
 
-  
+</section>
+
+<section>
 
 Mráz se sluncem! Modř z nebe padá,  
 však našim dámám nenapadá  
@@ -133,7 +149,9 @@ pro stín nevolných stěn ty paní.
 
 ### 9
 
-  
+</section>
+
+<section>
 
 Byl u V. — R. C. odcházela,  
 jak zefír lehká bezmála.  
@@ -152,15 +170,21 @@ dav zamilovaných jsem řadil.
 
 ### 10
 
-  
+</section>
+
+<section>
 
 … já mám vás rád… etc.
 
 ### 11
 
-  
+</section>
+
+<section>
 
 Dnes tedy představili mi ji.  
 Pozoroval jsem manžela.  
 Barví si vlasy docela.  
 Z hodnosti rozumem se míjí.
+
+</section>

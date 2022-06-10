@@ -3,6 +3,8 @@ title: HLAVA SEDMÁ
 contentType: prose
 ---
 
+<section>
+
 > _Moskvo, ty milá dcero Rusi,_
 
 > _kde rovnou tobě hledati?_
@@ -20,3 +22,5 @@ contentType: prose
 > _A kde je líp? — Kde nejsme my._
 
 — GRIBOJEDOV
+
+</section>

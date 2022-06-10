@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### I
 
-  
+</section>
+
+<section>
 
 Sníh tál již v teplém dechu jara,  
 z hor hrnuly se bystřiny  
@@ -24,7 +28,9 @@ do ticha tlukot slavičí.
 
 ### II
 
-  
+</section>
+
+<section>
 
 Jak smuten jsem, když blížíš se mi,  
 ó jaro, jaro! Lásky čas!  
@@ -43,7 +49,9 @@ jež vidí vše v tmách ztopené?
 
 ### III
 
-  
+</section>
+
+<section>
 
 Či bez radosti nad návraty  
 s podzimem zašlých zelení  
@@ -62,7 +70,9 @@ tmou při kouzelném měsíci?
 
 ### IV
 
-  
+</section>
+
+<section>
 
 Je čas: jdi každý dobrák líný,  
 jenž na slast myslit dovede;  
@@ -81,7 +91,9 @@ z měst, zaprášených uboze.
 
 ### V
 
-  
+</section>
+
+<section>
 
 I vy, čtenáři, na mou duši,  
 kolesku měl byste si vzít  
@@ -100,7 +112,9 @@ po uprchlíku zůstala.
 
 ### VI
 
-  
+</section>
+
+<section>
 
 Pojď, půjdem k vrchů polokruhu,  
 kde k řece běžíc, bystřina  
@@ -119,7 +133,9 @@ Spi klidně, mladý básníku!“
 
 ### VII
 
-  
+</section>
+
+<section>
 
 Byl čas, kdy pokřivenou sosnu  
 věneček divný zdobíval.  
@@ -138,13 +154,17 @@ pomalu splývá s tichem niv.
 
 ### VIII–IX
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### X
 
-  
+</section>
+
+<section>
 
 Ubohý Lenskij! V prázdná lada  
 neplakal dlouho její žal.  
@@ -163,7 +183,9 @@ na rty jí lehký úsměv dých.
 
 ### XI
 
-  
+</section>
+
+<section>
 
 Ubohý Lenskij! Zda se rmoutí  
 ve vanu věčna, v hrobě svém,  
@@ -182,7 +204,9 @@ dál vede hanebný svůj spor.
 
 ### XII
 
-  
+</section>
+
+<section>
 
 Brzičko u Lariných věru  
 zmlk Olin zvonečkový smích.  
@@ -201,7 +225,9 @@ jde ještě Táňa mlčící.
 
 ### XIII
 
-  
+</section>
+
+<section>
 
 Pak dlouho, dlouho dívala se  
 za nimi jako mlhou par.  
@@ -220,7 +246,9 @@ pro srdce napůl urvané.
 
 ### XIV
 
-  
+</section>
+
+<section>
 
 V samotě krutěji žhnou žaly  
 a vášeň vzrůstat začíná.  
@@ -239,7 +267,9 @@ ho litují… Nač litovat?
 
 ### XV
 
-  
+</section>
+
+<section>
 
 Šel soumrak. Nebe smrákalo se.  
 Šum vod zněl tiše. Bzučel chroust.  
@@ -258,7 +288,9 @@ zatlouklo rychlej, silněji.
 
 ### XVI
 
-  
+</section>
+
+<section>
 
 Je v rozpacích: „Zde bydlil v zimě.  
 Mám jíti dál, mám zpět se dát?  
@@ -277,7 +309,9 @@ si vedli slečnu vesele.
 
 ### XVII
 
-  
+</section>
+
+<section>
 
 „A panské byty, přístupny jsou?“  
 se Táňa dětí zeptala.  
@@ -296,7 +330,9 @@ tak rád sedával zadumán…
 
 ### XVIII
 
-  
+</section>
+
+<section>
 
 Zde sedával s ním při obědě  
 pan Lenskij. Opustil už svět…  
@@ -315,7 +351,9 @@ Ať matka zem mu lehká je!“
 
 ### XIX
 
-  
+</section>
+
+<section>
 
 Taťána obchází vše v chvatu,  
 dojatá, na vše zvědavá.  
@@ -334,7 +372,9 @@ a ruce křížem složené.
 
 ### XX
 
-  
+</section>
+
+<section>
 
 Jako by Táňu očaroval  
 v té módní cele, stojí tu.  
@@ -353,7 +393,9 @@ a do knih se zde pohroužit.
 
 ### XXI
 
-  
+</section>
+
+<section>
 
 Až za vrata ji provázela  
 klíčnice. Ale zítra hned  
@@ -372,7 +414,9 @@ A nový svět tu před ní stál.
 
 ### XXII
 
-  
+</section>
+
+<section>
 
 Oněgin dávno už, jak víme,  
 odvykl zcela světu knih.  
@@ -391,7 +435,9 @@ jenž rozplývá se v marný dým.
 
 ### XXIII
 
-  
+</section>
+
+<section>
 
 Škrt nehtem, ostře vyznačený,  
 tkvěl tu a tam na stránkách knih.  
@@ -410,7 +456,9 @@ tu v otazníku zkrouceném.
 
 ### XXIV
 
-  
+</section>
+
+<section>
 
 I začíná teď nad knihami  
 pozvolna lépe chápati  
@@ -429,7 +477,9 @@ slov módních plný lexikon,
 
 ### XXV
 
-  
+</section>
+
+<section>
 
 Co bylo v hádance té skryto?  
 Snad přece pravda svitla jí?  
@@ -448,7 +498,9 @@ Prý nechce…“ matčin nářek ztich.
 
 ### XXVI
 
-  
+</section>
+
+<section>
 
 — Nemá snad lásku? — „Nevím, kdo by!  
 Bujanov prosil: koš měl hned.  
@@ -467,7 +519,9 @@ A ostatně — já půjčím vám. —
 
 ### XXVII
 
-  
+</section>
+
+<section>
 
 Je dobrá rada ve zlém čase.  
 Stařenka kvůli dítěti  
@@ -486,7 +540,9 @@ Líp zůstat v tichém ústraní.
 
 ### XXVIII
 
-  
+</section>
+
+<section>
 
 Jen vstala, záhy za úsvitu,  
 už do přírody pospíchá  
@@ -505,7 +561,9 @@ Co chystá pro mne sudba má?“
 
 ### XXIX
 
-  
+</section>
+
+<section>
 
 A její toulky se teď dlouží.  
 Tu láká potok, onde chlum.  
@@ -524,7 +582,9 @@ jde o svých berlích blíž a blíž.
 
 ### XXX
 
-  
+</section>
+
+<section>
 
 Už přišla, už se chumelila,  
 na duby pověsil se sníh,  
@@ -543,7 +603,9 @@ Takový v ní strach z cesty je.
 
 ### XXXI
 
-  
+</section>
+
+<section>
 
 Už minul den, kdy vyjet měli,  
 už věru nejvyšší byl čas.  
@@ -562,7 +624,9 @@ už vedou na dvůr osmnáct mrch,
 
 ### XXXII
 
-  
+</section>
+
+<section>
 
 v bojarské saně zapřahají,  
 snídani nesou ze dveří  
@@ -581,7 +645,9 @@ si stírá slzy rukama.
 
 ### XXXIII
 
-  
+</section>
+
+<section>
 
 Snad jednou, díky vzdělanosti,  
 až povolí jí ruský svět  
@@ -600,7 +666,9 @@ co stanice, to hospoda.
 
 ### XXXIV
 
-  
+</section>
+
+<section>
 
 Teď naše cesty, chátrajíce,  
 pozvolna hnijou, mosty též.  
@@ -619,7 +687,9 @@ by cesty spravit nenechal.
 
 ### XXXV
 
-  
+</section>
+
+<section>
 
 Leč zato v zimě! Mrazík tenký  
 dal do pořádku silnice.  
@@ -638,7 +708,9 @@ se dokonale znudila.
 
 ### XXXVI
 
-  
+</section>
+
+<section>
 
 Však už se blíží, už zří na ně  
 v svém zlatě, v záři plamenné  
@@ -657,7 +729,9 @@ ruského srdce ozvěno!
 
 ### XXXVII
 
-  
+</section>
+
+<section>
 
 Hle, do šera svých doubrav skrytý  
 Petrovský zámek! Chmuří v dál  
@@ -676,7 +750,9 @@ se odtud díval v plameny.
 
 ### XXXVIII
 
-  
+</section>
+
+<section>
 
 Buď sbohem, svědku zašlé slávy,  
 Petrovský zámku! Jeďme dál!  
@@ -695,13 +771,17 @@ a hejna kavek na křížích.
 
 ### XXXIX
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### XL
 
-  
+</section>
+
+<section>
 
 Ta dálka! Saně kodrcají  
 už hodinu a snad už dvě.  
@@ -720,7 +800,9 @@ a plakaly a volaly:
 
 ### XLI
 
-  
+</section>
+
+<section>
 
 — Pachette! — „Má kněžno! Alino má!“  
 — Mon ange! Ta radost! — „Tolik let!“  
@@ -739,7 +821,9 @@ Nedávno syna oženil.
 
 ### XLII
 
-  
+</section>
+
+<section>
 
 A ten… Však pozděj dojdem k němu,  
 viď! Zítra Táňu ukážem  
@@ -758,7 +842,9 @@ nemohla ani dokončit.
 
 ### XLIII
 
-  
+</section>
+
+<section>
 
 Dobrota její dojímala  
 Taťánu, přesto smutnou přec,  
@@ -777,7 +863,9 @@ se noří s ploty z jitřních chmur.
 
 ### XLIV
 
-  
+</section>
+
+<section>
 
 A ke příbuzným po obědech  
 den za dnem vodí Taťánu,  
@@ -796,7 +884,9 @@ Babičky sborem kývají:
 
 ### XLV
 
-  
+</section>
+
+<section>
 
 Po pravdě jsou však beze změny;  
 v svých starých zvycích zejména:  
@@ -815,7 +905,9 @@ a pitím za dva opuchlý.
 
 ### XLVI
 
-  
+</section>
+
+<section>
 
 Grácie Moskvy, jejich dcery,  
 teď mají novou zábavu.  
@@ -834,7 +926,9 @@ tajemství srdcí Táňa zví,
 
 ### XLVII
 
-  
+</section>
+
+<section>
 
 vítězství té a výhru oné,  
 sny, naděje a námluvy.  
@@ -853,7 +947,9 @@ v svém mlčenlivém úkradí.
 
 ### XLVIII
 
-  
+</section>
+
+<section>
 
 I přesto touží Táňa zase  
 brát účast v čilé besedě.  
@@ -872,7 +968,9 @@ tu pramálo je zábavná.
 
 ### XLIX
 
-  
+</section>
+
+<section>
 
 Společně k Táně zrakem bloudí  
 škrobená mládež z archivu.  
@@ -891,7 +989,9 @@ jakýsi stařík v paruce.
 
 ### L
 
-  
+</section>
+
+<section>
 
 Leč tam, kde divě rozlehne se  
 křik Melpomeny k prázdným zdem,  
@@ -910,7 +1010,9 @@ v lóžích a křeslech, jak by smet.
 
 ### LI
 
-  
+</section>
+
+<section>
 
 Pak ovšem na plesy ji vlekou.  
 Tam nával, dusno je a šum.  
@@ -929,7 +1031,9 @@ a s břinkotem zas letí ven.
 
 ### LII
 
-  
+</section>
+
+<section>
 
 Tak mnoho hvězd plá nocí sinou,  
 tak mnoho krásek v Moskvě je.  
@@ -948,7 +1052,9 @@ vždyť vášním platil jsi již daň.
 
 ### LIII
 
-  
+</section>
+
+<section>
 
 Smích, šum a poplach v zmatku hloupém,  
 mazurka, kvapík s valčíkem.  
@@ -967,7 +1073,9 @@ tam, tam, kde setkala se s _ním_.
 
 ### LIV
 
-  
+</section>
+
+<section>
 
 Kdo ví, co vše si v dáli vysní:  
 svět zmizel jí i hlučný bál.  
@@ -986,7 +1094,9 @@ Teď stojí bokem. Teď jde dál…“
 
 ### LV
 
-  
+</section>
+
+<section>
 
 Ponechme Táně úspěch její  
 a sny, jež teskně oželí.  
@@ -1002,3 +1112,5 @@ oklikou bloudit nenechej__!“
 A dost! Shazuji břímě svoje!  
 Já klasicismu čest jsem vzdal:  
 byť pozdě, vstup jsem udělal.
+
+</section>

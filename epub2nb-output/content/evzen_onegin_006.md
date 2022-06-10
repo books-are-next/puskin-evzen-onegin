@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 > _Svět hrdý nezatouživ bavit,  
 > přátelství uctívaje jen,  
 > jak tebe, druhu, nepozdravit  
@@ -20,3 +22,5 @@ contentType: prose
 > jak opadlý, nezralý chtěl věk,  
 > postřehů chladné rozumnosti  
 > a hořkých srdce poznámek._
+
+</section>

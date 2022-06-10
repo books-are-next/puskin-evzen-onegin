@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 > _Pétri de vanité il avait encore plus  
 > de cette espèce d’orgueil qui fait  
 > avouer avec la même indifférence les  
@@ -21,3 +23,5 @@ contentType: prose
 > možná jen domnělé._  
 >   
 > — ZE SOUKROMÉHO DOPISU__
+
+</section>

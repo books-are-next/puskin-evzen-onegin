@@ -3,6 +3,8 @@ title: HLAVA ŠESTÁ
 contentType: prose
 ---
 
+<section>
+
 > _Là, sotto i giorni nubilosi e brevi,_
 
 > _Nasce una gente a cui l’morir non dole._
@@ -13,3 +15,5 @@ ___Tam, pod mlhavými a krátkými dny
 se rodí kmen, pro nějž smrt není bolestí.___
 
 — PETRARCA
+
+</section>
