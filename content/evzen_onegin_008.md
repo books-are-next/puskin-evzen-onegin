@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### I
 
-  
+</section>
+
+<section>
 
 „Můj strýc byl mužem cti a v době,  
 kdy opravdu se roznemoh,  
@@ -24,7 +28,9 @@ Kdy konečně tě vezme ďas?“
 
 ### II
 
-  
+</section>
+
+<section>
 
 Tak rozjímal hoch lehké krve,  
 když dostavník prach za ním zdvih,  
@@ -43,7 +49,9 @@ Však sever na mne zlý má vliv.
 
 ### III
 
-  
+</section>
+
+<section>
 
 Svou službu jeho otec kdesi  
 táh čestně, až se zadlužil.  
@@ -62,7 +70,9 @@ A v Letní sad s ním chodíval.
 
 ### IV
 
-  
+</section>
+
+<section>
 
 Když potom bujarého mládí  
 čas Evženovi nadešel,  
@@ -81,7 +91,9 @@ Svět usoudil — co více chtít? —
 
 ### V
 
-  
+</section>
+
+<section>
 
 Učili jsme se ledabyle,  
 stačili málo poznati:  
@@ -100,7 +112,9 @@ mu vynes mnohý úsměv dam.
 
 ### VI
 
-  
+</section>
+
+<section>
 
 Teď latina je z módy právě.  
 Oněgin, abych nelhal snad,  
@@ -119,7 +133,9 @@ mu pevně tkvěly v paměti.
 
 ### VII
 
-  
+</section>
+
+<section>
 
 Vysokých vášní nesdíleje  
 pro zvuků cenu osudnou,  
@@ -138,7 +154,9 @@ a půdu zastavoval dál.
 
 ### VIII
 
-  
+</section>
+
+<section>
 
 Nuž, není kdy na tomto místě  
 vše vykládat, co Evžen znal.  
@@ -157,13 +175,17 @@ sníc o svém Římě v dálce kdes.
 
 ### IX
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### X
 
-  
+</section>
+
+<section>
 
 Jak záhy uměl pěstovati  
 přetvářku, tajit naděje,  
@@ -182,7 +204,9 @@ s ochotnou slzou v přítmí řas!
 
 ### XI
 
-  
+</section>
+
+<section>
 
 Jak novým dovedl se zdáti  
 a žertem zmásti čistý cit,  
@@ -201,7 +225,9 @@ milostné dávat hodiny!
 
 ### XII
 
-  
+</section>
+
+<section>
 
 Jak záhy na srdce už líčit  
 koketek uměl vášnivých!  
@@ -220,13 +246,17 @@ i s obědem a s ženou svou.
 
 ### XIII–XIV
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### XV
 
-  
+</section>
+
+<section>
 
 Ba, často ještě do postele  
 mu přicházejí listy v dům.  
@@ -245,7 +275,9 @@ budíčkem vyzvou k obědu.
 
 ### XVI
 
-  
+</section>
+
+<section>
 
 Je tma, když do saní si sedl.  
 „Hej, rychleji!“ Trysk mu odpoví.  
@@ -264,7 +296,9 @@ i ananasu zlatý pýr.
 
 ### XVII
 
-  
+</section>
+
+<section>
 
 Ještě si žízeň žádá vína,  
 by spláchla horké kotlety;  
@@ -283,7 +317,9 @@ by v parteru byl uslyšen.
 
 ### XVIII
 
-  
+</section>
+
+<section>
 
 Kouzelný kraj! Tam kdysi smělý  
 Fonvizin satirou nám vlád,  
@@ -302,7 +338,9 @@ tam hledala svou otčinu.
 
 ### XIX
 
-  
+</section>
+
+<section>
 
 Mé bohyně! Jste stejné stále?  
 Zda slyšíte můj teskný hlas?  
@@ -321,7 +359,9 @@ a na minulost vzpomínat?
 
 ### XX
 
-  
+</section>
+
+<section>
 
 Divadlo plno. Lóže svítí  
 a parter s křesly jako díž.  
@@ -340,7 +380,9 @@ se nepřestává rozvíjet.
 
 ### XXI
 
-  
+</section>
+
+<section>
 
 Vše tleská, Evžen teprv vchází.  
 To patří k jeho zábavám.  
@@ -359,7 +401,9 @@ však i Didelota mám již dost.“
 
 ### XXII
 
-  
+</section>
+
+<section>
 
 Ještě se čerty hemží scéna,  
 drak s amorky se po ní mih.  
@@ -378,7 +422,9 @@ Teď rychle převléci se jen!
 
 ### XXXIII
 
-  
+</section>
+
+<section>
 
 Zda zdaří se mi vylíčiti  
 tu místnost jenom zdaleka,  
@@ -397,7 +443,9 @@ mudrce osmnácti let.
 
 ### XXIV
 
-  
+</section>
+
+<section>
 
 Hle, jantar cařihradských dýmek  
 a vedle bronzu porculán  
@@ -416,7 +464,9 @@ Než pravdu neměl stokráte
 
 ### XXV
 
-  
+</section>
+
+<section>
 
 Je možno býti vážným mužem,  
 a chtíti krásné nehty mít.  
@@ -435,7 +485,9 @@ jde na karneval tancovat.
 
 ### XXVI
 
-  
+</section>
+
+<section>
 
 Jen hovím vaší zvědavosti,  
 když líčím jeho módní vzhled.  
@@ -454,7 +506,9 @@ v Akademickém slovníku.
 
 ### XXVII
 
-  
+</section>
+
+<section>
 
 Tož spokojme se touto troškou  
 a raděj navštívíme ples,  
@@ -473,7 +527,9 @@ i dam i módních bláznů těch.
 
 ### XXVIII
 
-  
+</section>
+
+<section>
 
 Náš hrdina už dostih vchodu.  
 Vrátného minuv, jako šíp  
@@ -492,7 +548,9 @@ Je žárem houslí ohlušen
 
 ### XXIX
 
-  
+</section>
+
+<section>
 
 V dnech snů a veselí, toť jisto,  
 já málem bláznil z plesů těch.  
@@ -511,7 +569,9 @@ Jen proto svěřuji to vám,
 
 ### XXX
 
-  
+</section>
+
+<section>
 
 Jak velký díl, ach, pro zábavy  
 jsem ze života poztrácel!  
@@ -530,7 +590,9 @@ znepokojují srdce mé.
 
 ### XXXI
 
-  
+</section>
+
+<section>
 
 Kdy, kde a v jakých pustin trávě,  
 ty blázne, zapomeneš jich?  
@@ -549,7 +611,9 @@ a vítr vaši šlépěj zved.
 
 ### XXXII
 
-  
+</section>
+
+<section>
 
 Prs Dianin a tváře Flory  
 nás uchvacují, druzi mí!  
@@ -568,7 +632,9 @@ i na pobřeží v žule skal.
 
 ### XXXIII
 
-  
+</section>
+
+<section>
 
 V snách moře před bouří zřím zase.  
 Ach, závist lomcovala mnou,  
@@ -587,7 +653,9 @@ nemučil tolik duši mou!
 
 ### XXXIV
 
-  
+</section>
+
+<section>
 
 I jiné časy pamatuji.  
 A někdy v nejtajnějších snech  
@@ -606,7 +674,9 @@ lže, klame jako nožky jich.
 
 ### XXXV
 
-  
+</section>
+
+<section>
 
 Co Oněgin však? V drožce klímá,  
 po bálu o posteli sní.  
@@ -625,7 +695,9 @@ už otvírá svůj _vasisdas_.
 
 ### XXXVI
 
-  
+</section>
+
+<section>
 
 Ples znavil Oněgina. Spánek  
 mu jitro v půlnoc změnil dnes.  
@@ -644,7 +716,9 @@ zda zůstal bezstarostný, zdráv?
 
 ### XXXVII
 
-  
+</section>
+
+<section>
 
 Ne: brzo ustydly v něm city  
 a omrzel ho světa šum.  
@@ -663,7 +737,9 @@ i olova i šavle přec.
 
 ### XXXVIII
 
-  
+</section>
+
+<section>
 
 Ten neduh, jehož příčin minu,  
 ač rozbor by byl načase,  
@@ -682,13 +758,17 @@ A lhostejný, dál mimo šel.
 
 ### XXXIX–XL–XLI
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### XLII
 
-  
+</section>
+
+<section>
 
 Vy preciosky společnosti!  
 Vás ze všech nejdřív zanechal.  
@@ -707,7 +787,9 @@ tak nepřístupnou mužům všem,
 
 ### XLIII
 
-  
+</section>
+
+<section>
 
 I vám, ó krasotinky slavné,  
 jež v pozdních chvílích setmění  
@@ -726,7 +808,9 @@ vždyť náležím k nim také sám.
 
 ### XLIV
 
-  
+</section>
+
+<section>
 
 Propadnuv znova nečinnosti,  
 v níž prázdnem zalykal se cit,  
@@ -745,7 +829,9 @@ smuteční přehoz moudře stáh.
 
 ### XLV
 
-  
+</section>
+
+<section>
 
 Konvencí světa zbyv se v sobě,  
 jak on zanechav marností,  
@@ -764,7 +850,9 @@ hned na úsvitu života.
 
 ### XLVI
 
-  
+</section>
+
+<section>
 
 Kdo žil a myslil, tomu snadno  
 pohrdat lidmi v nitru svém.  
@@ -783,7 +871,9 @@ i jeho epigramům zlým.
 
 ### XLVII
 
-  
+</section>
+
+<section>
 
 Jak často za to léto krásné,  
 kdy noční nebe nad Něvou  
@@ -802,7 +892,9 @@ svou rukou blouznivý sen ved.
 
 ### XLVIII
 
-  
+</section>
+
+<section>
 
 Z té duše v žal se potápěje  
 a opřen o žulový rám,  
@@ -821,7 +913,9 @@ zní Torquatovy oktávy.
 
 ### XLIX
 
-  
+</section>
+
+<section>
 
 Ó, adriatické vy vlny,  
 ó, Brento! Ne, přec uzřím vás,  
@@ -840,7 +934,9 @@ se řečí lásky s Petrarkou.
 
 ### L
 
-  
+</section>
+
+<section>
 
 Což, dočkám svobody se ještě?  
 Té v dálce, jež tak krásná je?  
@@ -859,7 +955,9 @@ kde srdce své jsem pochoval.
 
 ### LI
 
-  
+</section>
+
+<section>
 
 Oněgin záhy by byl se mnou  
 se rozjel z vlasti do světa.  
@@ -878,7 +976,9 @@ Vždyť stařík zrál už do hrobu.
 
 ### LII
 
-  
+</section>
+
+<section>
 
 A vskutku — jak vše život složí!  
 List od správce tu náhle byl:  
@@ -897,7 +997,9 @@ už čekala na svoji daň.
 
 ### LIII
 
-  
+</section>
+
+<section>
 
 Po dvoře pobíhali sluzi.  
 A k nebožtíku ze všech stran  
@@ -916,7 +1018,9 @@ si liboval své sudby zvrat.
 
 ### LIV
 
-  
+</section>
+
+<section>
 
 Tak na dva dni ho upoutaly  
 v dál táhnoucí se lány luk,  
@@ -935,7 +1039,9 @@ jak věrný pohled manželčin.
 
 ### LV
 
-  
+</section>
+
+<section>
 
 Já zrodil se pro život klidný,  
 jenž v ticho vsí spí ponořen.  
@@ -954,7 +1060,9 @@ neprožil nejšťastnější dni?
 
 ### LVI
 
-  
+</section>
+
+<section>
 
 Mne květy, láska v háji stinném  
 a ves a klid vždy vábily.  
@@ -973,7 +1081,9 @@ a nepsat jenom o sobě.
 
 ### LVII
 
-  
+</section>
+
+<section>
 
 Jen krátce. Básník odjakživa  
 se stápí v lásky iluzích.  
@@ -992,7 +1102,9 @@ věnuješ lyry pláč a smích?
 
 ### LVIII
 
-  
+</section>
+
+<section>
 
 Čí pohled, jenž tě inspiroval,  
 tě za tvůj zádumčivý rým  
@@ -1011,7 +1123,9 @@ Já v lásce němý hňup však byl.
 
 ### LIX
 
-  
+</section>
+
+<section>
 
 Pryč láska je. Leč slyším Múzu,  
 jež sklonila se k vyschlým rtům.  
@@ -1030,7 +1144,9 @@ Bude mít zpěvů dvacet pět.
 
 ### LX
 
-  
+</section>
+
+<section>
 
 Už promýšlel jsem formu plánu,  
 už hrdina mnou pokřtěn byl.  
@@ -1046,3 +1162,5 @@ Spěš tedy k něvským břehům, spěš,
 novorozená básni ty má!  
 To budiž slávy přídavek —  
 hluk, žvást a hodně nadávek.
+
+</section>

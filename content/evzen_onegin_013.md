@@ -3,6 +3,8 @@ title: HLAVA ČTVRTÁ
 contentType: prose
 ---
 
+<section>
+
 > _La morale est dans la nature des choses._
 
 — NECKER
@@ -10,3 +12,5 @@ contentType: prose
                     ___Mravnost je věcem vrozená.___
 
 — NECKER
+
+</section>

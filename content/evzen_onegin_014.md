@@ -3,15 +3,21 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### I–II–III–IV–V–VI
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### VII
 
-  
+</section>
+
+<section>
 
 Čím míň jsme uchváceni ženou,  
 tím více se jí líbíme.  
@@ -30,7 +36,9 @@ a paruky jich v skříni tlí.
 
 ### VIII
 
-  
+</section>
+
+<section>
 
 Kdo syt by nebyl řeči lstivé,  
 jež chválí a zas haní hned?  
@@ -49,7 +57,9 @@ manželů přízeň únavných?
 
 ### IX
 
-  
+</section>
+
+<section>
 
 Tak sníval často Evžen v bdění.  
 Byl za dob první mladosti  
@@ -68,7 +78,9 @@ Tak ubil osm krásných let,
 
 ### X
 
-  
+</section>
+
+<section>
 
 Už krásky nemiloval, ale  
 lhostejným poutníkem se stal.  
@@ -87,7 +99,9 @@ kam navečer se vypraví.
 
 ### XI
 
-  
+</section>
+
+<section>
 
 Když Tánin list však držel v ruce,  
 Oněgin živě dojat byl.  
@@ -106,7 +120,9 @@ kde Taťána se sešla s ním.
 
 ### XII
 
-  
+</section>
+
+<section>
 
 Dvě minuty tak stáli němi,  
 až Evžen s vážným pohledem  
@@ -125,7 +141,9 @@ A buďte dobrým soudcem mým.
 
 ### XIII
 
-  
+</section>
+
+<section>
 
 Kdybych svůj život uzavříti  
 v kruh domácnosti jednou snil,  
@@ -144,7 +162,9 @@ bych šťasten snad… být mohl zas!
 
 ### XIV
 
-  
+</section>
+
+<section>
 
 Mé štěstí? Listu podobá se,  
 jejž ve vichřici trousí kmen.  
@@ -163,7 +183,9 @@ nám nadlouho vplet do vlasů.
 
 ### XV
 
-  
+</section>
+
+<section>
 
 Je hroznější věc v světě celém  
 než dům, kde žena zklamaná  
@@ -182,7 +204,9 @@ vám úděl tento přisoudil?
 
 ### XVI
 
-  
+</section>
+
+<section>
 
 V mé duši povadlo snů kvítí.  
 Je po jaru a naději.  
@@ -201,7 +225,9 @@ a nezkušenost bývá zlá.“
 
 ### XVII
 
-  
+</section>
+
+<section>
 
 Tak mluvil. Vítr hučel v boru.  
 V slz závěji a uštvaná,  
@@ -220,7 +246,9 @@ jak pyšná Moskva hýřivá.
 
 ### XVIII
 
-  
+</section>
+
+<section>
 
 Kdo z vás by nesouhlasil se mnou,  
 že Evžen velmi šlechetně  
@@ -239,7 +267,9 @@ Jak bych si na ně nevzpomněl.
 
 ### XIX
 
-  
+</section>
+
+<section>
 
 Jak ne! Však nechme černé ovce  
 těch myšlenek spát zaklety!  
@@ -258,7 +288,9 @@ vždyť vás má rád… jak z rodiny.
 
 ### XX
 
-  
+</section>
+
+<section>
 
 Hm, hm… čtenáři blahorodí,  
 je zdráva vaše rodina?  
@@ -277,7 +309,9 @@ A dlouhých let se dožili!
 
 ### XXI
 
-  
+</section>
+
+<section>
 
 Víc slíbí láska něžných paní  
 než příbuznost a přátelství.  
@@ -296,7 +330,9 @@ si hraje s láskou satanáš.
 
 ### XXII
 
-  
+</section>
+
+<section>
 
 Koho mít rád? A komu věřit?  
 Kdo nevrhá k nám zrady stín?  
@@ -315,7 +351,9 @@ Nic pěknějšího nenajdeš.
 
 ### XXIII
 
-  
+</section>
+
+<section>
 
 Lze zcela lehko uhodnouti,  
 co schůzka měla vzápětí.  
@@ -334,7 +372,9 @@ stín bouře do tmy zažene.
 
 ### XXIV
 
-  
+</section>
+
+<section>
 
 Žel, třikrát žel, Taťána vadne;  
 a bledne v mrtvém mlčení.  
@@ -353,7 +393,9 @@ vždyť mám ji tolik, tolik rád.
 
 ### XXV
 
-  
+</section>
+
+<section>
 
 Den za dnem přitahován dále  
 půvabem mládí Olžina,  
@@ -372,7 +414,9 @@ když povzbudí ho úsměvem.
 
 ### XXVI
 
-  
+</section>
+
+<section>
 
 Též někdy, Olgu lesem vodě,  
 Vladimír román rozbalí,  
@@ -391,7 +435,9 @@ A on tak roztržitě hrál,
 
 ### XXVII
 
-  
+</section>
+
+<section>
 
 I když se potom domů vrátí,  
 zas Olgou jen se zabývá.  
@@ -410,7 +456,9 @@ jež od dávna se nemění.
 
 ### XXVIII
 
-  
+</section>
+
+<section>
 
 Vždyť znáte slečen ze vsi alba,  
 kde počmárán je každý list,  
@@ -429,7 +477,9 @@ zkus pode mne se podepsat.“_
 
 ### XXIX
 
-  
+</section>
+
+<section>
 
 Tu najdeš všude bez výjimky  
 dvou srdcí v ohni podobu;  
@@ -448,7 +498,9 @@ zda dovedl jsem vtipně lhát.
 
 ### XXX
 
-  
+</section>
+
+<section>
 
 Však vy, luxusní památníky  
 z čertovské bibliotéky,  
@@ -467,7 +519,9 @@ jí mám teď psáti madrigal!
 
 ### XXXI
 
-  
+</section>
+
+<section>
 
 Lenskij ho ovšem nenapíše  
 v památní knížky Olžiny.  
@@ -486,7 +540,9 @@ za svědky o tvých osudech.
 
 ### XXXII
 
-  
+</section>
+
+<section>
 
 Zde tiše! Pozor na kritiky!  
 Tu jeden přísně káže nám  
@@ -505,7 +561,9 @@ Pánové, ódy máte psát,
 
 ### XXXIII
 
-  
+</section>
+
+<section>
 
 jak psávali v čas zašlé módy,  
 hrdinným, mocným úhozem…“  
@@ -524,7 +582,9 @@ Nač sváry století dvou vést?
 
 ### XXXIV
 
-  
+</section>
+
+<section>
 
 I svobody i slávy žádal  
 si Lenskij, v snách se toulaje.  
@@ -543,7 +603,9 @@ bůhvíkam v duchu bloudila.
 
 ### XXXV
 
-  
+</section>
+
+<section>
 
 Já ovšem každé snů svých pláně,  
 svých harmonických hříček vzlet  
@@ -562,13 +624,17 @@ zvuk sladkých strof, hned odletí.
 
 ### XXXVI
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### XXXVII
 
-  
+</section>
+
+<section>
 
 Nu dost! Vraťme se k Evženovi!  
 Jen trpělivost, prosím vás.  
@@ -586,13 +652,17 @@ a oblékal se…
 
 ### XXXVIII
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### XXXIX
 
-  
+</section>
+
+<section>
 
 Dost knih a spánku, toulky zdravé,  
 stín lesa, bystřin zurčení,  
@@ -611,7 +681,9 @@ i nudy vrtošivých cest.
 
 ### XL
 
-  
+</section>
+
+<section>
 
 Karikaturou jižní zimy  
 severní naše léto je.  
@@ -630,7 +702,9 @@ U dvora stál již listopad.
 
 ### XLI
 
-  
+</section>
+
+<section>
 
 Sychravé úsvity teď začnou  
 mžít polem, v němž šum práce zmlk.  
@@ -649,7 +723,9 @@ přátelsky praská do šera.
 
 ### XLII
 
-  
+</section>
+
+<section>
 
 A hle, již mrazem dech se úží,  
 květ jinovatky stříbří pláň…  
@@ -668,7 +744,9 @@ To padá, padá první sníh.
 
 ### XLIII
 
-  
+</section>
+
+<section>
 
 Co za dnů těch se dělat sluší?  
 Jít na procházku? Z venkova  
@@ -687,7 +765,9 @@ tak slavně zimu přežiješ.
 
 ### XLIV
 
-  
+</section>
+
+<section>
 
 Evžen jak Childe Harold si veda,  
 sotva se líně ráno zved,  
@@ -706,7 +786,9 @@ Tož rychle na stůl, jíst a pít!
 
 ### XLV
 
-  
+</section>
+
+<section>
 
 Od Cliquotky či od Moëtů  
 blahoslavené víno hned  
@@ -725,7 +807,9 @@ co hádek a snů rozkošných!
 
 ### XLVI
 
-  
+</section>
+
+<section>
 
 Já poznal však, žaludku mému  
 šum pěn že nejde k duhu již.  
@@ -744,7 +828,9 @@ Buď zdrávo, _Bordeaux_, příteli!
 
 ### XLVII
 
-  
+</section>
+
+<section>
 
 Krb přestal praskat; pod popelem  
 jen zlatý uhel řeřaví.  
@@ -763,7 +849,9 @@ Dvojice přátel rozpráví:
 
 ### XLVIII
 
-  
+</section>
+
+<section>
 
 „Co s Taťánou? Co se sousedy?  
 Co s ohnivou je Olgou tvou?“  
@@ -782,7 +870,9 @@ Vždyť tenhle týden zván jsi k nim. —
 
 ### XLIX
 
-  
+</section>
+
+<section>
 
 „Já?“ — Ovšemže ty. Taťána má  
 v sobotu svátek. Prosí tě  
@@ -801,7 +891,9 @@ o Olze své: to láska je!
 
 ### L
 
-  
+</section>
+
+<section>
 
 Byl šťasten. Již dva týdny pouze,  
 a tma manželské ložnice  
@@ -820,7 +912,9 @@ byl srdcem svým pro život ten.
 
 ### LI
 
-  
+</section>
+
+<section>
 
 Byl milován… A dozajista  
 v to věřil a tím šťasten byl.  
@@ -836,3 +930,5 @@ kdo vše na ruby převrátí
 a slovo, pohyb nenávidí,  
 čí cit zmrazila zkušenost,  
 kdo žil, jsa iluzí všech prost.
+
+</section>

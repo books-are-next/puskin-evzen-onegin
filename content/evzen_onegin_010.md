@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### I
 
-  
+</section>
+
+<section>
 
 Ves, na níž Oněgin mřel nudou,  
 je z oněch koutů plných krás,  
@@ -24,7 +28,9 @@ pro zádumčivé dryády.
 
 ### II
 
-  
+</section>
+
+<section>
 
 Ctihodný zámek vybudován  
 byl v přesném slohu vzorů svých,  
@@ -43,7 +49,9 @@ v starých i v módních komnatách.
 
 ### III
 
-  
+</section>
+
+<section>
 
 Sám pro pokoj se rozhod, dí mi,  
 kde starý morous před ním žil,  
@@ -62,7 +70,9 @@ v své práci neměl chuť a kdy.
 
 ### IV
 
-  
+</section>
+
+<section>
 
 Oněgin, sám v zámeckém chladu,  
 jen aby čas mu ušel líp,  
@@ -81,7 +91,9 @@ Ten blázen nebezpečný je.
 
 ### V
 
-  
+</section>
+
+<section>
 
 Návštěvy hrnuly se sice  
 v dnech prvních za Oněginem.  
@@ -100,7 +112,9 @@ ho pomlouvali společně.
 
 ### VI
 
-  
+</section>
+
+<section>
 
 V svou ves se uchýlil v té době  
 i jiný statkář, by tu žil.  
@@ -119,7 +133,9 @@ mávaje černou kadeří.
 
 ### VII
 
-  
+</section>
+
+<section>
 
 Svět chladný s rozvratem svých mravů  
 mu duši ještě nezmrazil.  
@@ -138,7 +154,9 @@ přec zázrak, zázrak tušila.
 
 ### VIII
 
-  
+</section>
+
+<section>
 
 I věřil, že by duše rodná  
 hned splynula s ním nejraděj,  
@@ -151,7 +169,9 @@ za jeho čest i do okovů
 že každému z nás předurčeni  
 jsou požehnaní přátelé,
 
-  
+</section>
+
+<section>
 
 — — —  
 — — —  
@@ -160,7 +180,9 @@ jsou požehnaní přátelé,
 
 ### IX
 
-  
+</section>
+
+<section>
 
 A jeho čistá láska k štěstí  
 a jeho soucit, jeho hněv,  
@@ -179,7 +201,9 @@ prostoty vážná nádhera.
 
 ### X
 
-  
+</section>
+
+<section>
 
 Poslušen lásky, lásku zpíval  
 a v jeho písni svítil jas,  
@@ -198,7 +222,9 @@ stár téměř osmnácte let.
 
 ### XI
 
-  
+</section>
+
+<section>
 
 Na vsi, kde ducha v jeho tváři  
 jen Oněgin moh ocenit,  
@@ -217,7 +243,9 @@ byl ještě méně vybroušen.
 
 ### XII
 
-  
+</section>
+
+<section>
 
 Že bohat byl a krásný taky,  
 jak ženich býval Lenskij zván.  
@@ -236,7 +264,9 @@ _Dnes večer pod okýnkem stůj!_
 
 ### XIII
 
-  
+</section>
+
+<section>
 
 Jenomže Lenskij ani stínem  
 nejevil touhu pouta nést,  
@@ -255,7 +285,9 @@ se z dlouhé chvíle přátelí.
 
 ### XIV
 
-  
+</section>
+
+<section>
 
 My však i tohle sotva známe.  
 Ba, znechuceni všedností,  
@@ -274,7 +306,9 @@ a v cizí svět se uměl vžít.
 
 ### XV
 
-  
+</section>
+
+<section>
 
 S úsměvem na Lenského zírá.  
 Básníkův hovor vzrušený  
@@ -293,7 +327,9 @@ mladému bludu v plameni.
 
 ### XVI
 
-  
+</section>
+
+<section>
 
 Spor vždy se vracel mezi nimi  
 a vždy se debatovalo.  
@@ -312,7 +348,9 @@ mu pozorně vždy naslouchal.
 
 ### XVII
 
-  
+</section>
+
+<section>
 
 Nejraděj na samotě tady  
 o vášních ovšem mluvili.  
@@ -331,7 +369,9 @@ neprokarbanil v kartách lstných.
 
 ### XVIII
 
-  
+</section>
+
+<section>
 
 Když doplujeme pod prapory  
 k dnům moudrým, v nichž mír plápolá,  
@@ -350,7 +390,9 @@ se svěřuje v sluch příteli.
 
 ### XIX
 
-  
+</section>
+
+<section>
 
 Však zato rozhořelá mladost  
 nic nedovede skrýt, nic lhát!  
@@ -369,7 +411,9 @@ nic nového nám nepoví.
 
 ### XX
 
-  
+</section>
+
+<section>
 
 Ach, miloval, jak dnes už znova  
 rád nelze mít! Jak šílená  
@@ -388,7 +432,9 @@ panenským ohněm vzňatý cit.
 
 ### XXI
 
-  
+</section>
+
+<section>
 
 Jak hocha ještě uchvátila  
 ho Olga. Svědkem zábav byl,  
@@ -407,7 +453,9 @@ ji před včelami, motýly.
 
 ### XXII
 
-  
+</section>
+
+<section>
 
 To ona snílka obdařila  
 přec vzruchem první mladosti.  
@@ -426,7 +474,9 @@ náhražku matných luceren.
 
 ### XXIII
 
-  
+</section>
+
+<section>
 
 Vždy poslušná, vždy skromná byla,  
 vždy jako jitro zářivá,  
@@ -445,7 +495,9 @@ vám starší sestru vylíčím.
 
 ### XXIV
 
-  
+</section>
+
+<section>
 
 Nuž začíná se nová scéna,  
 v níž představím vám Taťánu.  
@@ -464,7 +516,9 @@ dnes v Rusku u vzdělanců máš.
 
 ### XXV
 
-  
+</section>
+
+<section>
 
 Tož Taťánou ji zvou. A věru,  
 bez krásy, tváře ruměné,  
@@ -483,7 +537,9 @@ sedala mlčky u kamen.
 
 ### XXVI
 
-  
+</section>
+
+<section>
 
 A zádumčivost, družka její  
 od prvních let, od prvních zim,  
@@ -502,7 +558,9 @@ zas komanduje panenky.
 
 ### XXVII
 
-  
+</section>
+
+<section>
 
 Než Taťána v těch letech loutku  
 do rukou nikdy nebrala.  
@@ -521,7 +579,9 @@ jak tlupa kolem letěla.
 
 ### XXVIII
 
-  
+</section>
+
+<section>
 
 Sedala ráda na balkónu,  
 na úsvit jitra čekajíc,  
@@ -540,7 +600,9 @@ si rozsvěcela v temný chlad.
 
 ### XXIX
 
-  
+</section>
+
+<section>
 
 Čtla záhy román po románu,  
 jež nahrazovaly jí svět.  
@@ -559,7 +621,9 @@ jenž manželku mu pobláznil.
 
 ### XXX
 
-  
+</section>
+
+<section>
 
 Ta milovala Richardsona  
 ne proto, že by četla v něm,  
@@ -578,7 +642,9 @@ hráč, floutek, gardy kapitán.
 
 ### XXXI
 
-  
+</section>
+
+<section>
 
 Jak on i ona oblékala  
 se slušivě a podle mód.  
@@ -597,7 +663,9 @@ aby nám štěstí nahradil.
 
 ### XXXII
 
-  
+</section>
+
+<section>
 
 Stesk, pro nějž léku nebylo jí,  
 byl zvykem zpola zahlazen.  
@@ -616,7 +684,9 @@ natlouci služkám uměla.
 
 ### XXXIII
 
-  
+</section>
+
+<section>
 
 Kdys v alba něžných dívek psala  
 svou krví, celou duší svou.  
@@ -635,7 +705,9 @@ a v čepečku hned po ránu.
 
 ### XXXIV
 
-  
+</section>
+
+<section>
 
 Muž upřímně ji milovával  
 a v pevné důvěře k ní žil.  
@@ -654,7 +726,9 @@ sousedé domů spěchali.
 
 ### XXXV
 
-  
+</section>
+
+<section>
 
 Za pomalého života si  
 pradávné zvyky chránili.  
@@ -673,7 +747,9 @@ nosili podle hodností.
 
 ### XXXVI
 
-  
+</section>
+
+<section>
 
 Tak stárli po celou tu dobu.  
 Pak před manželem dokořán  
@@ -692,7 +768,9 @@ zde pod kamenem našel mír.“_
 
 ### XXXVII
 
-  
+</section>
+
+<section>
 
 Když ke svým penátům se vrátil  
 Vladimír Lenskij v rodnou zem,  
@@ -711,7 +789,9 @@ mu na památku madrigal.
 
 ### XXXVIII
 
-  
+</section>
+
+<section>
 
 I rodičům svým, žalem zmámen,  
 zde psal kdys — jaká tesknota! —  
@@ -730,7 +810,9 @@ i nás přitlačí v hlíny chlad!
 
 ### XXXIX
 
-  
+</section>
+
+<section>
 
 Jen pijte, pokud času dosti,  
 ten život lehký jako van.  
@@ -749,7 +831,9 @@ alespoň jeden, jeden zvuk.
 
 ### XL
 
-  
+</section>
+
+<section>
 
 Snad v něčím srdci zazní přece;  
 a osud se svou perutí  
@@ -765,3 +849,5 @@ v němž srdce nepřestalo bít
 pro básní mých zpěv etherický,  
 ty, jehož vlídná ruka kdy  
 pohladí laury starcovy.
+
+</section>

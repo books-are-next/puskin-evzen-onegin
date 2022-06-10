@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### I
 
-  
+</section>
+
+<section>
 
 V těch dnech, kdy v sadech u lycea  
 jsem bezstarostně rozkvítal,  
@@ -24,7 +28,9 @@ a srdce tluk, snů květ a hrob.
 
 ### II
 
-  
+</section>
+
+<section>
 
 Svět s veselou nás vítal tváří.  
 První úspěch nám křídla dal.  
@@ -43,7 +49,9 @@ a před smrtí nám požehnal.
 
 ### III
 
-  
+</section>
+
+<section>
 
 A já, zákonem míti chtěje  
 jen vášní zvůli překotnou,  
@@ -62,7 +70,9 @@ a já se chlubil nad stolem,
 
 ### IV
 
-  
+</section>
+
+<section>
 
 Hlas osudu však padl na mě,  
 v dál běžel jsem… Šla, kam jsem šel.  
@@ -81,7 +91,9 @@ Buď chválen světů stvořitel.
 
 ### V
 
-  
+</section>
+
+<section>
 
 Zapomenuvši metropole,  
 kde hostin lesk a hudby van,  
@@ -100,7 +112,9 @@ s francouzskou knížkou na klíně.
 
 ### VI
 
-  
+</section>
+
+<section>
 
 Po prvé nyní zavedu ji  
 však na raut, mezi elitu;  
@@ -119,7 +133,9 @@ jak kolem malby temný rám.
 
 ### VII
 
-  
+</section>
+
+<section>
 
 I řád i soulad se jí líbí,  
 jenž v oligarchii té zkvet,  
@@ -138,7 +154,9 @@ Nu ovšem. Což ho neznáte?
 
 ### VIII
 
-  
+</section>
+
+<section>
 
 „Je stále týž? Či došel míru?  
 Či podivína dělá dál?  
@@ -157,7 +175,9 @@ Už dost se světa naklamal…“
 
 ### IX
 
-  
+</section>
+
+<section>
 
 — Leč proč jenom tak bez lítosti  
 vidíte všecko černé v něm?  
@@ -176,7 +196,9 @@ nám zvyklostí svou hoví dost?“
 
 ### X
 
-  
+</section>
+
+<section>
 
 Je blažený, kdo mlád byl k mládu,  
 je šťasten, v pravý čas kdo zrál,  
@@ -195,7 +217,9 @@ Pan N. N., dokonalý tvor.
 
 ### XI
 
-  
+</section>
+
+<section>
 
 Však smutno myslit, že se v dáli  
 nám marně mladost ztratila;  
@@ -214,7 +238,9 @@ názory, vášně ani sny.
 
 ### XII
 
-  
+</section>
+
+<section>
 
 Kdo stal se terčem hlučných soudů,  
 jak ubrání se, ze všech stran,  
@@ -233,7 +259,9 @@ co počít by měl, nevěděl.
 
 ### XIII
 
-  
+</section>
+
+<section>
 
 Štván neklidem, se toulal v dáli,  
 tu zde a zítra jinde již.  
@@ -252,7 +280,9 @@ jak Čackij — zapad do bálu.
 
 ### XIV
 
-  
+</section>
+
+<section>
 
 Po sále spěl šum jako v roji.  
 Šept od úst k ústům běžel dál.  
@@ -271,7 +301,9 @@ Já rusky říct to neuměl.
 
 ### XV
 
-  
+</section>
+
+<section>
 
 I hrnuly se za ní dámy,  
 stařenky s úsměvem šly k ní.  
@@ -290,7 +322,9 @@ Můj bože, zas to cize zní…
 
 ### XVI
 
-  
+</section>
+
+<section>
 
 Mám velmi rád to slovo, braši,  
 neumím je však přeložit;  
@@ -309,7 +343,9 @@ sousedka, byť i ve stínu.
 
 ### XVII
 
-  
+</section>
+
+<section>
 
 „Je možno to?“ si Evžen myslí:  
 „Že by to ona mohla být?…  
@@ -328,7 +364,9 @@ Má žena. Hned tě představím. —
 
 ### XVIII
 
-  
+</section>
+
+<section>
 
 „Tys ženat?“ ptá se Evžen, bledý.  
 „Už dávno?“ — Nu, už třetí rok. —  
@@ -347,7 +385,9 @@ týž klid a v očích tentýž jas.
 
 ### XIX
 
-  
+</section>
+
+<section>
 
 Ne, nejenže se nezachvěla,  
 že nerděla se, nezbledla…  
@@ -366,7 +406,9 @@ A Evžen zůstal sám jak sloup.
 
 ### XX
 
-  
+</section>
+
+<section>
 
 Že vskutku tatáž Táňa je to,  
 jež vstříc mu šla tak nevinně  
@@ -385,7 +427,9 @@ tak lhostejně, tak směle stát?
 
 ### XXI
 
-  
+</section>
+
+<section>
 
 Hluk rautu když už sotva snesl,  
 zamyšlen domů pospíchal.  
@@ -404,7 +448,9 @@ zas láska přišla ke slovu?
 
 ### XXII
 
-  
+</section>
+
+<section>
 
 Čas loudavý zas čekat nechá  
 ho na večer, jak v dávných dnech.  
@@ -423,7 +469,9 @@ pohledem kněžna sedí s ním.
 
 ### XXIII
 
-  
+</section>
+
+<section>
 
 Jak vítal Evžen generála,  
 jenž skončil trapné tête à tête?  
@@ -442,7 +490,9 @@ nikoho nechce unudit.
 
 ### XXIV
 
-  
+</section>
+
+<section>
 
 Byl výkvět Petrohradu tady,  
 bylo tu panstvo, módy vzor,  
@@ -461,7 +511,9 @@ poněkud směšný byl však dnes.
 
 ### XXV
 
-  
+</section>
+
+<section>
 
 Obcházel tu též ironický,  
 na vše se hněvající pán:  
@@ -480,7 +532,9 @@ na sníh i na manželku svou.
 
 ### XXVI
 
-  
+</section>
+
+<section>
 
 Neopomněl se dostaviti  
 \[Prolasov.\] Podlostí byl znám.  
@@ -499,7 +553,9 @@ ho mlčky shodně odsoudil.
 
 ### XXVII
 
-  
+</section>
+
+<section>
 
 Oněgin můj však večer celý  
 jen Taťánou byl zaujat;  
@@ -518,7 +574,9 @@ Ráj rájem není bez něho.
 
 ### XXVIII
 
-  
+</section>
+
+<section>
 
 Taťána! Jak se proměnila!  
 Jak bezpečně hrát uměla!  
@@ -537,7 +595,9 @@ přec půjde krokem společným.
 
 ### XXIX
 
-  
+</section>
+
+<section>
 
 Vím, k lásce každý věk se sklání;  
 panenským, mladým srdcím, těm  
@@ -556,7 +616,9 @@ a krutě obnažuje háj.
 
 ### XXX
 
-  
+</section>
+
+<section>
 
 Ne, není pochyb, žel! Jak dítě  
 se zamiloval Evžen zas;  
@@ -575,7 +637,9 @@ an šátek zved jí ze země.
 
 ### XXXI
 
-  
+</section>
+
+<section>
 
 Než ona, jak když zřít ho nechce,  
 když utrápen se před ní mih,  
@@ -594,7 +658,9 @@ Soud všech, i lékařů, pak zní,
 
 ### XXXII
 
-  
+</section>
+
+<section>
 
 On nejede však; v lůno země  
 se raděj chystá k předkům svým.  
@@ -613,7 +679,9 @@ Zde máte list, jejž Evžen psal:
 
 ONĚGINŮV DOPIS TAŤÁNĚ
 
-  
+</section>
+
+<section>
 
 „Já tuším vše: vás urazí  
 mé tajemství, jež se vám vzdává.  
@@ -638,7 +706,9 @@ já viděl v klidu, volnosti
 náhražku štěstí, radosti!  
 Jak zmýlil jsem se ke zlu svému!
 
-  
+</section>
+
+<section>
 
 Ne, každou chvíli vidět vás,  
 být vaším stínem, který vnímá  
@@ -649,7 +719,9 @@ váš zjev, v němž božstvo tuším kvésti,
 vám před očima v mukách mřít  
 a mizet, zhasínat… toť štěstí!
 
-  
+</section>
+
+<section>
 
 Jen přelud je to; nazdařbůh  
 se vleku pro vás, nevím kudy.  
@@ -662,7 +734,9 @@ abych jim dodal trochu ceny,
 už ráno chci být ujištěn,  
 že jistě uzřím vás ten den…
 
-  
+</section>
+
+<section>
 
 Jak nemít strach, v mé prosbě tiché  
 že vaše přísnost uvidí  
@@ -681,7 +755,9 @@ nezradit okem, slovem cit;
 předstírat v rozhovoru klid  
 a s úsměvem vám naslouchati…!
 
-  
+</section>
+
+<section>
 
 Jsem u konce však: nebudu  
 se sobě vzpírat v marném zdání;  
@@ -690,7 +766,9 @@ Vzdávám se svému osudu.“ —
 
 ### XXXIII
 
-  
+</section>
+
+<section>
 
 A čeká marně. Druhý, třetí  
 list napsal, žádná odpověď.  
@@ -709,7 +787,9 @@ Svit hněvu spíš než soucitu…
 
 ### XXXIV
 
-  
+</section>
+
+<section>
 
 Ba, možná také tajné bázně,  
 by neuhodl muž či sál  
@@ -728,7 +808,9 @@ a v temný kout s ním zapadla.
 
 ### XXXV
 
-  
+</section>
+
+<section>
 
 Pak zabořil se do knih znovu.  
 Čte Rousseaua, madame de Staël,  
@@ -747,7 +829,9 @@ _E sempre bene_, jen tak dál.
 
 ### XXXVI
 
-  
+</section>
+
+<section>
 
 Co z toho však? Jen oči četly,  
 však myšlenky se toulaly.  
@@ -766,7 +850,9 @@ pohádky duše zakleté
 
 ### XXXVII
 
-  
+</section>
+
+<section>
 
 Tak propadal se do dřímoty  
 a s ním snů, myšlenek těch sněm.  
@@ -785,7 +871,9 @@ tam _ona_, stále ona v něm…
 
 ### XXXVIII
 
-  
+</section>
+
+<section>
 
 A trýzeň snů je tak s ním spjatá,  
 že málem zhasl rozum v něm,  
@@ -804,7 +892,9 @@ by trepky sobě připálil.
 
 ### XXXIX
 
-  
+</section>
+
+<section>
 
 Už táhlo teplé jaro; osud  
 dní zimních zpečetila zem;  
@@ -823,7 +913,9 @@ Kam míří svůj let střemhlavý
 
 ### XL
 
-  
+</section>
+
+<section>
 
 dnes Evžen? Vždyť už uhodli jste,  
 kam jinam táh by se jak stín?  
@@ -842,7 +934,9 @@ déšť tichých slzí kane jí.
 
 ### XLI
 
-  
+</section>
+
+<section>
 
 Ó, kdo by její trýzně na ní  
 hned nepostřeh, když před ní stál?  
@@ -861,7 +955,9 @@ se opět probudilo v ní.
 
 ### XLII
 
-  
+</section>
+
+<section>
 
 Nespouští tklivých očí z něho,  
 nevstává, by ho zvednula,  
@@ -880,7 +976,9 @@ A dnes, dnes řada na mně je.
 
 ### XLIII
 
-  
+</section>
+
+<section>
 
 Byla jsem mladší, Oněgine,  
 tenkrát — a lepší snad než teď.  
@@ -899,7 +997,9 @@ Jsem z celé duše vděčna vám…
 
 ### XLIV
 
-  
+</section>
+
+<section>
 
 Nu viďte! Tehdá v samotě té  
 já pouhým nic vám byla jsem.  
@@ -918,7 +1018,9 @@ by byla vám má pohana?
 
 ### XLV
 
-  
+</section>
+
+<section>
 
 Já pláču… Jestliže své Táni  
 si vzpomínáte dosavad,  
@@ -937,7 +1039,9 @@ a rabem mělké vášně být!
 
 ### XLVI
 
-  
+</section>
+
+<section>
 
 Vždyť všechna ceremonie ta,  
 ta prázdná cetka života,  
@@ -956,7 +1060,9 @@ se nad mou chůvou ubohou.
 
 ### XLVII
 
-  
+</section>
+
+<section>
 
 A štěstí bylo přec tak snadné  
 a blízké tak…! Můj osud však  
@@ -975,7 +1081,9 @@ a já ho nikdy nezradím.“
 
 ### XLVIII
 
-  
+</section>
+
+<section>
 
 Odešla. Evžen hledí za ní,  
 jakoby bleskem zasažen.  
@@ -994,7 +1102,9 @@ už skončiti! Vám nezdá se?
 
 ### XLIX
 
-  
+</section>
+
+<section>
 
 Suď to či ono o knize mé,  
 můj čtenáři, buď kdokoli,  
@@ -1013,7 +1123,9 @@ A prozatím ti sbohem dám!
 
 ### L
 
-  
+</section>
+
+<section>
 
 I tobě, věrný ideále,  
 i tobě, divný druhu z cest,  
@@ -1032,7 +1144,9 @@ krystalu ještě v srdci mém.
 
 ### LI
 
-  
+</section>
+
+<section>
 
 Však ti, kteří mě milovali,  
 jimž první sloky četl jsem…  
@@ -1048,3 +1162,5 @@ svůj plný pohár vína dřív,
 nedočet román jeho blahý  
 a rázem rozloučil se s ním  
 jak autor s Oněginem svým.
+
+</section>

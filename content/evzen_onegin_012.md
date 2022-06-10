@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### I
 
-  
+</section>
+
+<section>
 
 „Kam? Tihle básníci jsou pěkní!“  
 — Buď zdráv, Evžene, pospíchám. —  
@@ -24,7 +28,9 @@ o dešti, lnu a o kravách…“
 
 ### II
 
-  
+</section>
+
+<section>
 
 — V tom přece není pranic zlého. —  
 „Jen nuda, hochu, přisámbůh.“  
@@ -43,7 +49,9 @@ Ochotně jistě přijmou nás. —
 
 ### III
 
-  
+</section>
+
+<section>
 
 „Tož jeďme.“ — Jeli, ujížděli,  
 přijeli, hosti rozmilí.  
@@ -62,7 +70,9 @@ je na stůl stále podáván.
 
 ### IV
 
-  
+</section>
+
+<section>
 
 Nejkratší cestou jedou domů  
 pak oba v pozdní hodinu.  
@@ -81,7 +91,9 @@ Brr, tahle šťáva z brusinek!
 
 ### V
 
-  
+</section>
+
+<section>
 
 Slyš! Taťána, která to byla?“  
 — Ta mlčenlivá, zastesklá  
@@ -100,7 +112,9 @@ a vůbec nemluvil už dál.
 
 ### VI
 
-  
+</section>
+
+<section>
 
 A zatím příchod Oněgina  
 k Lariným vzbudil velký vzruch.  
@@ -119,7 +133,9 @@ už dávno svázal lidu hlas.
 
 ### VII
 
-  
+</section>
+
+<section>
 
 Taťána hněvala se sice  
 na tyhle klepy. Tajně však  
@@ -138,7 +154,9 @@ se vetřel obraz. Čí? Bůh suď.
 
 ### VIII
 
-  
+</section>
+
+<section>
 
 A dočkala se. Procitlýma  
 očima ví: toť on, toť on!  
@@ -157,7 +175,9 @@ přítomnost jejich zdlouhavou.
 
 ### IX
 
-  
+</section>
+
+<section>
 
 A s jakým zájmem, s jakou chutí  
 teď rozkošné čte romány!  
@@ -176,7 +196,9 @@ vždy byl to Evžen Oněgin.
 
 ### X
 
-  
+</section>
+
+<section>
 
 S románem v ruce, zcela vžila  
 se ve své vzory Taťána.  
@@ -195,7 +217,9 @@ dojista nebyl Grandisson.
 
 ### XI
 
-  
+</section>
+
+<section>
 
 Sloh drže v ladném, vážném stínu,  
 ohnivý tvůrce kdysi dbal,  
@@ -214,7 +238,9 @@ a dobro odměněno jest.
 
 ### XII
 
-  
+</section>
+
+<section>
 
 Však my jak v mlze jsme teď, běda,  
 morálka nudí bez mezí,  
@@ -233,7 +259,9 @@ i na zoufalém sobectví.
 
 ### XIII
 
-  
+</section>
+
+<section>
 
 Přátelé, jaký smysl má to?  
 Snad z vůle nebes přestanu  
@@ -252,7 +280,9 @@ a mravy zbylé po dědech.
 
 ### XIV
 
-  
+</section>
+
+<section>
 
 O prostých řečech otce, děda  
 vám povím, ale nejvíce  
@@ -271,7 +301,9 @@ jimž odvykl jsem od těch let!
 
 ### XV
 
-  
+</section>
+
+<section>
 
 Já s pláčem přihlížím tvé muce,  
 Taťáno, Táňo rozmilá!  
@@ -290,7 +322,9 @@ stín osudného svůdce zříš.
 
 ### XVI
 
-  
+</section>
+
+<section>
 
 Taťána, běda, nemá stání,  
 rozsévá pod stromy svůj žal.  
@@ -309,7 +343,9 @@ Taťána volá chůvu svou.
 
 ### XVII
 
-  
+</section>
+
+<section>
 
 „Nemohu, ňáňo, spát v tom dusnu.  
 Otevři okno. A pojď blíž.“  
@@ -328,7 +364,9 @@ mi o své první lásce říc…“
 
 ### XVIII
 
-  
+</section>
+
+<section>
 
 — Máš rozum, Táňo? My v ty časy  
 přec neslýchaly o lásce.  
@@ -347,7 +385,9 @@ Tak vdávaly se za mých dob.
 
 ### XIX
 
-  
+</section>
+
+<section>
 
 Pak mezi cizí odvedli mě…  
 Ty ale neposloucháš již. —  
@@ -366,7 +406,9 @@ křižuje Táňu po čele.
 
 ### XX
 
-  
+</section>
+
+<section>
 
 „Jsem zamilována,“ zas hlásí  
 své chůvě hořce Taťána.  
@@ -385,7 +427,9 @@ vzdychaly obě ženy tu.
 
 ### XXI
 
-  
+</section>
+
+<section>
 
 Sen Taťánina srdce zapad  
 v daleký, modrý luny svit.  
@@ -404,7 +448,9 @@ Taťáno, kdo je dostane?
 
 ### XXII
 
-  
+</section>
+
+<section>
 
 Znával jsem nedostupné krásky,  
 studené, čisté jako led.  
@@ -423,7 +469,9 @@ podobné dámy nalezneš.
 
 ### XXIII
 
-  
+</section>
+
+<section>
 
 Já v kruhu dvorných nápadníků  
 i jiné rozmarnice znal,  
@@ -442,7 +490,9 @@ hnal za marnou svou vidinou.
 
 ### XXIV
 
-  
+</section>
+
+<section>
 
 Oč větší Taťánina vina?  
 O to, že v milé prostotě,  
@@ -461,7 +511,9 @@ by nedovedl odpouštět?
 
 ### XXV
 
-  
+</section>
+
+<section>
 
 Koketa ano řekne stěží,  
 neb chladnou radost ze hry má.  
@@ -480,7 +532,9 @@ se vždycky strhat okovy.
 
 ### XXVI
 
-  
+</section>
+
+<section>
 
 Teď tíží mě však úkol jiný:  
 bych uctil vlastenecký cit,  
@@ -499,7 +553,9 @@ poštovní próze unikla.
 
 ### XXVII
 
-  
+</section>
+
+<section>
 
 Vím: chtěli dámy donutiti  
 číst rusky. Klobouk na stranu!  
@@ -518,7 +574,9 @@ se jako rodnou bavily.
 
 ### XXVIII
 
-  
+</section>
+
+<section>
 
 Dej Bůh, bych nepotkal kdy v bále  
 — mne strach již předem zalyká —  
@@ -537,7 +595,9 @@ vše zůstane zas při starém.
 
 ### XXIX
 
-  
+</section>
+
+<section>
 
 Nedbalost v chybujícím slovu,  
 zlý přízvuk, jímž řeč šidíme,  
@@ -556,7 +616,9 @@ už do zapomenutí kles.
 
 ### XXX
 
-  
+</section>
+
+<section>
 
 Básníku Hostin, temných smutků,  
 kdybys tu se mnou ještě byl,  
@@ -575,7 +637,9 @@ hlas bolesti mé nejtišší.
 
 ### XXXI
 
-  
+</section>
+
+<section>
 
 Zde leží Taťánino psaní.  
 Jen plaše beru v dlaň ten list  
@@ -594,7 +658,9 @@ zahraná hudba z Webera.
 
 TAŤÁNIN DOPIS ONĚGINOVI
 
-  
+</section>
+
+<section>
 
 „Já píši vám — co mohu více?  
 Co ještě mohu dodati?  
@@ -618,7 +684,9 @@ Však řekli, že jste samotář.
 A my… z nás věru nejde zář,  
 třebaže ze srdce vás ctíme.
 
-  
+</section>
+
+<section>
 
 Proč jenom, proč jste přišel k nám?  
 Já v žalu opuštěné vsi té  
@@ -630,7 +698,9 @@ bych zadala se mužovi
 a byla mu i věrnou ženou  
 i ctnostnou matkou usmířenou.
 
-  
+</section>
+
+<section>
 
 Jiného…? Ne již. V světě ráda  
 nikoho nemohu mít já.  
@@ -678,7 +748,9 @@ Buď lásku najevo mi dej,
 či těžké sny mé zpřetrhej,  
 ať stihne mě trest zasloužený!
 
-  
+</section>
+
+<section>
 
 I končím! Hrůzno mi číst psaní…  
 Já studem, strachy umírám…  
@@ -687,7 +759,9 @@ a směle svěřuji se vám…“
 
 ### XXXII
 
-  
+</section>
+
+<section>
 
 Taťána vzdychá z teskné duše.  
 List v prstech se jí zachvívá.  
@@ -706,7 +780,9 @@ Však s Taťánou je dneska kříž.
 
 ### XXXIII
 
-  
+</section>
+
+<section>
 
 S opřenou hlavou neviděla,  
 že přichází den chvílí tou.  
@@ -725,7 +801,9 @@ Máš dneska tvář jak z máku květ. —
 
 ### XXXIV
 
-  
+</section>
+
+<section>
 
 „Ach ňáňo, byla bys tak hodná…  
 nemysli, že to… zlé je snad…“  
@@ -744,7 +822,9 @@ sečíst je sotva dovedu. —
 
 ### XXXV
 
-  
+</section>
+
+<section>
 
 „Jak nechápavá jsi dnes, ňáňo!“  
 — To starobou je, dítě mé.  
@@ -763,7 +843,9 @@ Jen ať hoch letí s dopisem.“
 
 ### XXXVI
 
-  
+</section>
+
+<section>
 
 Den uplynul a druhý je tu.  
 Taťána, bledá jako list,  
@@ -782,7 +864,9 @@ jako by výtku slyšela.
 
 ### XXXVII
 
-  
+</section>
+
+<section>
 
 Šel soumrak. Na prostřeném stole  
 už kypěl lesklý samovar.  
@@ -801,7 +885,9 @@ monogram lásky O a E.
 
 ### XXXVIII
 
-  
+</section>
+
+<section>
 
 A duše se jí tetelila  
 v slzách, jež zrak jí zastřely.  
@@ -820,7 +906,9 @@ na zarosenou lavici
 
 ### XXXIX
 
-  
+</section>
+
+<section>
 
 dopadla… „Evžen! Evžen je tu!  
 Můj Bože, co si myslí jen?“  
@@ -839,7 +927,9 @@ Toť šlechta vynalézavá!)
 
 PÍSEŇ DĚVČAT
 
-  
+</section>
+
+<section>
 
 Dívčice, panenky,  
 dušinky rozmilé,  
@@ -850,7 +940,9 @@ písničky šalebné,
 přivabte mládence  
 do kola našeho.
 
-  
+</section>
+
+<section>
 
 A když ho zvábíme,  
 z dálky ho poznáme,  
@@ -864,7 +956,9 @@ na dívčí zábavy.
 
 ### XL
 
-  
+</section>
+
+<section>
 
 Tak zpívaly a Táňa hluše  
 vnímala jásot písně v mhách.  
@@ -883,7 +977,9 @@ z křoviny namířenou naň.
 
 ### XLI
 
-  
+</section>
+
+<section>
 
 Nakonec, plna beznaděje,  
 se odhodlala jíti dál.  
@@ -899,3 +995,5 @@ tu schůzku, a co přišlo pak.
 Nechť po dlouhém svém vyprávění  
 si trochu odpočinout smím.  
 A pak už nějak dokončím.
+
+</section>

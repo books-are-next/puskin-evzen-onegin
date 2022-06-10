@@ -3,11 +3,15 @@ title: VYNECHANÉ SLOKY
 contentType: prose
 ---
 
+<section>
+
 ### Z HLAVY PRVNÍ
 
 ### IX
 
-  
+</section>
+
+<section>
 
 Žár srdce záhy tak nás mučí,  
 jak Chateaubriand kdesi řek.  
@@ -28,7 +32,9 @@ Z HLAVY DRUHÉ
 
 ### Konec sloky VIII
 
-  
+</section>
+
+<section>
 
 že věčný rod jich ustele  
 nám v slávě světel, jejichž chvění  
@@ -39,7 +45,9 @@ Z HLAVY TŘETÍ
 
 ### Konec sloky III
 
-  
+</section>
+
+<section>
 
 Od dávna se tak bavívali.  
 Děvečky stojí u dveří,  
@@ -52,7 +60,9 @@ Z HLAVY ČTVRTÉ
 
 ### I
 
-  
+</section>
+
+<section>
 
 Na prahu života mnou vládlo  
 lstné, krásné slabé pohlaví.  
@@ -71,7 +81,9 @@ o jiném neuměl jsem snít.
 
 ### II
 
-  
+</section>
+
+<section>
 
 Pak zase jsem ji nenáviděl  
 a třásl se a slzy lil,  
@@ -90,7 +102,9 @@ by za chvíli už žil a plál.
 
 ### III
 
-  
+</section>
+
+<section>
 
 Prorockým slovem lyry dávné  
 nechť promluvit smím, příteli.  
@@ -109,7 +123,9 @@ v svém prázdnu němotou a tmou.
 
 ### IV
 
-  
+</section>
+
+<section>
 
 Už dávno vím, že dámy samy,  
 tajemství nemohouce skrýt,  
@@ -128,7 +144,9 @@ hlubokou vášeň, lidský vděk.
 
 ### XXXVI
 
-  
+</section>
+
+<section>
 
 Jsou daleko už, v mhu se tratí…  
 A střelec, křižující pláň,  
@@ -147,14 +165,18 @@ A všade zla a dobra směs.
 
 ### Konec sloky XXXVII
 
-  
+</section>
+
+<section>
 
 … Jeho kroj  
 by budil snad váš nepokoj.
 
 ### XXXVIII
 
-  
+</section>
+
+<section>
 
 Chodíval vždycky v ruské blůze,  
 hedvábný šál měl jako pás,  
@@ -175,7 +197,9 @@ Z HLAVY PÁTÉ
 
 ### XXXVII
 
-  
+</section>
+
+<section>
 
 In puncto hostin, pěvče Troje,  
 i s Olympem se hodlám přít.  
@@ -194,7 +218,9 @@ než tvoje zhoubná Helena.
 
 ### XXXVIII
 
-  
+</section>
+
+<section>
 
 Kdo chtěl by pochybovat dále,  
 byť pro Helenu po sto let  
@@ -213,7 +239,9 @@ Ba mohu na něj přísahat.
 
 ### XLIII
 
-  
+</section>
+
+<section>
 
 A dívky jako po manéži,  
 kde hrdé klisny vede bič,  
@@ -234,7 +262,9 @@ Z HLAVY ŠESTÉ
 
 ### XV
 
-  
+</section>
+
+<section>
 
 Žárlivost, já vždy dobře chápal,  
 je stejná nemoc jako mor,  
@@ -253,7 +283,9 @@ i srdce kata z kamene.
 
 ### XVI
 
-  
+</section>
+
+<section>
 
 Z mých úst se hana nevydere,  
 neb nechci rušit hrobu klid;  
@@ -272,7 +304,9 @@ Mučivý stíne, klidně spi!
 
 ### XXXVIII
 
-  
+</section>
+
+<section>
 
 Anebo, až by rezí žravou  
 mu zničil život hořký jed,  
@@ -291,7 +325,9 @@ na triumfy své pohleděv,
 
 ### XLVII
 
-  
+</section>
+
+<section>
 
 V hemžení lstivých, malodušných,  
 zhýčkaných, prázdných synáčků,  
@@ -312,7 +348,9 @@ Z HLAVY SEDMÉ
 
 ### VIII
 
-  
+</section>
+
+<section>
 
 Však přece jednou za soumraku  
 z těch děvčat jedna přišla sem  
@@ -331,7 +369,9 @@ zazvonil před ní ostruhou.
 
 ### IX
 
-  
+</section>
+
+<section>
 
 A dívka na vojína vzhlédla:  
 tvář jeho zlostí hořela —  
@@ -344,7 +384,9 @@ ji z hor sem přijít neuzříš.
 
 ### XXXIX
 
-  
+</section>
+
+<section>
 
 Ó Moskvo! Moskvo! — — —  
 — — —
@@ -353,7 +395,9 @@ Z HLAVY OSMÉ
 
 ### Konec sloky II
 
-  
+</section>
+
+<section>
 
 I Dmitrev byl náš vlídný přítel;  
 tradice ruské věrný ctitel,  
@@ -365,3 +409,5 @@ idole srdce ženského,
 i ty z horoucí sympatie,  
 i tys mi ruku podával  
 a k čisté slávě jsi mě zval!
+
+</section>

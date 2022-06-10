@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### I
 
-  
+</section>
+
+<section>
 
 Když všiml si, že Lenskij zmizel,  
 Oněgin, opět znuděný,  
@@ -24,7 +28,9 @@ za pozdní noci domů spát.
 
 ### II
 
-  
+</section>
+
+<section>
 
 Vše zklidnilo se. Ze salónu  
 v snách chrápe těžký Pusťakov  
@@ -43,7 +49,9 @@ do polí v teskném úžase.
 
 ### III
 
-  
+</section>
+
+<section>
 
 To jeho vstup, v nějž nedoufala,  
 to v jeho očích něhy kmit,  
@@ -62,7 +70,9 @@ Vždyť štěstí mi dát nemůže.“
 
 ### IV
 
-  
+</section>
+
+<section>
 
 Však dál jen, dál! Mých postav sbory  
 se rozmnožiti hotoví.  
@@ -81,7 +91,9 @@ Tak vrací se svět k dobru přec!
 
 ### V
 
-  
+</section>
+
+<section>
 
 Dřív za statečnost bývala mu  
 vzdávána úcta bezhlesá.  
@@ -100,7 +112,9 @@ tři láhve na dluh den co den.
 
 ### VI
 
-  
+</section>
+
+<section>
 
 A jindy zase pro zábavu  
 si žerty tropil z hlupáků,  
@@ -119,7 +133,9 @@ a na kord, pistole je hnát,
 
 ### VII
 
-  
+</section>
+
+<section>
 
 neb také ke smíru je dovést  
 a na večeři s nimi jít  
@@ -138,7 +154,9 @@ a děti učí azbuce.
 
 ### VIII
 
-  
+</section>
+
+<section>
 
 Nebyl to hlupák. Jeho citů  
 si Evžen sotva vážil snad,  
@@ -157,7 +175,9 @@ a pro sebe jej začal číst.
 
 ### IX
 
-  
+</section>
+
+<section>
 
 A hle, byla to výzva, pádně  
 mu vypovídající boj.  
@@ -176,7 +196,9 @@ sám na sebe měl náhle zlost.
 
 ### X
 
-  
+</section>
+
+<section>
 
 A právem. Když tak meditoval,  
 sám musel přiznat v úděsu,  
@@ -195,7 +217,9 @@ jednat — a ne jak vzteklý hoch.
 
 ### XI
 
-  
+</section>
+
+<section>
 
 Vždyť mohl upřímně vše říci  
 a nezuřiti jako zvěř.  
@@ -214,7 +238,9 @@ Hle, na čem svět náš spočíná!
 
 ### XII
 
-  
+</section>
+
+<section>
 
 Neschopen hněvem sebevlády,  
 poeta čeká odpověď.  
@@ -233,7 +259,9 @@ a druh po druhu k rameni
 
 ### XIII
 
-  
+</section>
+
+<section>
 
 Svou koketu vždy nenávidět  
 se rozhodnul, a nechtěje  
@@ -252,7 +280,9 @@ a proč by býti neměla?
 
 ### XIV
 
-  
+</section>
+
+<section>
 
 „Proč jste tak brzo odjel včera?“  
 tak znenadání ptala se.  
@@ -271,7 +301,9 @@ je šťasten a je téměř zdráv.
 
 ### XVI
 
-  
+</section>
+
+<section>
 
 A Lenskij, do melancholie  
 zas ponořiv se, neměl sil  
@@ -290,7 +322,9 @@ Je čas, že stříleti se jdem.
 
 ### XVIII
 
-  
+</section>
+
+<section>
 
 Kdyby byl věděl, jaká rána  
 v Tánině srdci hořela!  
@@ -309,7 +343,9 @@ však její bystrozrak už zvad.
 
 ### XIX
 
-  
+</section>
+
+<section>
 
 Lenskij byl večer roztržitý.  
 Hned zmlklý, veselý byl zas.  
@@ -328,7 +364,9 @@ Hleděla naň. Tak smutný byl.
 
 ### XX
 
-  
+</section>
+
+<section>
 
 Když vrátil se, vzhléd na pistole  
 a zase do pouzdra je dal,  
@@ -347,7 +385,9 @@ jak D(ělvig), když se opije.
 
 ### XXI
 
-  
+</section>
+
+<section>
 
 Nuž, přečtěme si tyto rýmy,  
 jež do dneška si chráníme:  
@@ -366,7 +406,9 @@ i příchod tmy buď požehnán!
 
 ### XXII
 
-  
+</section>
+
+<section>
 
 Až zítra Jitřenky svit nový  
 den rozehraje nade mnou,  
@@ -385,7 +427,9 @@ Má milá, srdce v srdci mém,
 
 ### XXIII
 
-  
+</section>
+
+<section>
 
 Psal takto dlouho, _temně, matně_  
 (což romantismem rádi zvem,  
@@ -404,7 +448,9 @@ Oněgin jistě čeká nás.“
 
 ### XXIV
 
-  
+</section>
+
+<section>
 
 Jak mýlil se však! V oné chvíli  
 spal ještě Evžen mrtvým snem.  
@@ -423,7 +469,9 @@ a rychle vyjeti již z vrat.
 
 ### XXV
 
-  
+</section>
+
+<section>
 
 Guillot, francouzský sluha, číhá  
 na zvonek pánův. Hned tu byl,  
@@ -442,7 +490,9 @@ zajeti k dvěma doubkům dál.
 
 ### XXVI
 
-  
+</section>
+
+<section>
 
 U hráze Lenskij, přesný vždycky,  
 už dávno nedočkavě stál.  
@@ -461,7 +511,9 @@ a dlužno mu to pochválit.
 
 ### XXVII
 
-  
+</section>
+
+<section>
 
 „Můj svědek?“ řekl Evžen klidně,  
 „monsieur Guillot zde, je to sám.  
@@ -480,7 +532,9 @@ Sokové oči sklopili.
 
 ### XXVIII
 
-  
+</section>
+
+<section>
 
 Sokové! Jak je dávno tomu,  
 co rozvedl je krve var?  
@@ -499,7 +553,9 @@ nakapal jedu lichý stud.
 
 ### XXIX
 
-  
+</section>
+
+<section>
 
 Hle, pistole již blyští v dlani.  
 Nabiják do hlavně se smek.  
@@ -518,7 +574,9 @@ a každý vzal svou pistoli.
 
 ### XXX
 
-  
+</section>
+
+<section>
 
 „A nyní jděte!“ S chladnou krví,  
 s pistolí k zemi, k soku sok  
@@ -537,7 +595,9 @@ upustil básník pistoli,
 
 ### XXXI
 
-  
+</section>
+
+<section>
 
 tichounce klade na hruď ruku  
 a padá. Zacloněný zrak  
@@ -556,7 +616,9 @@ a na oltáři oheň zhas.
 
 ### XXXII
 
-  
+</section>
+
+<section>
 
 Na hlavu, v sněhu položenou,  
 smrt podivný mír vložila.  
@@ -575,7 +637,9 @@ I stín je pryč. Kde, ví Bůh sám.
 
 ### XXXIII
 
-  
+</section>
+
+<section>
 
 Je milé zběsnit nepřítele  
 odvážným epigramem svým,  
@@ -594,7 +658,9 @@ když smrtelnou mu ránu dal?
 
 ### XXXIV
 
-  
+</section>
+
+<section>
 
 Když dobře namířenou ranou  
 mladého skláte přítele,  
@@ -613,7 +679,9 @@ mu ústa němá zůstala?
 
 ### XXXV
 
-  
+</section>
+
+<section>
 
 Hlod výčitky v tmách srdce jeho  
 se třásl jak dlaň s pistolí.  
@@ -632,7 +700,9 @@ jež vezla oběť v mrtvý dům.
 
 ### XXXVI
 
-  
+</section>
+
+<section>
 
 Líto nám, líto básníka je:  
 spí, květ, jejž zabil času vztek,  
@@ -651,7 +721,9 @@ vy, svaté poezie sny?
 
 ### XXXVII
 
-  
+</section>
+
+<section>
 
 Snad narodil se světu k štěstí,  
 laur slávy urval mu snad skon.  
@@ -670,13 +742,17 @@ dík plemen nebude jí znět.
 
 ### XXXVIII
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### XXXIX
 
-  
+</section>
+
+<section>
 
 Je možno též, že pro poetu  
 měl život pouze šeď a kal.  
@@ -695,7 +771,9 @@ felčarů a bab plačících.
 
 ### XL
 
-  
+</section>
+
+<section>
 
 Ať tak či tak, my ještě živi,  
 a básník, krví zalitý,  
@@ -714,7 +792,9 @@ teď stojí prostý pomníček.
 
 ### XLI
 
-  
+</section>
+
+<section>
 
 Když jarní déšť pad na obilí,  
 zpěv o povolžských rybářích  
@@ -733,7 +813,9 @@ Nad vodou pomník stojí tu.
 
 ### XLII
 
-  
+</section>
+
+<section>
 
 Zasněna, pomalu se vrací  
 na koni cestou necestou.  
@@ -752,7 +834,9 @@ vám jejich osud vylíčím.
 
 ### XLIII
 
-  
+</section>
+
+<section>
 
 Ne teď. Však brzo zas se vrátím,  
 vždyť svého hrdinu mám rád.  
@@ -771,7 +855,9 @@ jdou neklid v sen mé duše sít.
 
 ### XLIV
 
-  
+</section>
+
+<section>
 
 Mou duší nové touhy plují  
 a víří nové rozbroje;  
@@ -790,7 +876,9 @@ Není mi málem třicet let?
 
 ### XLV
 
-  
+</section>
+
+<section>
 
 Mé poledne je tu. Co zbývá,  
 než pozdravit je očima?  
@@ -809,7 +897,9 @@ od minula si oddechnout.
 
 ### XLVI
 
-  
+</section>
+
+<section>
 
 Jen pohled zpět. A sbohem, loubí,  
 v nichž dni mé v prázdni plynuly,  
@@ -828,6 +918,10 @@ se nafouklá skví ropucha…
 
 ### XLVII
 
-  
+</section>
+
+<section>
 
 — — —
+
+</section>

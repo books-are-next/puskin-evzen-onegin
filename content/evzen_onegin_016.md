@@ -3,9 +3,13 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ### I
 
-  
+</section>
+
+<section>
 
 Onoho roku prodloužila  
 se pohoda až přes podzim.  
@@ -24,7 +28,9 @@ Konečně zima, zima zas.
 
 ### II
 
-  
+</section>
+
+<section>
 
 I sedlák ožil. Bez meškání  
 se chystá k cestě sanicí.  
@@ -43,7 +49,9 @@ a matka hrozí mu již z vrat.
 
 ### III
 
-  
+</section>
+
+<section>
 
 Nu, tenhle zimní obraz kraje  
 vám připadá snad naivní:  
@@ -62,7 +70,9 @@ jenž finské děvče opěváš.
 
 ### IV
 
-  
+</section>
+
+<section>
 
 Taťána (sama netušila,  
 jak ruská její duše je)  
@@ -81,7 +91,9 @@ A k němu válku, to se ví.
 
 ### V
 
-  
+</section>
+
+<section>
 
 Taťána věřila v ty zkazky,  
 jež po svých dědech dědil lid.  
@@ -100,7 +112,9 @@ od leva svítě pod nohy,
 
 ### VI
 
-  
+</section>
+
+<section>
 
 třásla se, všechny barvy hrajíc.  
 Když nebem hvězda letěla,  
@@ -119,7 +133,9 @@ je vždycky v černé předtuše.
 
 ### VII
 
-  
+</section>
+
+<section>
 
 Však právě tato hrůza chladná  
 ji tajnou krásou vábila.  
@@ -138,7 +154,9 @@ dál dětským šeptem klame je.
 
 ### VIII
 
-  
+</section>
+
+<section>
 
 Taťána zvědavě se dívá,  
  jak vosk jí padá do vody.  
@@ -157,7 +175,9 @@ A dívky chtí spíš _Kočičky_.
 
 ### IX
 
-  
+</section>
+
+<section>
 
 Tak harmonicky k svému srázu  
 uplývá nebem, plným chmur,  
@@ -176,7 +196,9 @@ jí odpovídá: Agafon.
 
 ### X
 
-  
+</section>
+
+<section>
 
 A pak jí ňáňa poradila:  
 Snad budoucnost se zjeví ti,  
@@ -195,7 +217,9 @@ Je ticho. Taťáno má, spíš?
 
 ### XI
 
-  
+</section>
+
+<section>
 
 Jen sklížily se oči Táni,  
 hned v podivný sen upadla.  
@@ -214,7 +238,9 @@ se zastavila Taťána.
 
 ### XII
 
-  
+</section>
+
+<section>
 
 I hledí, hledí vyčítavě  
 na potok, jenž jí překáží.  
@@ -233,7 +259,9 @@ se cestou za ní kolébal.
 
 ### XIII
 
-  
+</section>
+
+<section>
 
 Dál, bez odvahy vzhlédnout k němu,  
 pospíchá Táňa ze všech sil;  
@@ -252,7 +280,9 @@ sníh bílou plachtou zasypal.
 
 ### XIV
 
-  
+</section>
+
+<section>
 
 I míří k lesu. Medvěd za ní.  
 Sníh po kolena sahá jí.  
@@ -271,7 +301,9 @@ A medvěd jak by si s ní hrál.
 
 ### XV
 
-  
+</section>
+
+<section>
 
 Upadla v sněhu. Medvěd hbitě  
 ji popadl, pryč pospíchá.  
@@ -290,7 +322,9 @@ kde položil ji na práh hned.
 
 ### XVI
 
-  
+</section>
+
+<section>
 
 Když znovu oči otevřela,  
 byl medvěd pryč, jen strop ji střeh.  
@@ -309,7 +343,9 @@ půl jeřáb a půl kocoura.
 
 ### XVII
 
-  
+</section>
+
+<section>
 
 A ještě strašnější jdou svatí:  
 tu rak s pavoukem křepčící,  
@@ -328,7 +364,9 @@ sem tam zrak tajně k dveřím zved.
 
 ### XVIII
 
-  
+</section>
+
+<section>
 
 Dá znamení — vše víří zase,  
 zved sklenici — a každý pil.  
@@ -347,7 +385,9 @@ a za ním zástup strašidel.
 
 ### XIX
 
-  
+</section>
+
+<section>
 
 Děs chápal se jí; jak by chtěla  
 pryč běžet, běžet ze všech sil!  
@@ -366,7 +406,9 @@ a sápe se k ní: Má je, má!
 
 ### XX
 
-  
+</section>
+
+<section>
 
 Je má! vzkřik Evžen na svou chasu,  
 jež ihned zmizela jak dým.  
@@ -385,7 +427,9 @@ nezvaným hostům klne v tmách.
 
 ### XXI
 
-  
+</section>
+
+<section>
 
 Spor rozběsnil se. Náhle chytí  
 Oněgin dlouhý nůž, jen mžik —  
@@ -404,7 +448,9 @@ Zjevil se ti? A kdo to je?
 
 ### XXII
 
-  
+</section>
+
+<section>
 
 Však ta, sestry si nevšímajíc,  
 dál leží s knihou v posteli,  
@@ -423,7 +469,9 @@ Byl věštec a snů vykladač.
 
 ### XXIII
 
-  
+</section>
+
+<section>
 
 Ten moudrý spis muž kočující  
 přivezl jednou na statek  
@@ -442,7 +490,9 @@ a pod hlavou jí věrně spal?
 
 ### XXIV
 
-  
+</section>
+
+<section>
 
 Zlý sen jí z hlavy nevychází.  
 Chce věděti, co znamená  
@@ -461,7 +511,9 @@ má denně větší trápení.
 
 ### XXV
 
-  
+</section>
+
+<section>
 
 A hle: svou zrůžovělou paží  
 Jitřenka odňala již tmám  
@@ -480,7 +532,9 @@ křik dětí, starost s kojnými.
 
 ### XXVI
 
-  
+</section>
+
+<section>
 
 Hle, vchází, vedle ženy záře,  
 pan Pusťakov. Jak chudák ztloust!  
@@ -499,7 +553,9 @@ a úplatkář je tento pán.
 
 ### XXVII
 
-  
+</section>
+
+<section>
 
 S Charlikovem a jeho paní  
 monsieur Triquet zde po ruce.  
@@ -518,7 +574,9 @@ vybásnil _belle Tatiana._
 
 ### XXVIII
 
-  
+</section>
+
+<section>
 
 A zas je vzhůru celý statek.  
 To starších slečen ideál  
@@ -537,7 +595,9 @@ a celý mumraj sedí již.
 
 ### XXIX
 
-  
+</section>
+
+<section>
 
 Teď nad stolem si pokoj dali.  
 Vše žvýká. Ticho chvilenku.  
@@ -556,7 +616,9 @@ je posazují ke stolu.
 
 ### XXX
 
-  
+</section>
+
+<section>
 
 Dali jim místo proti Táni.  
 Bledší než luna po ránu,  
@@ -575,7 +637,9 @@ Ač zmatena, dál posedí.
 
 ### XXXI
 
-  
+</section>
+
+<section>
 
 Už dávno Evžen snášet nemoh  
 těch dívčích nervóz, slz a mdlob.  
@@ -594,7 +658,9 @@ v duchu směs hostí ubohou.
 
 ### XXXII
 
-  
+</section>
+
+<section>
 
 Oněgin nebyl sám, jenž zmatek  
 Taťánin postřehnouti moh.  
@@ -613,7 +679,9 @@ jíž opájel jsem se, vždyť víš!
 
 ### XXXIII
 
-  
+</section>
+
+<section>
 
 Bouchají zátky. Víno šumí  
 svobodně z hrdla tlustým sklem.  
@@ -632,7 +700,9 @@ A obdařil ji kupletem.
 
 ### XXXIV
 
-  
+</section>
+
+<section>
 
 A v proudu zdravic, blahopřání  
 Taťána děkovat jde všem.  
@@ -651,7 +721,9 @@ jí přec jen srdce oživil.
 
 ### XXXV
 
-  
+</section>
+
+<section>
 
 Hřmot židlí. Hosté opouštěli  
 pro teplý salon štědrý stůl.  
@@ -670,7 +742,9 @@ je jedna jako druhá hra.
 
 ### XXXVI
 
-  
+</section>
+
+<section>
 
 Už osmý rubber whistu hráli  
 ti pilní borci; osmkrát  
@@ -689,13 +763,17 @@ slavný už tři tisíce let.
 
 ### XXXVII–XXXVIII
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### XXXIX
 
-  
+</section>
+
+<section>
 
 Sotva se dívky k čaji slétnou  
 a šálky k ústům donesou,  
@@ -714,7 +792,9 @@ kde tančí v mladém zápalu.
 
 ### XL
 
-  
+</section>
+
+<section>
 
 Z kraje mé knihy hravá slova  
 (vrať se k nim, čtenáři můj, dnes!)  
@@ -733,7 +813,9 @@ očistit od zbytečných plev.
 
 ### XLI
 
-  
+</section>
+
+<section>
 
 Tak bláznivý, tak jednotvárný,  
 jak vítr našich mladých jar,  
@@ -752,7 +834,9 @@ nevěřil vlastním očím svým.
 
 ### XLII
 
-  
+</section>
+
+<section>
 
 Teď k mazurce se všecko mělo.  
 Byl čas, kdy v bujném rytmu tom  
@@ -771,13 +855,17 @@ v níž nová Rus je zajata.
 
 ### XLIII
 
-  
+</section>
+
+<section>
 
 — — —
 
 ### XLIV
 
-  
+</section>
+
+<section>
 
 Bujanov, bratranec můj čilý,  
 Taťánu s Olgou sálem ved  
@@ -796,7 +884,9 @@ ji na kotilion zvát se zved.
 
 ### XLV
 
-  
+</section>
+
+<section>
 
 A nepochodil. Zamluvili  
 se zase k tanci s Evženem.  
@@ -812,3 +902,5 @@ hned koně dal si předvésti
 a jel. Pár pistolí — a stačí.  
 Pár pistolí a kule jen  
 a osud bude rozřešen.
+
+</section>
