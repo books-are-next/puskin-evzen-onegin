@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-afff258';
+const CACHE = 'cache-b02cc25';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./evzen_onegin_005.html","./evzen_onegin_006.html","./evzen_onegin_007.html","./evzen_onegin_008.html","./evzen_onegin_009.html","./evzen_onegin_010.html","./evzen_onegin_011.html","./evzen_onegin_012.html","./evzen_onegin_013.html","./evzen_onegin_014.html","./evzen_onegin_015.html","./evzen_onegin_016.html","./evzen_onegin_017.html","./evzen_onegin_018.html","./evzen_onegin_019.html","./evzen_onegin_020.html","./evzen_onegin_021.html","./evzen_onegin_022.html","./evzen_onegin_023.html","./evzen_onegin_024.html","./evzen_onegin_025.html","./evzen_onegin_026.html","./evzen_onegin_027.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./evzen_onegin_005.html","./evzen_onegin_006.html","./evzen_onegin_007.html","./evzen_onegin_008.html","./evzen_onegin_009.html","./evzen_onegin_010.html","./evzen_onegin_011.html","./evzen_onegin_012.html","./evzen_onegin_013.html","./evzen_onegin_014.html","./evzen_onegin_015.html","./evzen_onegin_016.html","./evzen_onegin_017.html","./evzen_onegin_018.html","./evzen_onegin_019.html","./evzen_onegin_020.html","./evzen_onegin_021.html","./evzen_onegin_022.html","./evzen_onegin_023.html","./evzen_onegin_024.html","./evzen_onegin_025.html","./evzen_onegin_027.html","./evzen_onegin_026.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
