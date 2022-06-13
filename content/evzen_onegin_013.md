@@ -9,7 +9,7 @@ contentType: prose
 
 — NECKER
 
-                    ___Mravnost je věcem vrozená.___
+            ___Mravnost je věcem vrozená.___
 
 — NECKER
 
