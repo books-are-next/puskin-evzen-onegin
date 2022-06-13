@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "puskin-evzen-onegin-b02cc25",
-  "revision": "b02cc25",
+  "identifier": "puskin-evzen-onegin-3e49483",
+  "revision": "3e49483",
   "readingOrder": [
     "promo.html",
     "evzen_onegin_005.html",
@@ -37,8 +37,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:10:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949410342
+    "date": "Mon Jun 13 2022 21:57:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157455623
   },
   "documents": [
     {
@@ -516,9 +516,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 45,
-      "chars": 338,
-      "ideas": 5,
+      "words": 113,
+      "chars": 757,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "evzen_onegin_027.html",
@@ -536,9 +536,9 @@
   ],
   "totals": {
     "all": {
-      "words": 30909,
-      "chars": 164959,
-      "ideas": 6577
+      "words": 30977,
+      "chars": 165378,
+      "ideas": 6586
     },
     "chapters": {
       "words": 30858,
