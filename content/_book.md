@@ -11,6 +11,8 @@ meta:
   modified: '2022-02-11T10:02:59.873Z'
   publisherShort: mkp
   languageCode: cs
+  contentType: prose
+  edition: beletrie
 readingOrder:
   - promo.html
   - evzen_onegin_005.html
