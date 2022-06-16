@@ -7,7 +7,9 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-02-11T10:02:59.873Z",
       "publisherShort": "mkp",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "contentType": "prose",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven1cast mlpuroven1zvlastnipripady mlpuroven2basneevzen ",
@@ -637,6 +639,6 @@
       "user": "books-are-next",
       "repo": "puskin-evzen-onegin"
     },
-    "generatedAt": 1655271672563
+    "generatedAt": 1655364308246
   }
 }
