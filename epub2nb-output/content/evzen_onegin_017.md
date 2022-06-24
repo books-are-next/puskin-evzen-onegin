@@ -1,6 +1,6 @@
 ---
 title: HLAVA ŠESTÁ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Ediční poznámka
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -11,6 +11,6 @@ Román ve verších __Evžen Oněgin__ vznikal více než sedm let. Byl dokonče
 
 <section>
 
-Redakce MKP
+_Redakce MKP_
 
 </section>

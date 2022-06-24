@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -677,7 +677,7 @@ Jeť láska pánem svého vězně
 a neutají srdce žal.  
 Zde máte list, jejž Evžen psal:
 
-ONĚGINŮV DOPIS TAŤÁNĚ
+_ONĚGINŮV DOPIS TAŤÁNĚ_
 
 </section>
 

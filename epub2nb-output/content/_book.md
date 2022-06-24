@@ -4,15 +4,15 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
   title: Evžen Oněgin
   identifier: 6b021565-2647-4cf3-ab71-d6b613272ca1
   author: Alexandr Sergejevič Puškin
   publisher: Městská knihovna v Praze
   modified: '2022-02-11T10:02:59.873Z'
   publisherShort: mkp
-  languageCode: cs
-  contentType: prose
-  edition: beletrie
+  contentType: poetry
+  edition: poezie
 readingOrder:
   - promo.html
   - evzen_onegin_005.html
@@ -102,9 +102,7 @@ tocBase:
             hiddenTitle: false
         listType: plain
       - link: evzen_onegin_027.html
-        title: |-
-          Ediční
-          poznámka
+        title: Ediční poznámka
         hiddenTitle: false
     isSection: true
     listType: plain

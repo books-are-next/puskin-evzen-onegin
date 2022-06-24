@@ -1,15 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Evžen Oněgin",
       "identifier": "6b021565-2647-4cf3-ab71-d6b613272ca1",
       "author": "Alexandr Sergejevič Puškin",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-02-11T10:02:59.873Z",
       "publisherShort": "mkp",
-      "languageCode": "cs",
-      "contentType": "prose",
-      "edition": "beletrie"
+      "contentType": "poetry",
+      "edition": "poezie"
     },
     "elements": {
       "title": "mlpuroven1cast mlpuroven1zvlastnipripady mlpuroven2basneevzen ",
@@ -25,7 +25,9 @@
       "brAfter": "",
       "blockquote": "mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle  mlptextuprostredi mlpvenovani",
       "figure": "",
-      "em": "mlpvenovani mlpznakkurziva11b mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle mlptextuprostredi msonormal calibre15",
+      "centered": "",
+      "verse": "mlpversebezpred mlpversebezpred1 mlpversebezpred2 ",
+      "em": "mlpvenovani mlpznakkurziva11b mlpvenovanivlevocxspfirst mlpvenovanivlevocxspmiddle mlptextuprostredi msonormal calibre15 mlptextdopravai mlptextuprostredi12pred\n",
       "strong": "mlpznaktucne mlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -327,7 +329,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "title": "Ediční\npoznámka",
+            "title": "Ediční poznámka",
             "children": []
           },
           {
@@ -639,6 +641,6 @@
       "user": "books-are-next",
       "repo": "puskin-evzen-onegin"
     },
-    "generatedAt": 1655979475922
+    "generatedAt": 1656077061421
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: PUTOVÁNÍ ONĚGINOVO
-contentType: prose
+contentType: poetry
 ---
 
 <section>

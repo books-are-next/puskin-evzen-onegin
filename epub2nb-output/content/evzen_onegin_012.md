@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -656,7 +656,7 @@ pobledlý snímek živé malby;
 či plachou žačkou zvečera  
 zahraná hudba z Webera.
 
-TAŤÁNIN DOPIS ONĚGINOVI
+_TAŤÁNIN DOPIS ONĚGINOVI_
 
 </section>
 
@@ -925,7 +925,7 @@ jahody jísti při sbírání.
 Ať píseň ústa zacpává.  
 Toť šlechta vynalézavá!)
 
-PÍSEŇ DĚVČAT
+_PÍSEŇ DĚVČAT_
 
 </section>
 

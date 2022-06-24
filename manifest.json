@@ -5,11 +5,11 @@
   "title": "Evžen Oněgin",
   "author": "Alexandr Sergejevič Puškin",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "puskin-evzen-onegin-90651cc",
-  "revision": "90651cc",
+  "identifier": "puskin-evzen-onegin-c4bf533",
+  "revision": "c4bf533",
   "readingOrder": [
     "promo.html",
     "evzen_onegin_005.html",
@@ -38,8 +38,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:23:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979781298
+    "date": "Fri Jun 24 2022 13:26:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656077163854
   },
   "documents": [
     {
@@ -538,7 +538,7 @@
   "totals": {
     "all": {
       "words": 30997,
-      "chars": 165521,
+      "chars": 165519,
       "ideas": 6588
     },
     "chapters": {
