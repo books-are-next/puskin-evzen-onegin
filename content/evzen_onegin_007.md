@@ -1,6 +1,6 @@
 ---
 title: HLAVA PRVNÍ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

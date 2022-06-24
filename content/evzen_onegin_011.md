@@ -1,6 +1,6 @@
 ---
 title: HLAVA TŘETÍ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

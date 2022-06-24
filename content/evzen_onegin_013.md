@@ -1,6 +1,6 @@
 ---
 title: HLAVA ČTVRTÁ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

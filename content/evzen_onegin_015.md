@@ -1,6 +1,6 @@
 ---
 title: HLAVA PÁTÁ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

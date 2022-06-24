@@ -1,6 +1,6 @@
 ---
 title: ONĚGINOVO ALBUM
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: HLAVA OSMÁ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

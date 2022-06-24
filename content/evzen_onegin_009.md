@@ -1,6 +1,6 @@
 ---
 title: HLAVA DRUHÁ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

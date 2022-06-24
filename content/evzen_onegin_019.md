@@ -1,6 +1,6 @@
 ---
 title: HLAVA SEDMÁ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

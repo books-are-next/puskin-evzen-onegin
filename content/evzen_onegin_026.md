@@ -1,6 +1,6 @@
 ---
 title: VYNECHANÉ SLOKY
-contentType: prose
+contentType: poetry
 ---
 
 <section>
