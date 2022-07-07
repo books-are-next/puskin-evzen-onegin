@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "puskin-evzen-onegin-c4bf533",
-  "revision": "c4bf533",
+  "identifier": "puskin-evzen-onegin-72fdd96",
+  "revision": "72fdd96",
   "readingOrder": [
     "promo.html",
     "evzen_onegin_005.html",
@@ -35,11 +35,11 @@
     "evzen_onegin_025.html",
     "evzen_onegin_026.html",
     "evzen_onegin_027.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 24 2022 13:26:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656077163854
+    "date": "Thu Jul 07 2022 08:37:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183045308
   },
   "documents": [
     {
@@ -503,7 +503,7 @@
       "role": "chapter",
       "order": 23,
       "prev": "evzen_onegin_026.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -516,11 +516,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 132,
-      "chars": 892,
+      "chars": 891,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "evzen_onegin_027.html",
       "next": null,
@@ -538,7 +538,7 @@
   "totals": {
     "all": {
       "words": 30997,
-      "chars": 165519,
+      "chars": 165518,
       "ideas": 6588
     },
     "chapters": {

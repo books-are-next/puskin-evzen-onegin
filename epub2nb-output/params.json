@@ -62,7 +62,7 @@
             "filename": "evzen_onegin_003.md",
             "xhtml": "evzen_onegin_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -72,7 +72,7 @@
             "filename": "evzen_onegin_004.md",
             "xhtml": "evzen_onegin_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -336,7 +336,7 @@
             "filename": "evzen_onegin_028.md",
             "xhtml": "evzen_onegin_028.html",
             "id": 27,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -641,6 +641,6 @@
       "user": "books-are-next",
       "repo": "puskin-evzen-onegin"
     },
-    "generatedAt": 1656077061421
+    "generatedAt": 1657182372608
   }
 }

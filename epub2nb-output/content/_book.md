@@ -38,7 +38,7 @@ readingOrder:
   - evzen_onegin_025.html
   - evzen_onegin_026.html
   - evzen_onegin_027.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
