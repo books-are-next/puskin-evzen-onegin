@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "puskin-evzen-onegin-dac90a8",
-  "revision": "dac90a8",
+  "identifier": "puskin-evzen-onegin-af246f6",
+  "revision": "af246f6",
   "readingOrder": [
     "promo.html",
     "evzen_onegin_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:52:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187540419
+    "date": "Thu Jul 21 2022 14:45:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414740143
   },
   "documents": [
     {
@@ -518,7 +518,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 132,
-      "chars": 891,
+      "chars": 892,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -538,7 +538,7 @@
   "totals": {
     "all": {
       "words": 30997,
-      "chars": 165518,
+      "chars": 165519,
       "ideas": 6588
     },
     "chapters": {
