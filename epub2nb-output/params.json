@@ -9,7 +9,8 @@
       "modified": "2022-02-11T10:02:59.873Z",
       "publisherShort": "mkp",
       "contentType": "poetry",
-      "edition": "poezie"
+      "edition": "poezie",
+      "isbn": "978-80-274-2843-4"
     },
     "elements": {
       "title": "mlpuroven1cast mlpuroven1zvlastnipripady mlpuroven2basneevzen ",
@@ -641,6 +642,6 @@
       "user": "books-are-next",
       "repo": "puskin-evzen-onegin"
     },
-    "generatedAt": 1665415901516
+    "generatedAt": 1666030431467
   }
 }
