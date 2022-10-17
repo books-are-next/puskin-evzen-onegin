@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   contentType: poetry
   edition: poezie
+  isbn: 978-80-274-2843-4
 readingOrder:
   - promo.html
   - evzen_onegin_005.html
