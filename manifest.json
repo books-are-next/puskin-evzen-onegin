@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "puskin-evzen-onegin-350b0e3",
-  "revision": "350b0e3",
+  "identifier": "puskin-evzen-onegin-1011637",
+  "revision": "1011637",
   "readingOrder": [
     "promo.html",
     "evzen_onegin_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 17 2022 18:15:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1666030510575
+    "date": "Fri Oct 21 2022 11:42:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352572968
   },
   "documents": [
     {
